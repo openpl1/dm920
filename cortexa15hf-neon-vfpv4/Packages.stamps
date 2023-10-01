@@ -6841,7 +6841,6 @@
 1696105198 strace-dev_6.5-r0_cortexa15hf-neon-vfpv4.ipk
 1696105198 strace-doc_6.5-r0_cortexa15hf-neon-vfpv4.ipk
 1696105198 strace_6.5-r0_cortexa15hf-neon-vfpv4.ipk
-1696106828 streamlink_${GITPKGVTAG}-r0_cortexa15hf-neon-vfpv4.ipk
 1696107151 streamripper-dbg_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1696107151 streamripper-dev_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1696107151 streamripper-doc_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
@@ -7222,5 +7221,9 @@
 1696107151 zstd-doc_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1696107151 zstd-staticdev_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1696107151 zstd_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
-1696108998 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1696108998 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1696144017 enigma2-plugin-extensions-xmodem-dbg_1+git22+0458a1c0+0458a1cf91-r0_cortexa15hf-neon-vfpv4.ipk
+1696144017 enigma2-plugin-extensions-xmodem-dev_1+git22+0458a1c0+0458a1cf91-r0_cortexa15hf-neon-vfpv4.ipk
+1696144017 enigma2-plugin-extensions-xmodem_1+git22+0458a1c0+0458a1cf91-r0_cortexa15hf-neon-vfpv4.ipk
+1696144047 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1696144047 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1696144017 streamlink_${GITPKGVTAG}-r0_cortexa15hf-neon-vfpv4.ipk
