@@ -561,6 +561,202 @@ OE: enigma2-plugin-extensions-epgimport-rytec
 License: GPL-2.0-or-later
 Priority: optional
 
+Package: enigma2-plugin-extensions-jediepgxtream-dbg
+Version: 1.01+git16+20be7db0+20be7db2d3-r2
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 42b4fe2c36c6a19518bd84a2a22233b2
+SHA256sum: 1ba7a5018e83524ab3465ca07248fb5d63a509789d99c068a016d25dde172cb6
+Size: 710
+Filename: enigma2-plugin-extensions-jediepgxtream-dbg_1.01+git16+20be7db0+20be7db2d3-r2_all.ipk
+Source: enigma2-plugin-extensions-jediepgxtream.bb
+Description: enigma2-plugin-extensions-jediepgxtream version 1.01+git-r2 - Debugging files
+OE: enigma2-plugin-extensions-jediepgxtream
+HomePage: https://github.com/kiddac/Jedi-EPG-XStream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-jediepgxtream-dev
+Version: 1.01+git16+20be7db0+20be7db2d3-r2
+Recommends: enigma2-plugin-extensions-jediepgxtream (= 1.01+git16+20be7db0+20be7db2d3-r2), python3-backports-lzma-dev
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 04cfea987ff1c7281392a454f2295bf8
+SHA256sum: ecd58a8ea5b228ca783fc3c2722479395e5326a8ae01d0e2cc96fd3ef8de2457
+Size: 764
+Filename: enigma2-plugin-extensions-jediepgxtream-dev_1.01+git16+20be7db0+20be7db2d3-r2_all.ipk
+Source: enigma2-plugin-extensions-jediepgxtream.bb
+Description: enigma2-plugin-extensions-jediepgxtream version 1.01+git-r2 - Development files
+OE: enigma2-plugin-extensions-jediepgxtream
+HomePage: https://github.com/kiddac/Jedi-EPG-XStream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-jediepgxtream-src
+Version: 1.01+git16+20be7db0+20be7db2d3-r2
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 6c62f76dc634372418a39c5d1d252d6e
+SHA256sum: 24ee2fd85457582cee13f7c8531b2b45470a1dec157d25f1701c6b115c5766de
+Size: 8828
+Filename: enigma2-plugin-extensions-jediepgxtream-src_1.01+git16+20be7db0+20be7db2d3-r2_all.ipk
+Source: enigma2-plugin-extensions-jediepgxtream.bb
+Description: enigma2-plugin-extensions-jediepgxtream version 1.01+git-r2 - Source files
+OE: enigma2-plugin-extensions-jediepgxtream
+HomePage: https://github.com/kiddac/Jedi-EPG-XStream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-jediepgxtream
+Version: 1.01+git16+20be7db0+20be7db2d3-r2
+Section: base
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 77c53608b07e060bab125f5584703150
+SHA256sum: 37bc60f0459d2637887151487c00b180868d053bf9a3609ec58eb539428e629c
+Size: 248892
+Filename: enigma2-plugin-extensions-jediepgxtream_1.01+git16+20be7db0+20be7db2d3-r2_all.ipk
+Source: enigma2-plugin-extensions-jediepgxtream.bb
+Description: enigma2-plugin-extensions-jediepgxtream version 1.01+git-r2
+OE: enigma2-plugin-extensions-jediepgxtream
+HomePage: https://github.com/kiddac/Jedi-EPG-XStream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-jedimakerxtream-dbg
+Version: 1.01+git161+298e91f0+298e91fcd3-r2
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 594c67a11fadae73a1a54942f0a27fce
+SHA256sum: 896b539202fa45e155c00d49c26788d113ac79b65762da936155d7e209715338
+Size: 742
+Filename: enigma2-plugin-extensions-jedimakerxtream-dbg_1.01+git161+298e91f0+298e91fcd3-r2_all.ipk
+Source: enigma2-plugin-extensions-jedimakerxtream.bb
+Description: enigma2-plugin-extensions-jedimakerxtream version 1.01+git-r2 - Debugging files
+OE: enigma2-plugin-extensions-jedimakerxtream
+HomePage: https://github.com/kiddac/Jedi_Maker_Xtream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-jedimakerxtream-dev
+Version: 1.01+git161+298e91f0+298e91fcd3-r2
+Recommends: enigma2-plugin-extensions-jedimakerxtream (= 1.01+git161+298e91f0+298e91fcd3-r2), python3-backports-lzma-dev
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 748c7c7779164c844e45d80c73bdd5ee
+SHA256sum: b804a977d02f27e4e09358bf08770b9f60b105f9d75978f444c0df11e9bee770
+Size: 798
+Filename: enigma2-plugin-extensions-jedimakerxtream-dev_1.01+git161+298e91f0+298e91fcd3-r2_all.ipk
+Source: enigma2-plugin-extensions-jedimakerxtream.bb
+Description: enigma2-plugin-extensions-jedimakerxtream version 1.01+git-r2 - Development files
+OE: enigma2-plugin-extensions-jedimakerxtream
+HomePage: https://github.com/kiddac/Jedi_Maker_Xtream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-jedimakerxtream-src
+Version: 1.01+git161+298e91f0+298e91fcd3-r2
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 04acad8ac87cad33524e5b016737c2be
+SHA256sum: fb8d836c73ebbdeb3132086d8198a527c19ad6eca4b0c4478aeac811e751bc38
+Size: 30454
+Filename: enigma2-plugin-extensions-jedimakerxtream-src_1.01+git161+298e91f0+298e91fcd3-r2_all.ipk
+Source: enigma2-plugin-extensions-jedimakerxtream.bb
+Description: enigma2-plugin-extensions-jedimakerxtream version 1.01+git-r2 - Source files
+OE: enigma2-plugin-extensions-jedimakerxtream
+HomePage: https://github.com/kiddac/Jedi_Maker_Xtream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-jedimakerxtream
+Version: 1.01+git161+298e91f0+298e91fcd3-r2
+Section: base
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 80ec6ea08e1b708cec75352d08c4660c
+SHA256sum: 72eb50f0244c41b616e2dc7f39b201b66e4b2c6ac43131d20b60939f343cb8d1
+Size: 2825780
+Filename: enigma2-plugin-extensions-jedimakerxtream_1.01+git161+298e91f0+298e91fcd3-r2_all.ipk
+Source: enigma2-plugin-extensions-jedimakerxtream.bb
+Description: enigma2-plugin-extensions-jedimakerxtream version 1.01+git-r2
+OE: enigma2-plugin-extensions-jedimakerxtream
+HomePage: https://github.com/kiddac/Jedi_Maker_Xtream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xstreamity-dbg
+Version: 4.16-20230924-r0
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: e8e74fecb874a9f6384c333de11721cf
+SHA256sum: e0f40d91ce2aaf243ecebd99419c5af5e6b1c655dad8e9eec3a46c75791a2cad
+Size: 714
+Filename: enigma2-plugin-extensions-xstreamity-dbg_4.16-20230924-r0_all.ipk
+Source: enigma2-plugin-extensions-xstreamity.bb
+Description: IPTV Xtream Codes playlists player by KiddaC - Debugging files
+OE: enigma2-plugin-extensions-xstreamity
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xstreamity-dev
+Version: 4.16-20230924-r0
+Recommends: enigma2-plugin-extensions-xstreamity (= 4.16-20230924-r0), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: ae0d160fd7ec5c482edb51ef7b83de82
+SHA256sum: 5e8ac5bb2ee578fc7a24feb315cf6f457a331f91d75e78ad288d02e6019d61b5
+Size: 784
+Filename: enigma2-plugin-extensions-xstreamity-dev_4.16-20230924-r0_all.ipk
+Source: enigma2-plugin-extensions-xstreamity.bb
+Description: IPTV Xtream Codes playlists player by KiddaC - Development files
+OE: enigma2-plugin-extensions-xstreamity
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xstreamity-src
+Version: 4.16-20230924-r0
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: b09b29076b9eb841b3927b109639f212
+SHA256sum: 78ccf7fcf4315bd7100b12c80700236489566a9d2ad31a1ff9e6d26cac35ab84
+Size: 55544
+Filename: enigma2-plugin-extensions-xstreamity-src_4.16-20230924-r0_all.ipk
+Source: enigma2-plugin-extensions-xstreamity.bb
+Description: IPTV Xtream Codes playlists player by KiddaC - Source files
+OE: enigma2-plugin-extensions-xstreamity
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xstreamity
+Version: 4.16-20230924-r0
+Depends: python3-multiprocessing, python3-pillow, python3-requests
+Section: base
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 63718fbbcc15bf1bed2ec6ec423c6603
+SHA256sum: 12ee1c10bb6bc61fbc9aa45c0012abeca8e9fffc5d751f61036b9373fe7e1fab
+Size: 4336250
+Filename: enigma2-plugin-extensions-xstreamity_4.16-20230924-r0_all.ipk
+Source: enigma2-plugin-extensions-xstreamity.bb
+Description: IPTV Xtream Codes playlists player by KiddaC
+OE: enigma2-plugin-extensions-xstreamity
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
 Package: enigma2-plugin-picons-ziggo-black-button-100x60-dbg
 Version: 1.0+git131+ffc1f780+ffc1f789b2-r0
 Section: devel
@@ -2731,8 +2927,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OpenPli team
-MD5Sum: e4c2f95d8fcccd9273fb89b1cd4e0999
-SHA256sum: 15b78a1718e84413060651ef04f9b62918ff42aa0404abadbe2b9335ec667935
+MD5Sum: 75e879133ac5736fc6afcc5e1a482925
+SHA256sum: d7b5105ad0330fc846f2e73587f4092b4368854ef13781f190160c544e4356e2
 Size: 638
 Filename: fakelocale-dbg_1.0-r0_all.ipk
 Source: fakelocale.bb
@@ -2747,8 +2943,8 @@ Recommends: fakelocale (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OpenPli team
-MD5Sum: 6a67a23dbd11eabfee1695b6dce47a89
-SHA256sum: 6cdeacb8166aedf27d7785616cf901fa3a7d52e4e756a7a826f5d501ea9500e7
+MD5Sum: 443e04f50eea715522e565a841fd632c
+SHA256sum: 327a3c4b77f418622823edda165213d539508dfefe2c1b4bfd005f3a9245c1c4
 Size: 676
 Filename: fakelocale-dev_1.0-r0_all.ipk
 Source: fakelocale.bb
@@ -2759,13 +2955,13 @@ Priority: required
 
 Package: fakelocale
 Version: 1.0-r0
-Provides: virtual-locale-ar, virtual-locale-bg, virtual-locale-ca, virtual-locale-cs, virtual-locale-da, virtual-locale-de, virtual-locale-el, virtual-locale-en, virtual-locale-es, virtual-locale-et, virtual-locale-fa, virtual-locale-fi, virtual-locale-fr, virtual-locale-fy, virtual-locale-he, virtual-locale-hr, virtual-locale-hu, virtual-locale-id, virtual-locale-is, virtual-locale-it, virtual-locale-lt, virtual-locale-lv, virtual-locale-nl, virtual-locale-no, virtual-locale-pl, virtual-locale-pt, virtual-locale-ru, virtual-locale-sk, virtual-locale-sl, virtual-locale-sr, virtual-locale-sv, virtual-locale-th, virtual-locale-tr, virtual-locale-uk
+Provides: virtual-locale-ar, virtual-locale-bg, virtual-locale-ca, virtual-locale-cs, virtual-locale-da, virtual-locale-de, virtual-locale-el, virtual-locale-en, virtual-locale-es, virtual-locale-et, virtual-locale-fa, virtual-locale-fi, virtual-locale-fr, virtual-locale-fy, virtual-locale-gl, virtual-locale-he, virtual-locale-hr, virtual-locale-hu, virtual-locale-id, virtual-locale-is, virtual-locale-it, virtual-locale-ku, virtual-locale-lt, virtual-locale-lv, virtual-locale-mk, virtual-locale-nb, virtual-locale-nl, virtual-locale-nn, virtual-locale-pl, virtual-locale-pt, virtual-locale-ro, virtual-locale-ru, virtual-locale-sk, virtual-locale-sl, virtual-locale-sr, virtual-locale-sv, virtual-locale-th, virtual-locale-tr, virtual-locale-uk, virtual-locale-vi, virtual-locale-zh
 Section: base
 Architecture: all
 Maintainer: OpenPli team
-MD5Sum: fedf3beccd87d8da665a6a77c5d56110
-SHA256sum: e31760b3540c98e01efc51a9500a7b4491410b9184a3766a4cbb3228b537905c
-Size: 15856
+MD5Sum: 9542e049d8dae39d4f859229337d50d1
+SHA256sum: 0151fe3ed3ff5450358acd95b5dae144f115a0721d4a91fa753b9a36bf2f17aa
+Size: 20578
 Filename: fakelocale_1.0-r0_all.ipk
 Source: fakelocale.bb
 Description: LC_TIME locale support
@@ -6664,14 +6860,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: run-postinsts-dbg
-Version: 1.0-r10
+Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a40387669b2e11b153eccdc5de92c5c3
-SHA256sum: 6944bcf592268c5ac281ceb52676e00065bfb0478f787eb9ebbd6c3fc41c0dc9
-Size: 686
-Filename: run-postinsts-dbg_1.0-r10_all.ipk
+MD5Sum: 9fe9b82b41c80b5e0475b218188401a4
+SHA256sum: e8457661c8d68611e3cc9e79defcf75c7ce10be123340e06bf721b4908fad306
+Size: 684
+Filename: run-postinsts-dbg_1.0-r0_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Debugging files
 OE: run-postinsts
@@ -6679,15 +6875,15 @@ License: MIT
 Priority: optional
 
 Package: run-postinsts-dev
-Version: 1.0-r10
-Recommends: initscripts-dev, run-postinsts (= 1.0-r10), update-rc.d-dev
+Version: 1.0-r0
+Recommends: initscripts-dev, run-postinsts (= 1.0-r0), update-rc.d-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4206fc18c7d09bd31f77df3c07a6e3de
-SHA256sum: a4337edbc8f178575bebdaf2e484af02238897d76bea8fc13535de306e906f50
-Size: 744
-Filename: run-postinsts-dev_1.0-r10_all.ipk
+MD5Sum: ec082bdb5b65b3ef07933c27b2317435
+SHA256sum: c5f3bc52131e0724290d9617b6776526ef9e86da47e4b002070e75d01b36d145
+Size: 742
+Filename: run-postinsts-dev_1.0-r0_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Development files
 OE: run-postinsts
@@ -6695,15 +6891,15 @@ License: MIT
 Priority: optional
 
 Package: run-postinsts
-Version: 1.0-r10
+Version: 1.0-r0
 Recommends: update-rc.d
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8e77459d177d886b7753c67c53a22b89
-SHA256sum: e07df8a99e49cb349002910afeb80088c979196f169a585b104715bee40eb476
+MD5Sum: e08cf5a40bc28a80a25024c462332f5a
+SHA256sum: 7663379cf691592c65b9a0f76ceb8d7226f3dbed8a1a2e34cf8a5bdd0578b62f
 Size: 1876
-Filename: run-postinsts_1.0-r10_all.ipk
+Filename: run-postinsts_1.0-r0_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device
 OE: run-postinsts
@@ -6746,8 +6942,8 @@ Version: 1.8.3+git24+ef910750+ef9107543f-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 8adbc933567468ed147f7e94947e0418
-SHA256sum: 327641cb8a92aa9c6e04450cb57ea398fcfbd80001324d380a84c03d891c9cee
+MD5Sum: e26c8f72b52696f485540703e8286ab6
+SHA256sum: 33d45bee3da4fd6bd1228e4a0ac06120c820e2cc20c2839e01d1fd37dbb92d05
 Size: 702
 Filename: streamlinksrv-dbg_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
@@ -6763,9 +6959,9 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git24+ef910
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 9ce222a968daddd248c3989ff8834dc3
-SHA256sum: 7d46215eec6906fafbd13c83d835ad95a6c36432b3c5e6570e2cbb997126a7c5
-Size: 752
+MD5Sum: 175bcc219c88bbacd18081f15f852784
+SHA256sum: 588c800387bea39920d0914cc72574c3259a8a125a6b8b4ed7ebc82bee4df829
+Size: 750
 Filename: streamlinksrv-dev_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Development files
@@ -6780,9 +6976,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 387a38e7aec1137d4a71af65c93722b5
-SHA256sum: 83338c95240b483c1e1c34816ea4e087b55cac95603a5f5ee0634a2f465c8569
-Size: 83018
+MD5Sum: b9a820e23c956aaf46aa7d724df1ca6b
+SHA256sum: ba20faf1e5054021aa51f9b186be588fbe095c7f3dd71493dabb897c299b5bad
+Size: 83008
 Filename: streamlinksrv_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
