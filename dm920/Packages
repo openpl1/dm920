@@ -969,9 +969,9 @@ Recommends: glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, libgcc-dbg, libgstaudio-1
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 55ed69cfd8cd8714484fb425cde2b344
-SHA256sum: 5000e50c17b9de1aa25684fb3149031bfbc1b18b703f7832704a40fc2c3a9b68
-Size: 575746
+MD5Sum: d9c89f8445966d6308c4c90f0bb53f4d
+SHA256sum: efd12a780f790a46e0e8b0fc98c4854373e0d1f107c6e0d3e937083756da3f84
+Size: 576126
 Filename: enigma2-plugin-systemplugins-servicemp3-dbg_git48+837df790+837df79a8d-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version git-r0 - Debugging files
@@ -985,8 +985,8 @@ Recommends: enigma2-dev, enigma2-plugin-systemplugins-servicemp3 (= git48+837df7
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a4ec4f35b5204b396332df5fc2529a3e
-SHA256sum: 753661c88f2be80740d7c2822668a6975a9603029c150f72964a6f850d50e788
+MD5Sum: 41ee915ce55d64c9a21a78ad7dd56316
+SHA256sum: a50e44d5e879a6e29301fa6cb5a2beb76dd891f52ab6b986779e627fc9999ba7
 Size: 1100
 Filename: enigma2-plugin-systemplugins-servicemp3-dev_git48+837df790+837df79a8d-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
@@ -1002,9 +1002,9 @@ Provides: virtual/enigma2-mediaservice
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4046a61faa75a9dcccae55b7328e200f
-SHA256sum: ef5c2a3f2bba42be88dbdf7bfd5851a5de3feccd9344db984d8faf0685911bdc
-Size: 49608
+MD5Sum: edba28380a70c02f94cdd5a6a1878a38
+SHA256sum: ea41b5e28c80987f5c95425412737125f842f4bd0817f65e6645a827993fc13f
+Size: 49634
 Filename: enigma2-plugin-systemplugins-servicemp3_git48+837df790+837df79a8d-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version git-r0
