@@ -203,13 +203,13 @@ Priority: optional
 Package: enigma2-dev
 Version: 3.11+git69+1ee639b0+1ee639b51b-r0
 Depends: enigma2
-Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma2 (= 3.11+git69+1ee639b0+1ee639b51b-r0), enigma2-fonts-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-iso8859-15-dev, hotplug-e2-helper-dev, jpeg-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython3-dev, libsigc++-3-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, openssl-dev, python3-codecs-dev, python3-core-dev, python3-crypt-dev, python3-dev, python3-fcntl-dev, python3-logging-dev, python3-mmap-dev, python3-netclient-dev, python3-netserver-dev, python3-numbers-dev, python3-pickle-dev, python3-pyusb-dev, python3-service-identity-dev, python3-shell-dev, python3-threading-dev, python3-twisted-core-dev, python3-twisted-dev, python3-twisted-web-dev, python3-urllib3-dev, python3-wifi-dev, python3-xml-dev, python3-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, virtual/blindscan-dvbc-dev, wireless-tools-dev, wpa-supplicant-dev
+Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma2 (= 3.11+git69+1ee639b0+1ee639b51b-r0), enigma2-fonts-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-iso8859-15-dev, hotplug-e2-helper-dev, jpeg-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython3-dev, libsigc++-3-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, openssl-dev, python3-codecs-dev, python3-core-dev, python3-crypt-dev, python3-dev, python3-fcntl-dev, python3-logging-dev, python3-mmap-dev, python3-netclient-dev, python3-netserver-dev, python3-numbers-dev, python3-pickle-dev, python3-process-dev, python3-pyusb-dev, python3-service-identity-dev, python3-shell-dev, python3-threading-dev, python3-twisted-core-dev, python3-twisted-dev, python3-twisted-web-dev, python3-urllib3-dev, python3-wifi-dev, python3-xml-dev, python3-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, virtual/blindscan-dvbc-dev, wireless-tools-dev, wpa-supplicant-dev
 Section: devel
 Architecture: dm920
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 81caf2145238d5d323460f92f87ea44b
-SHA256sum: ea2b1aeb2e9594332a2c9012e353ce9f149cf7a27f8076d8e3043a037bdb9c93
-Size: 128300
+MD5Sum: f656e02784ce625b2a188a4226de36e2
+SHA256sum: 071063e15824ce52d571c91190f3dfc3d09790d425208230f1d6a80ae346252b
+Size: 128306
 Filename: enigma2-dev_3.11+git69+1ee639b0+1ee639b51b-r0_dm920.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files
@@ -359,8 +359,8 @@ Version: 1.5.2-203-g8032b1c7-r0
 Section: devel
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: 90b467266c51c80912f2b5e577f70554
-SHA256sum: 4cd2fb4d1d2b6e04f02d1ebf851e7185f5f7893cda0508f98c2a45f36e3f7e17
+MD5Sum: e6f88f46f884e25672689a28ff70b698
+SHA256sum: c74b537fef7243da65f2b83bee61d5f0e178a370c5bc153778b77d0928777dbd
 Size: 696
 Filename: enigma2-plugin-extensions-openwebif-dbg_1.5.2-203-g8032b1c7-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
@@ -375,8 +375,8 @@ Recommends: aio-grab-dev, enigma2-plugin-extensions-openwebif (= 1.5.2-203-g8032
 Section: devel
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: 02d25f49cc50abe257e2c5d8588555e3
-SHA256sum: e156f6336ad54633de25ca78db586aa017e5be70cd29709bc6a432a0767a3c15
+MD5Sum: 844bd9e2f921c71a5180f7b0321e2d8d
+SHA256sum: 67bec6b6e95792e01120b120b89a936677f4e38bb1b8e688241586d8b743d3d4
 Size: 818
 Filename: enigma2-plugin-extensions-openwebif-dev_1.5.2-203-g8032b1c7-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
@@ -392,9 +392,9 @@ Provides: enigma2-plugin-extensions-openwebif-terminal
 Section: base
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: c202cbf09c4f92b5328fdb4f199a0bf6
-SHA256sum: b4e12d3f1356c61c8b93394c45cbc840e42e7cbff0fef92714b5321fc6b6684a
-Size: 3149734
+MD5Sum: 1c3b64749f2f211a3b81bc7809dff333
+SHA256sum: 654d260e6511bba3c49e4b6238b9d61a6f754f4feb8cc5e145b91082bcd8396f
+Size: 3149858
 Filename: enigma2-plugin-extensions-openwebif_1.5.2-203-g8032b1c7-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0
@@ -1122,16 +1122,16 @@ Priority: optional
 
 Package: enigma2
 Version: 3.11+git69+1ee639b0+1ee639b51b-r0
-Depends: alsa-conf, enigma2-fonts, ethtool, font-valis-enigma, glibc-gconv-iso8859-15, libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.38+git0+750a45a783), libcrypt2 (>= 4.4.36), libcrypto3 (>= 3.1.3), libdreamdvd0 (>= 1.0+git217+02a0e7c0+02a0e7cb0c), libdvbsi++1 (>= 0.3.9), libfreetype6 (>= 2.13.2), libfribidi0 (>= 1.0.13), libgcc1 (>= 13.2.0), libgif7 (>= 5.2.1), libglib-2.0-0 (>= 2.78.0), libgomp1 (>= 13.2.0), libjpeg62 (>= 3.0.0), libpng16-16 (>= 1.6.40), libpython3.11-1.0 (>= 3.11.6), libsigc-3.0-0 (>= 3.2.0), libssl3 (>= 3.1.3), libstdc++6 (>= 13.2.0), libtuxtxt0 (>= 2.0+git82+14027950+1402795d66), libtuxtxt32bpp0 (>= 2.0+git82+14027950+1402795d66), libudfread0 (>= 1.0.0+git108+b3e69360+b3e6936a23), libxml2 (>= 2.11.5), python3-codecs, python3-core, python3-crypt, python3-fcntl, python3-logging, python3-mmap, python3-netclient, python3-netserver, python3-numbers, python3-pickle, python3-pyusb, python3-service-identity, python3-shell, python3-threading, python3-twisted, python3-twisted-core, python3-urllib3, python3-xml, python3-zopeinterface, virtual/blindscan-dvbc
+Depends: alsa-conf, enigma2-fonts, ethtool, font-valis-enigma, glibc-gconv-iso8859-15, libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.38+git0+750a45a783), libcrypt2 (>= 4.4.36), libcrypto3 (>= 3.1.3), libdreamdvd0 (>= 1.0+git217+02a0e7c0+02a0e7cb0c), libdvbsi++1 (>= 0.3.9), libfreetype6 (>= 2.13.2), libfribidi0 (>= 1.0.13), libgcc1 (>= 13.2.0), libgif7 (>= 5.2.1), libglib-2.0-0 (>= 2.78.0), libgomp1 (>= 13.2.0), libjpeg62 (>= 3.0.0), libpng16-16 (>= 1.6.40), libpython3.11-1.0 (>= 3.11.6), libsigc-3.0-0 (>= 3.2.0), libssl3 (>= 3.1.3), libstdc++6 (>= 13.2.0), libtuxtxt0 (>= 2.0+git82+14027950+1402795d66), libtuxtxt32bpp0 (>= 2.0+git82+14027950+1402795d66), libudfread0 (>= 1.0.0+git108+b3e69360+b3e6936a23), libxml2 (>= 2.11.5), python3-codecs, python3-core, python3-crypt, python3-fcntl, python3-logging, python3-mmap, python3-netclient, python3-netserver, python3-numbers, python3-pickle, python3-process, python3-pyusb, python3-service-identity, python3-shell, python3-threading, python3-twisted, python3-twisted-core, python3-urllib3, python3-xml, python3-zopeinterface, virtual/blindscan-dvbc
 Replaces: enigma2-plugin-pli-softcamsetup
 Conflicts: enigma2-plugin-pli-softcamsetup
 Recommends: enigma2-plugin-skins-pli-hd, glibc-gconv-utf-16, hotplug-e2-helper, libdvdcss, python-sendfile, virtual/enigma2-mediaservice
 Section: base
 Architecture: dm920
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 856b635d92875217b78982d6f44e8c20
-SHA256sum: 70918b9ee3b963f22f821111f6a5c05a602b53e03b6e7501d0da12db4297c92a
-Size: 7108282
+MD5Sum: c48c250d16db66b2420285d4f413308e
+SHA256sum: a5f77534118ca5344a1d95e83ee7a136a67e54b4944ead93ab6b87cdaf8b6daa
+Size: 7108286
 Filename: enigma2_3.11+git69+1ee639b0+1ee639b51b-r0_dm920.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
