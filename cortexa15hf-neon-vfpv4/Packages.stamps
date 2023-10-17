@@ -806,9 +806,9 @@
 1697556852 enigma2-plugin-skins-kiddac-1080-slyk-r19-dbg_2.24_20230716-1-gaee795e-r0_cortexa15hf-neon-vfpv4.ipk
 1697556852 enigma2-plugin-skins-kiddac-1080-slyk-r19-dev_2.24_20230716-1-gaee795e-r0_cortexa15hf-neon-vfpv4.ipk
 1697556852 enigma2-plugin-skins-kiddac-1080-slyk-r19_2.24_20230716-1-gaee795e-r0_cortexa15hf-neon-vfpv4.ipk
-1697557552 enigma2-plugin-skins-proteusfhd-dbg_1.0+git33+2a4b8a80+2a4b8a8503-r0_cortexa15hf-neon-vfpv4.ipk
-1697557552 enigma2-plugin-skins-proteusfhd-dev_1.0+git33+2a4b8a80+2a4b8a8503-r0_cortexa15hf-neon-vfpv4.ipk
-1697557552 enigma2-plugin-skins-proteusfhd_1.0+git33+2a4b8a80+2a4b8a8503-r0_cortexa15hf-neon-vfpv4.ipk
+1697560991 enigma2-plugin-skins-proteusfhd-dbg_1.0+git33+2a4b8a80+2a4b8a8503-r0_cortexa15hf-neon-vfpv4.ipk
+1697560991 enigma2-plugin-skins-proteusfhd-dev_1.0+git33+2a4b8a80+2a4b8a8503-r0_cortexa15hf-neon-vfpv4.ipk
+1697560991 enigma2-plugin-skins-proteusfhd_1.0+git33+2a4b8a80+2a4b8a8503-r0_cortexa15hf-neon-vfpv4.ipk
 1697557534 enigma2-plugin-skins-satdreamgr-hd-transpba-dbg_1.0+git488+b660af10+b660af1c2a-r1_cortexa15hf-neon-vfpv4.ipk
 1697557534 enigma2-plugin-skins-satdreamgr-hd-transpba-dev_1.0+git488+b660af10+b660af1c2a-r1_cortexa15hf-neon-vfpv4.ipk
 1697557534 enigma2-plugin-skins-satdreamgr-hd-transpba_1.0+git488+b660af10+b660af1c2a-r1_cortexa15hf-neon-vfpv4.ipk
@@ -5537,6 +5537,8 @@
 1697557177 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1697557177 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1697557177 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
+1697563861 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1697563861 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1697557177 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1697557177 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1697557177 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7494,5 +7496,3 @@
 1697557177 zstd-doc_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1697557177 zstd-staticdev_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1697557177 zstd_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
-1697557570 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1697557570 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk

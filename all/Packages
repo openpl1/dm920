@@ -2799,52 +2799,6 @@ OE: enigma2-plugin-skins-magic
 License: GPL-2.0-or-later
 Priority: optional
 
-Package: enigma2-plugin-skins-octagoneightfhd-dbg
-Version: 1.0+git64+4ad0e200+4ad0e20efe-r0
-Section: devel
-Architecture: all
-Maintainer: Openeight
-MD5Sum: 19322a33052c4fccc04563f1a719cf59
-SHA256sum: 8266ec73a5a04f270938b897ede7bfa19a139e8f8a9ed88a7528a45b841f575f
-Size: 678
-Filename: enigma2-plugin-skins-octagoneightfhd-dbg_1.0+git64+4ad0e200+4ad0e20efe-r0_all.ipk
-Source: enigma2-plugin-skins-octagoneightfhd.bb
-Description: Enigma2 Skin OctagonEightFhd - Debugging files
-OE: enigma2-plugin-skins-octagoneightfhd
-License: GPL-2.0-or-later
-Priority: required
-
-Package: enigma2-plugin-skins-octagoneightfhd-dev
-Version: 1.0+git64+4ad0e200+4ad0e20efe-r0
-Recommends: enigma2-plugin-skins-octagoneightfhd (= 1.0+git64+4ad0e200+4ad0e20efe-r0)
-Section: devel
-Architecture: all
-Maintainer: Openeight
-MD5Sum: 987ac9f14068bf7146be6791bf0fba2d
-SHA256sum: cc7cb1e7008258479aab3da69ad8e0cdb53bf47c6bee4a41db7417c75fba3ee7
-Size: 714
-Filename: enigma2-plugin-skins-octagoneightfhd-dev_1.0+git64+4ad0e200+4ad0e20efe-r0_all.ipk
-Source: enigma2-plugin-skins-octagoneightfhd.bb
-Description: Enigma2 Skin OctagonEightFhd - Development files
-OE: enigma2-plugin-skins-octagoneightfhd
-License: GPL-2.0-or-later
-Priority: required
-
-Package: enigma2-plugin-skins-octagoneightfhd
-Version: 1.0+git64+4ad0e200+4ad0e20efe-r0
-Section: base
-Architecture: all
-Maintainer: Openeight
-MD5Sum: f56509163d9688254e1831cda5d2dca7
-SHA256sum: 657fb5519db2cfc029b09cac4b61ac42b99404d765c546ae12bfbbe418024113
-Size: 1790530
-Filename: enigma2-plugin-skins-octagoneightfhd_1.0+git64+4ad0e200+4ad0e20efe-r0_all.ipk
-Source: enigma2-plugin-skins-octagoneightfhd.bb
-Description: Enigma2 Skin OctagonEightFhd
-OE: enigma2-plugin-skins-octagoneightfhd
-License: GPL-2.0-or-later
-Priority: required
-
 Package: enigma2-plugin-skins-pd1loi-hd-night-dbg
 Version: 2.6.1+git533+46121d20+46121d2ca8-r0
 Section: devel
@@ -3074,52 +3028,6 @@ Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0
 OE: enigma2-plugin-skins-simple-gray
 License: GPL-3.0-only
 Priority: optional
-
-Package: enigma2-plugin-skins-smartlitefhd-dbg
-Version: 1.0+git93+8ba4e820+8ba4e82ba9-r0
-Section: devel
-Architecture: all
-Maintainer: Openeight
-MD5Sum: a0f8915fbf7590fe1d19896806e6cefd
-SHA256sum: f210a59696289b0709e5d53138b8e7ba610c213a3c9dc45389e7193ac0a36df0
-Size: 680
-Filename: enigma2-plugin-skins-smartlitefhd-dbg_1.0+git93+8ba4e820+8ba4e82ba9-r0_all.ipk
-Source: enigma2-plugin-skins-smartlitefhd.bb
-Description: Enigma2 Skin SmartLiteFHD - Debugging files
-OE: enigma2-plugin-skins-smartlitefhd
-License: GPL-2.0-or-later
-Priority: required
-
-Package: enigma2-plugin-skins-smartlitefhd-dev
-Version: 1.0+git93+8ba4e820+8ba4e82ba9-r0
-Recommends: enigma2-plugin-skins-smartlitefhd (= 1.0+git93+8ba4e820+8ba4e82ba9-r0)
-Section: devel
-Architecture: all
-Maintainer: Openeight
-MD5Sum: 8391cfb9634b9b397b8fb8338744e499
-SHA256sum: 12ec43ecf7f33961ba6d2a55c636b035ef47f6f2934e8a386a64b0682625abc9
-Size: 716
-Filename: enigma2-plugin-skins-smartlitefhd-dev_1.0+git93+8ba4e820+8ba4e82ba9-r0_all.ipk
-Source: enigma2-plugin-skins-smartlitefhd.bb
-Description: Enigma2 Skin SmartLiteFHD - Development files
-OE: enigma2-plugin-skins-smartlitefhd
-License: GPL-2.0-or-later
-Priority: required
-
-Package: enigma2-plugin-skins-smartlitefhd
-Version: 1.0+git93+8ba4e820+8ba4e82ba9-r0
-Section: base
-Architecture: all
-Maintainer: Openeight
-MD5Sum: 99ac0a4006b6d9ad52a0d8e3e749e632
-SHA256sum: ffe9891831acab9d30fa0a84fbbefc09e91b5a91e31e2f2656832d455e02667e
-Size: 2390556
-Filename: enigma2-plugin-skins-smartlitefhd_1.0+git93+8ba4e820+8ba4e82ba9-r0_all.ipk
-Source: enigma2-plugin-skins-smartlitefhd.bb
-Description: Enigma2 Skin SmartLiteFHD
-OE: enigma2-plugin-skins-smartlitefhd
-License: GPL-2.0-or-later
-Priority: required
 
 Package: fakelocale-dbg
 Version: 1.0-r0
