@@ -495,14 +495,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dbg
-Version: 1+git4459+395c5870+395c587bef-r0
+Version: 1+git4460+1d103ec0+1d103ec250-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f50bfeefd936f4613158e9be4cff0706
-SHA256sum: 5c1448dd918ccddc4f0bdde41f3f1cf7fa223bcb62d0e0c7d02372a227602e15
-Size: 730
-Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4459+395c5870+395c587bef-r0_all.ipk
+MD5Sum: a2186243ddb16c00b66bf515905f2cac
+SHA256sum: ad9ab5d7f726db6c0d95ae210308a397c94556ccb158c62269b08a55c25f0aaa
+Size: 728
+Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4460+1d103ec0+1d103ec250-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -511,15 +511,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dev
-Version: 1+git4459+395c5870+395c587bef-r0
-Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 1+git4459+395c5870+395c587bef-r0), exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python3-core-dev, python3-dev, python3-e2icjson-dev, python3-pycurl-dev, rtmpdump-dev, uchardet-dev, wget-dev
+Version: 1+git4460+1d103ec0+1d103ec250-r0
+Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 1+git4460+1d103ec0+1d103ec250-r0), exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python3-core-dev, python3-dev, python3-e2icjson-dev, python3-pycurl-dev, rtmpdump-dev, uchardet-dev, wget-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 41206b5ceb4e5ebc17f546847d162a9f
-SHA256sum: 70bdae866a752f456cef4a70df45bd1158a9d94af918b4e39f71c913be870588
+MD5Sum: 22f5dbc73245d94ad67c873b229766c8
+SHA256sum: 1d8ddb1251fa21a7b548c796a05d43d98cb99873b385b40715261752b0b10ec5
 Size: 874
-Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4459+395c5870+395c587bef-r0_all.ipk
+Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4460+1d103ec0+1d103ec250-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Development files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -528,15 +528,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer
-Version: 1+git4459+395c5870+395c587bef-r0
+Version: 1+git4460+1d103ec0+1d103ec250-r0
 Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplayer, hlsdl, iptvsubparser, lsdir, python3-core, python3-e2icjson, python3-pycurl, rtmpdump, uchardet, wget
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9acba0b439813d5fc6f587c207d64839
-SHA256sum: 6410a91a25e0bdf787feb968210bc0883abf443f3d441d5d57aae54caeb5300c
-Size: 8982570
-Filename: enigma2-plugin-extensions-e2iplayer_1+git4459+395c5870+395c587bef-r0_all.ipk
+MD5Sum: 03733677121f976aaad196e297ca3562
+SHA256sum: ccfc65c3b0fc158860c6aca3ecc79a89e4f46684631217ae45b045ac856254c9
+Size: 8982904
+Filename: enigma2-plugin-extensions-e2iplayer_1+git4460+1d103ec0+1d103ec250-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
 OE: enigma2-plugin-extensions-e2iplayer
@@ -2723,14 +2723,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dbg
-Version: 1.0+git45+3d0987f0+3d0987f15a-r0
+Version: 1.0+git47+af811f00+af811f096a-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: d12d4208cce8554e92521c5b7839eb27
-SHA256sum: f3948178aeaf3c5dba0b348103599fe86c8a2d561d82789506d4b09940816de4
+MD5Sum: 7207955e1fea62a787c05a3c7c0226d9
+SHA256sum: 08264de6c7b36c105a4611d86a70ebf184993b7051cf8d83ed8a4ff5a6203068
 Size: 690
-Filename: enigma2-plugin-skins-darkos-dbg_1.0+git45+3d0987f0+3d0987f15a-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dbg_1.0+git47+af811f00+af811f096a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-darkos
@@ -2738,15 +2738,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dev
-Version: 1.0+git45+3d0987f0+3d0987f15a-r0
-Recommends: enigma2-plugin-skins-darkos (= 1.0+git45+3d0987f0+3d0987f15a-r0)
+Version: 1.0+git47+af811f00+af811f096a-r0
+Recommends: enigma2-plugin-skins-darkos (= 1.0+git47+af811f00+af811f096a-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: e1a351b0a40520803e5b8fc7b53783d0
-SHA256sum: e83e4e911092769cc27ba3f480abbf5341e7de15dda5946e7fd02579c6b4efb3
+MD5Sum: be454ffd55293fb9b50840d4120fbc54
+SHA256sum: 83b9c3917b77c133f04a619cfeb659199a41f6569acfebd4f57abf3ae001266d
 Size: 728
-Filename: enigma2-plugin-skins-darkos-dev_1.0+git45+3d0987f0+3d0987f15a-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dev_1.0+git47+af811f00+af811f096a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-darkos
@@ -2754,14 +2754,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-src
-Version: 1.0+git45+3d0987f0+3d0987f15a-r0
+Version: 1.0+git47+af811f00+af811f096a-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 552a2240d2dc4f13567aaf0aa6e6a5f9
-SHA256sum: 3de81199e759e75b0f646a1a205d76b0b4047dc0cb3867ff2244057530e349ca
-Size: 6064
-Filename: enigma2-plugin-skins-darkos-src_1.0+git45+3d0987f0+3d0987f15a-r0_all.ipk
+MD5Sum: 2a337d196ccc5e5de2bba7b287546b57
+SHA256sum: f0db3561d3ce5bb8128e6f04300358b5d08cea5e58d2b7dc93749095dab2fdfa
+Size: 6090
+Filename: enigma2-plugin-skins-darkos-src_1.0+git47+af811f00+af811f096a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Source files
 OE: enigma2-plugin-skins-darkos
@@ -2769,14 +2769,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos
-Version: 1.0+git45+3d0987f0+3d0987f15a-r0
+Version: 1.0+git47+af811f00+af811f096a-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: cb2f51fa80941b7534c584454976ffdf
-SHA256sum: 3132d7f7fd653dde5a945c41b8dc683796138c3f2da577b5de68bb49964bf03f
-Size: 1482682
-Filename: enigma2-plugin-skins-darkos_1.0+git45+3d0987f0+3d0987f15a-r0_all.ipk
+MD5Sum: f4c34a86ed6ceb4d760416c7883afb0b
+SHA256sum: fe63ed4a51e1af2cde088780571780b1435396f27c1f8c3ccc9843ef50c6451f
+Size: 1483558
+Filename: enigma2-plugin-skins-darkos_1.0+git47+af811f00+af811f096a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-darkos
@@ -2798,6 +2798,52 @@ Description: enigma2-plugin-skins-magic version 1.0+git-r0
 OE: enigma2-plugin-skins-magic
 License: GPL-2.0-or-later
 Priority: optional
+
+Package: enigma2-plugin-skins-octagoneightfhd-dbg
+Version: 1.0+git64+4ad0e200+4ad0e20efe-r0
+Section: devel
+Architecture: all
+Maintainer: Openeight
+MD5Sum: 19322a33052c4fccc04563f1a719cf59
+SHA256sum: 8266ec73a5a04f270938b897ede7bfa19a139e8f8a9ed88a7528a45b841f575f
+Size: 678
+Filename: enigma2-plugin-skins-octagoneightfhd-dbg_1.0+git64+4ad0e200+4ad0e20efe-r0_all.ipk
+Source: enigma2-plugin-skins-octagoneightfhd.bb
+Description: Enigma2 Skin OctagonEightFhd - Debugging files
+OE: enigma2-plugin-skins-octagoneightfhd
+License: GPL-2.0-or-later
+Priority: required
+
+Package: enigma2-plugin-skins-octagoneightfhd-dev
+Version: 1.0+git64+4ad0e200+4ad0e20efe-r0
+Recommends: enigma2-plugin-skins-octagoneightfhd (= 1.0+git64+4ad0e200+4ad0e20efe-r0)
+Section: devel
+Architecture: all
+Maintainer: Openeight
+MD5Sum: 987ac9f14068bf7146be6791bf0fba2d
+SHA256sum: cc7cb1e7008258479aab3da69ad8e0cdb53bf47c6bee4a41db7417c75fba3ee7
+Size: 714
+Filename: enigma2-plugin-skins-octagoneightfhd-dev_1.0+git64+4ad0e200+4ad0e20efe-r0_all.ipk
+Source: enigma2-plugin-skins-octagoneightfhd.bb
+Description: Enigma2 Skin OctagonEightFhd - Development files
+OE: enigma2-plugin-skins-octagoneightfhd
+License: GPL-2.0-or-later
+Priority: required
+
+Package: enigma2-plugin-skins-octagoneightfhd
+Version: 1.0+git64+4ad0e200+4ad0e20efe-r0
+Section: base
+Architecture: all
+Maintainer: Openeight
+MD5Sum: f56509163d9688254e1831cda5d2dca7
+SHA256sum: 657fb5519db2cfc029b09cac4b61ac42b99404d765c546ae12bfbbe418024113
+Size: 1790530
+Filename: enigma2-plugin-skins-octagoneightfhd_1.0+git64+4ad0e200+4ad0e20efe-r0_all.ipk
+Source: enigma2-plugin-skins-octagoneightfhd.bb
+Description: Enigma2 Skin OctagonEightFhd
+OE: enigma2-plugin-skins-octagoneightfhd
+License: GPL-2.0-or-later
+Priority: required
 
 Package: enigma2-plugin-skins-pd1loi-hd-night-dbg
 Version: 2.6.1+git533+46121d20+46121d2ca8-r0
@@ -2937,6 +2983,52 @@ OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
+Package: enigma2-plugin-skins-satdreamgr-hd-dbg
+Version: 1.0+git11+744f5f60+744f5f6202-r0
+Section: devel
+Architecture: all
+Maintainer: SatDreamGR
+MD5Sum: 80c203b912ee25097b025392691a0340
+SHA256sum: a563ac6be88f208b485b5c8d133a188577ad46cc030fe7ad94ca55c69ca314ad
+Size: 682
+Filename: enigma2-plugin-skins-satdreamgr-hd-dbg_1.0+git11+744f5f60+744f5f6202-r0_all.ipk
+Source: enigma2-plugin-skins-satdreamgr-hd.bb
+Description: enigma2-plugin-skins-satdreamgr-hd version 1.0+git-r0 - Debugging files
+OE: enigma2-plugin-skins-satdreamgr-hd
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-skins-satdreamgr-hd-dev
+Version: 1.0+git11+744f5f60+744f5f6202-r0
+Recommends: enigma2-plugin-skins-satdreamgr-hd (= 1.0+git11+744f5f60+744f5f6202-r0)
+Section: devel
+Architecture: all
+Maintainer: SatDreamGR
+MD5Sum: 028a1614cf4fb5d670e5fd934e89587a
+SHA256sum: 672274ecf7a9ea221484f6761cf878cf45185d91aee4a51cb844e75b874a73ff
+Size: 720
+Filename: enigma2-plugin-skins-satdreamgr-hd-dev_1.0+git11+744f5f60+744f5f6202-r0_all.ipk
+Source: enigma2-plugin-skins-satdreamgr-hd.bb
+Description: enigma2-plugin-skins-satdreamgr-hd version 1.0+git-r0 - Development files
+OE: enigma2-plugin-skins-satdreamgr-hd
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-skins-satdreamgr-hd
+Version: 1.0+git11+744f5f60+744f5f6202-r0
+Section: base
+Architecture: all
+Maintainer: SatDreamGR
+MD5Sum: 56465bd95277784b1e1b3ac2a683e570
+SHA256sum: 441b91b7380c7811dd659e1025997d4e2d50fa067701078ec78e7a3d593858f1
+Size: 1855158
+Filename: enigma2-plugin-skins-satdreamgr-hd_1.0+git11+744f5f60+744f5f6202-r0_all.ipk
+Source: enigma2-plugin-skins-satdreamgr-hd.bb
+Description: enigma2-plugin-skins-satdreamgr-hd version 1.0+git-r0
+OE: enigma2-plugin-skins-satdreamgr-hd
+License: Proprietary
+Priority: optional
+
 Package: enigma2-plugin-skins-simple-gray-dbg
 Version: 1.0+git273+124be6c0+124be6cb20-r0
 Section: devel
@@ -2982,6 +3074,52 @@ Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0
 OE: enigma2-plugin-skins-simple-gray
 License: GPL-3.0-only
 Priority: optional
+
+Package: enigma2-plugin-skins-smartlitefhd-dbg
+Version: 1.0+git93+8ba4e820+8ba4e82ba9-r0
+Section: devel
+Architecture: all
+Maintainer: Openeight
+MD5Sum: a0f8915fbf7590fe1d19896806e6cefd
+SHA256sum: f210a59696289b0709e5d53138b8e7ba610c213a3c9dc45389e7193ac0a36df0
+Size: 680
+Filename: enigma2-plugin-skins-smartlitefhd-dbg_1.0+git93+8ba4e820+8ba4e82ba9-r0_all.ipk
+Source: enigma2-plugin-skins-smartlitefhd.bb
+Description: Enigma2 Skin SmartLiteFHD - Debugging files
+OE: enigma2-plugin-skins-smartlitefhd
+License: GPL-2.0-or-later
+Priority: required
+
+Package: enigma2-plugin-skins-smartlitefhd-dev
+Version: 1.0+git93+8ba4e820+8ba4e82ba9-r0
+Recommends: enigma2-plugin-skins-smartlitefhd (= 1.0+git93+8ba4e820+8ba4e82ba9-r0)
+Section: devel
+Architecture: all
+Maintainer: Openeight
+MD5Sum: 8391cfb9634b9b397b8fb8338744e499
+SHA256sum: 12ec43ecf7f33961ba6d2a55c636b035ef47f6f2934e8a386a64b0682625abc9
+Size: 716
+Filename: enigma2-plugin-skins-smartlitefhd-dev_1.0+git93+8ba4e820+8ba4e82ba9-r0_all.ipk
+Source: enigma2-plugin-skins-smartlitefhd.bb
+Description: Enigma2 Skin SmartLiteFHD - Development files
+OE: enigma2-plugin-skins-smartlitefhd
+License: GPL-2.0-or-later
+Priority: required
+
+Package: enigma2-plugin-skins-smartlitefhd
+Version: 1.0+git93+8ba4e820+8ba4e82ba9-r0
+Section: base
+Architecture: all
+Maintainer: Openeight
+MD5Sum: 99ac0a4006b6d9ad52a0d8e3e749e632
+SHA256sum: ffe9891831acab9d30fa0a84fbbefc09e91b5a91e31e2f2656832d455e02667e
+Size: 2390556
+Filename: enigma2-plugin-skins-smartlitefhd_1.0+git93+8ba4e820+8ba4e82ba9-r0_all.ipk
+Source: enigma2-plugin-skins-smartlitefhd.bb
+Description: Enigma2 Skin SmartLiteFHD
+OE: enigma2-plugin-skins-smartlitefhd
+License: GPL-2.0-or-later
+Priority: required
 
 Package: fakelocale-dbg
 Version: 1.0-r0
@@ -7003,8 +7141,8 @@ Version: 1.8.3+git24+ef910750+ef9107543f-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 8adbc933567468ed147f7e94947e0418
-SHA256sum: 327641cb8a92aa9c6e04450cb57ea398fcfbd80001324d380a84c03d891c9cee
+MD5Sum: e26c8f72b52696f485540703e8286ab6
+SHA256sum: 33d45bee3da4fd6bd1228e4a0ac06120c820e2cc20c2839e01d1fd37dbb92d05
 Size: 702
 Filename: streamlinksrv-dbg_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
@@ -7020,9 +7158,9 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git24+ef910
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 9ce222a968daddd248c3989ff8834dc3
-SHA256sum: 7d46215eec6906fafbd13c83d835ad95a6c36432b3c5e6570e2cbb997126a7c5
-Size: 752
+MD5Sum: 175bcc219c88bbacd18081f15f852784
+SHA256sum: 588c800387bea39920d0914cc72574c3259a8a125a6b8b4ed7ebc82bee4df829
+Size: 750
 Filename: streamlinksrv-dev_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Development files
@@ -7037,9 +7175,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 387a38e7aec1137d4a71af65c93722b5
-SHA256sum: 83338c95240b483c1e1c34816ea4e087b55cac95603a5f5ee0634a2f465c8569
-Size: 83018
+MD5Sum: b9a820e23c956aaf46aa7d724df1ca6b
+SHA256sum: ba20faf1e5054021aa51f9b186be588fbe095c7f3dd71493dabb897c299b5bad
+Size: 83008
 Filename: streamlinksrv_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
