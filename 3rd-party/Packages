@@ -247,6 +247,22 @@ HomePage: https://www.dreamosat-forum.com
 License: GPL-2.0-only
 Priority: optional
 
+Package: enigma2-plugins-alliance
+Version: gitr7585+50dd0220+50dd022338-r1
+Depends: python3-ctypes
+Section: base
+Architecture: dm920
+Maintainer: OE-Alliance team
+MD5Sum: 2ffc780f71b7b0576fa72ac983436bd2
+SHA256sum: 70ffc02c08f97a2de9625a80d717f70d69f5b2d55428d736ee02b5b0adbc941f
+Size: 2342
+Filename: enigma2-plugins-alliance_gitr7585+50dd0220+50dd022338-r1_dm920.ipk
+Source: enigma2-plugins-alliance.bb
+Description: Additional plugins for Enigma2
+OE: enigma2-plugins-alliance
+License: Proprietary
+Priority: optional
+
 Package: tar
 Version: 1.34-r0
 Description: GNU file archiving program
@@ -265,4 +281,3 @@ OE: tar
 Homepage: http://www.gnu.org/software/tar/
 Depends: libacl1 (>= 2.3.1), libc6 (>= 2.37), update-alternatives-opkg
 Source: tar_1.34.bb
-
