@@ -1,0 +1,269 @@
+Package: enigma2-plugin-extensions-ajpanel
+Version: v8.8.8
+Depends: python3-core
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Section: base
+Architecture: all
+Maintainer: AMA-Jamry
+MD5Sum: e4d7957ab11c3dd0715dfdead61322cf
+SHA256sum: 16be826149376e674b83a8f16739bf26bf7c1da39d735b6a1331a34c36bf199d
+Size: 387432
+Filename: enigma2-plugin-extensions-ajpanel_v8.8.8_all.ipk
+Source: enigma2-plugin-extensions-ajpanel.bb
+Description: Enigma2 Tools
+OE: enigma2
+HomePage: https://github.com/biko-73/AjPanel
+License: none
+Priority: optional
+
+Package: enigma2-plugin-extensions-backupsuite
+Version: git557+256d1080+256d108b0a-r0
+Depends: enigma2-plugin-extensions-backupsuite, mtd-utils, mtd-utils-ubifs, ofgwrite, python3-core
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 03447439398534d77c0c143a0d982709
+SHA256sum: 9492377f12294fb58d336e8e3d9eeb0a3992171d1513e2438da4f1a2b1e0c880
+Size: 93656
+Filename: enigma2-plugin-extensions-backupsuite_git557+256d1080+256d108b0a-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-backupsuite.bb
+Description: Enigma2 Plugin: extensions-backupsuite
+OE: enigma2-plugin-extensions-backupsuite
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-extensions-dreamosat-downloader
+Version: git42+c69db7e0+c69db7eafd-r0
+Depends: curl, libc6 (>= 2.38+git0+750a45a783), python3-core
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: audi06_19 <audi06_19@hotmail.com>
+MD5Sum: c5f70f9d641cb2215e3d3b3178855705
+SHA256sum: 4b5394a3cf91cb9a1e619bceebeb471f3a13af8a0648b4e63b9a939f5b61c950
+Size: 352336
+Filename: enigma2-plugin-extensions-dreamosat-downloader_git42+c69db7e0+c69db7eafd-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-dreamosat-downloader_git.bb
+Description: Enigma2 Plugin DreamOSat Downloader For Images by audi06_19
+OE: enigma2-plugin-extensions-dreamosat-downloader
+HomePage: https://www.dreamosat-forum.com
+License: LGPL-2.1-only & GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-extensions-dreamosat-script
+Version: git42+c69db7e0+c69db7eafd-r0
+Depends: curl, libc6 (>= 2.38+git0+750a45a783), libcurl, p7zip, python3-core
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: audi06_19 <audi06_19@hotmail.com>
+MD5Sum: a1dd65de71bf43f11a325f374997e507
+SHA256sum: b903925fc49f25da9a6179f2662d09b3e025310e19a8d10fb4fc4027ae5724b0
+Size: 1042338
+Filename: enigma2-plugin-extensions-dreamosat-script_git42+c69db7e0+c69db7eafd-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-dreamosat-script_git.bb
+Description: Enigma2 Plugin DreamOSat Script For Images by audi06_19
+OE: enigma2-plugin-extensions-dreamosat-script
+HomePage: https://www.dreamosat-forum.com
+License: LGPL-2.1-only & GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-extensions-dreamsatpanel
+Version: 1.6-r0
+Depends: libc6 (>= 2.38+git0+750a45a783), python3-imaging, python3-six
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: fcc388870d4a6852f48220ddde672401
+SHA256sum: ca14616991f4727fd02a141c6313aa470314b1d89d2edaa6d019cf3b592c60f5
+Size: 2445638
+Filename: enigma2-plugin-extensions-dreamsatpanel_1.6-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-dreamsatpanel_git.bb
+Description: enigma2-plugin-extensions-dreamsatpanel version 1.6-r0
+OE: enigma2-plugin-extensions-dreamsatpanel
+License: GPL-2.0-only
+Priority: optional
+
+Package: enigma2-plugin-extensions-epgtranslator
+Version: git3522+87d51450+87d5145b06-r0
+Depends: enigma2-alliance-plugins
+Section: base
+Architecture: dm920
+Maintainer: oe-alliance team
+MD5Sum: 8a0b1a8baab3176c7d118d4f4725e4ee
+SHA256sum: 48ad37cbf85ac921365492adaaa2b13719446f83d5918a4793bd6bc4abe4dcff
+Size: 1602772
+Filename: enigma2-plugin-extensions-epgtranslator_git3522+87d51450+87d5145b06-r0_dm920.ipk
+Source: enigma2-alliance-plugins.bb
+Description: extensions-epgtranslator
+OE: enigma2-alliance-plugins
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-extensions-epgtranslator-po
+Version: git3522+87d51450+87d5145b06-r0
+Depends: enigma2-alliance-plugins
+Section: base
+Architecture: dm920
+Maintainer: oe-alliance team
+MD5Sum: 442e67335cf9c03683a1a36db2dcd7fe
+SHA256sum: 6de589927096a085bdf72f974b5a5c9920d7cf67d937d780c7232ccff6b0519e
+Size: 5692
+Filename: enigma2-plugin-extensions-epgtranslator-po_git3522+87d51450+87d5145b06-r0_dm920.ipk
+Source: enigma2-alliance-plugins.bb
+Description: extensions-epgtranslator (translations)
+OE: enigma2-alliance-plugins
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-extensions-multi-stalkerpro
+Version: 1.0+git16+ab1d5a0-r0
+Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, libc6 (>= 2.37), python3-core, python3-cryptography
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: zKhadiri
+MD5Sum: fb3cc733630c903d14c9bac0e44bfe49
+SHA256sum: 09bece458f2ae4a4ceacfae340289c84cbdfe506d3eebd627970e80376f8ade8
+Size: 703298
+Filename: enigma2-plugin-extensions-multi-stalkerpro_1.0+git16+ab1d5a0-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-multi-stalkerpro.bb
+Description: Multi-StalkerPro Enigma2 Plugin
+OE: enigma2-plugin-extensions-multi-stalkerpro
+Homepage: https://github.com/zKhadiri/MultiStalkerPro-releases
+License: Proprietary
+Priority: required
+
+Package: enigma2-plugin-extensions-rakutentv
+Version: 20230722
+Depends: python3-core
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Section: extensions
+Architecture: all
+Maintainer: Billy2011
+MD5Sum: 42c57cf7a92c500dfa57dacb00e8ee6b
+SHA256sum: 3c305835c855d951f1fcacd4e373abc9d4a257d5e5459a724a9fff613e172afe
+Size: 543990 
+Filename: enigma2-plugin-extensions-rakutentv_20230722_all.ipk
+Source: enigma2-plugin-extensions-rakutentv.bb
+Description: Rakuten TV for Enigma2
+OE: enigma2
+HomePage: none
+License: none
+Priority: optional
+
+Package: enigma2-plugin-extensions-samsungtvplus
+Version: 20230922
+Depends: python3-core
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Section: extensions
+Architecture: all
+Maintainer: Billy2011
+MD5Sum: 8f5c5c1ca38c37db6354cffc554274fd
+SHA256sum: 941c80f8e37509ce3f02eeaeabe1a704c1c590f656213e1944f25a6b6e679e49
+Size: 171662
+Filename: enigma2-plugin-extensions-samsungtvplus_20230922_all.ipk
+Source: enigma2-plugin-extensions-samsungtvplus.bb
+Description: Samsung TV Plus for Enigma2
+OE: enigma2
+HomePage: none
+License: none
+Priority: optional
+
+Package: enigma2-plugin-extensions-sudoku
+Version: gitr7585+50dd0220+50dd022338-r1
+Depends: enigma2-plugins-alliance
+Section: base
+Architecture: dm920
+Maintainer: OE-Alliance team
+MD5Sum: 1aa4436117a4d02845f91b0a17980b6e
+SHA256sum: e643033ef7b50c32789cfe026dceaab3ca292bc3dc4e97811be88e70e17f6c4c
+Size: 304606
+Filename: enigma2-plugin-extensions-sudoku_gitr7585+50dd0220+50dd022338-r1_dm920.ipk
+Source: enigma2-plugins-alliance.bb
+Description: extensions-sudoku
+OE: enigma2-plugins-alliance
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-extensions-tetris
+Version: gitr7585+50dd0220+50dd022338-r1
+Depends: enigma2-plugins-alliance
+Section: base
+Architecture: dm920
+Maintainer: OE-Alliance team
+MD5Sum: 1685ea2d4b7e1ad489860835eff8a5ca
+SHA256sum: f4d94ec0d7ca3ceae3bbd057f905c4581e00aa3e36a616f1d89209b6123ede5d
+Size: 130920
+Filename: enigma2-plugin-extensions-tetris_gitr7585+50dd0220+50dd022338-r1_dm920.ipk
+Source: enigma2-plugins-alliance.bb
+Description: extensions-tetris
+OE: enigma2-plugins-alliance
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-extensions-vierg
+Version: gitr7585+50dd0220+50dd022338-r1
+Depends: enigma2-plugins-alliance
+Section: base
+Architecture: dm920
+Maintainer: OE-Alliance team
+MD5Sum: 4b071d2e1a7c85d061a78d1e1a6403a3
+SHA256sum: 200659d56f83108483a77d39def708b27e0208369b32c9e95ddf4c93fa0cce64
+Size: 36942
+Filename: enigma2-plugin-extensions-vierg_gitr7585+50dd0220+50dd022338-r1_dm920.ipk
+Source: enigma2-plugins-alliance.bb
+Description: extensions-vierg
+OE: enigma2-plugins-alliance
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-skins-cinogripli
+Version: git17+0fc78e40+0fc78e4b54-r0
+Recommends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-skincomponents-weathercomponent, enigma2-plugin-systemplugins-weathercomponenthandler
+Section: base
+Architecture: all
+Maintainer: audi06_19
+MD5Sum: 46160e4ba91d803ab4ee257571f751f2
+SHA256sum: 78a76ecff48ec8b23c9ceaadd9c5b9e2110c50014c8247b23574d7286d0945d5
+Size: 1338388
+Filename: enigma2-plugin-skins-cinogripli_git17+0fc78e40+0fc78e4b54-r0_all.ipk
+Source: enigma2-plugin-skins-cinogripli.bb
+Description: enigma2-plugin-skins-cinogripli version git-r0
+OE: enigma2-plugin-skins-cinogripli
+HomePage: https://www.dreamosat-forum.com
+License: GPL-2.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-octetfhd
+Version: git690+725677d0+725677d88a-r0
+Recommends: enigma2-plugin-extensions-weatherplugin
+Section: base
+Architecture: all
+Maintainer: Open Vision Developers
+MD5Sum: e6fb65f98529d85b405da93c1ff54dc1
+SHA256sum: 30463bbc7c8862f9432660cad1e0646e96f57f23b0a5ffc5de8a5a6b90781aef
+Size: 1681860
+Filename: enigma2-plugin-skins-octetfhd_git690+725677d0+725677d88a-r0_all.ipk
+Source: enigma2-plugin-skins-octetfhd.bb
+Description: Enigma2 Skin OctEtFHD
+OE: enigma2-plugin-skins-octetfhd
+License: GPL-2.0-only
+Priority: optional
+
+Package: tar
+Version: 1.34-r0
+Description: GNU file archiving program
+ GNU tar saves many files together into a single tape or disk archive, and
+ can restore individual files from the archive.
+Section: base
+Priority: optional
+Maintainer: openimage
+MD5Sum: 4b57fcec747d2814d14da2a3dd71d096
+SHA256sum: e9a8e58d6e6e32aa3dd8f264ab24086dfcd7a4e96e79df8ae12cd0f60643df22
+Size: 146716
+Filename: tar_1.34-r0_cortexa15hf-neon-vfpv4.ipk
+License: GPL-3.0-only
+Architecture: cortexa15hf-neon-vfpv4
+OE: tar
+Homepage: http://www.gnu.org/software/tar/
+Depends: libacl1 (>= 2.3.1), libc6 (>= 2.37), update-alternatives-opkg
+Source: tar_1.34.bb
+
