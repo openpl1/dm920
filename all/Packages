@@ -2846,14 +2846,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git12+44387040+4438704f5c-r0
+Version: 0.1+git14+13964580+13964581b6-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 79544c5268019d4202f3c669d56ab59a
-SHA256sum: f47fedeb5f66cc481be02c43d546f7c3a2cc928abfdd00b03dc0cc98c19d0af8
-Size: 662
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git12+44387040+4438704f5c-r0_all.ipk
+MD5Sum: 8170ce92ffdddc0d78ec768ce304df2e
+SHA256sum: 2ea7ba0977e40617cd29db376b46ac187b7d0ded3093c73890a21314adc7024f
+Size: 664
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git14+13964580+13964581b6-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+git-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-hd
@@ -2861,15 +2861,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git12+44387040+4438704f5c-r0
-Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git12+44387040+4438704f5c-r0)
+Version: 0.1+git14+13964580+13964581b6-r0
+Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git14+13964580+13964581b6-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: cd79e4a7c8811d2c72da719e38b418e1
-SHA256sum: 6f9eb60a7947997f372868e5284c76be254a10f27622f3c4c7bb6df7821440a2
-Size: 702
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git12+44387040+4438704f5c-r0_all.ipk
+MD5Sum: 09e1cf0280f6d4c52a1e3ead5a7ed50c
+SHA256sum: 36c55d0df3fb4fb40465cb205c03a7d27c7620cfb662b3c02e7a1b05fedc05cc
+Size: 704
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git14+13964580+13964581b6-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+git-r0 - Development files
 OE: enigma2-plugin-skins-pli-hd
@@ -2923,14 +2923,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git12+44387040+4438704f5c-r0
+Version: 0.1+git14+13964580+13964581b6-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 1fe05ec86fa067265b4dee4849207b3d
-SHA256sum: c292459dc9ce52892cba2d7bf1a16fc97a2464aa1bb775e99f26362b68e90b91
-Size: 601682
-Filename: enigma2-plugin-skins-pli-hd_0.1+git12+44387040+4438704f5c-r0_all.ipk
+MD5Sum: 11557d6690cbf9f4bc2b0052a77380bb
+SHA256sum: 9e3d42807c44eda47dee7f36ad633fcc95887134cd03d73bbfabe7b9686e0fd9
+Size: 601366
+Filename: enigma2-plugin-skins-pli-hd_0.1+git14+13964580+13964581b6-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+git-r0
 OE: enigma2-plugin-skins-pli-hd
@@ -7049,8 +7049,8 @@ Version: 1.8.3+git24+ef910750+ef9107543f-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: e26c8f72b52696f485540703e8286ab6
-SHA256sum: 33d45bee3da4fd6bd1228e4a0ac06120c820e2cc20c2839e01d1fd37dbb92d05
+MD5Sum: 8adbc933567468ed147f7e94947e0418
+SHA256sum: 327641cb8a92aa9c6e04450cb57ea398fcfbd80001324d380a84c03d891c9cee
 Size: 702
 Filename: streamlinksrv-dbg_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
@@ -7066,9 +7066,9 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git24+ef910
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 175bcc219c88bbacd18081f15f852784
-SHA256sum: 588c800387bea39920d0914cc72574c3259a8a125a6b8b4ed7ebc82bee4df829
-Size: 750
+MD5Sum: 9ce222a968daddd248c3989ff8834dc3
+SHA256sum: 7d46215eec6906fafbd13c83d835ad95a6c36432b3c5e6570e2cbb997126a7c5
+Size: 752
 Filename: streamlinksrv-dev_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Development files
@@ -7083,9 +7083,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: b9a820e23c956aaf46aa7d724df1ca6b
-SHA256sum: ba20faf1e5054021aa51f9b186be588fbe095c7f3dd71493dabb897c299b5bad
-Size: 83008
+MD5Sum: 387a38e7aec1137d4a71af65c93722b5
+SHA256sum: 83338c95240b483c1e1c34816ea4e087b55cac95603a5f5ee0634a2f465c8569
+Size: 83018
 Filename: streamlinksrv_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
