@@ -2984,14 +2984,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray-dbg
-Version: 1.0+git273+124be6c0+124be6cb20-r0
+Version: 1.0+git274+081887e0+081887ec00-r0
 Section: devel
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 8c801eba20442daf901e3de0951c39e2
-SHA256sum: 6f86fcdb1ee185d4a0edade14d5221bd728022332bc6d0cdb58f320fed297510
-Size: 694
-Filename: enigma2-plugin-skins-simple-gray-dbg_1.0+git273+124be6c0+124be6cb20-r0_all.ipk
+MD5Sum: 65c81a946749f0703a5f3b4f9b9fdffe
+SHA256sum: 137401f076d70b9bf0dd605c5e580c313bb489802857c29ee7bddce8c760e138
+Size: 692
+Filename: enigma2-plugin-skins-simple-gray-dbg_1.0+git274+081887e0+081887ec00-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-simple-gray
@@ -2999,15 +2999,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray-dev
-Version: 1.0+git273+124be6c0+124be6cb20-r0
-Recommends: enigma2-plugin-skins-simple-gray (= 1.0+git273+124be6c0+124be6cb20-r0)
+Version: 1.0+git274+081887e0+081887ec00-r0
+Recommends: enigma2-plugin-skins-simple-gray (= 1.0+git274+081887e0+081887ec00-r0)
 Section: devel
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 519027d276fefbd255af24f728b5dbdb
-SHA256sum: e3eca93c63a0ae9d3b9ae1c58f97ca2dfa4b1bba3ef0b97a0cf19c778312e89d
+MD5Sum: 1bf786f3cbfe362e0b8c4b5e3fef2cb1
+SHA256sum: 4c98f9849ee01cc49c5edc02cf690516470fe3c74f5509b2eaf11d3b7340f792
 Size: 730
-Filename: enigma2-plugin-skins-simple-gray-dev_1.0+git273+124be6c0+124be6cb20-r0_all.ipk
+Filename: enigma2-plugin-skins-simple-gray-dev_1.0+git274+081887e0+081887ec00-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-simple-gray
@@ -3015,14 +3015,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray
-Version: 1.0+git273+124be6c0+124be6cb20-r0
+Version: 1.0+git274+081887e0+081887ec00-r0
 Section: base
 Architecture: all
 Maintainer: Taapat
-MD5Sum: e73a9e1679e62ba780947b962262f6ce
-SHA256sum: f8b8b2b8198125b8870bfbc78936b7f6f853badb360821bd045c2906d80624e2
-Size: 323146
-Filename: enigma2-plugin-skins-simple-gray_1.0+git273+124be6c0+124be6cb20-r0_all.ipk
+MD5Sum: c0be6dd127708d79506a61a56787f7f6
+SHA256sum: 734770e7ed1e2406aae77cff6fb71fe87abed29fc7aad4d0f829a4ff5a67cfa7
+Size: 322592
+Filename: enigma2-plugin-skins-simple-gray_1.0+git274+081887e0+081887ec00-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0
 OE: enigma2-plugin-skins-simple-gray
