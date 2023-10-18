@@ -47,6 +47,21 @@ OE: enigma2-plugin-extensions-backupsuite
 License: GPL-3.0-only
 Priority: optional
 
+Package: enigma2-plugin-extensions-chefkoch
+Version: git3519+269a0990+269a099786-r0
+Depends: enigma2-alliance-plugins
+Section: base
+Architecture: dm920
+Maintainer: oe-alliance team
+MD5Sum: 102daa6c6eded76f7ce1b7187b3eb7f5
+Size: 93376
+Filename: enigma2-plugin-extensions-chefkoch_git3519+269a0990+269a099786-r0_dm920.ipk
+Source: enigma2-alliance-plugins.bb
+Description:  extensions-chefkoch
+OE: enigma2-alliance-plugins
+License: Proprietary
+Priority: optional
+
 Package: enigma2-plugin-extensions-dreamosat-downloader
 Version: git42+c69db7e0+c69db7eafd-r0
 Depends: curl, libc6 (>= 2.38+git0+750a45a783), python3-core
@@ -97,6 +112,23 @@ OE: enigma2-plugin-extensions-dreamsatpanel
 License: GPL-2.0-only
 Priority: optional
 
+Package: enigma2-plugin-extensions-enigmalight
+Version: 1.42+git136+df9097b0+df9097b60e-r12
+Depends: libc6 (>= 2.38+git0+1aed90c9c8), libgcc1 (>= 13.2.0), libstdc++6 (>= 13.2.0), libusb-1.0-0 (>= 1.0.26)
+Recommends: kernel-module-cdc-acm, kernel-module-ch341, kernel-module-ftdi-sio, kernel-module-usbserial, libusb1, python3-cheetah
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3707d92f0bb84dbb5312ba22630d1db0
+Size: 1861568
+Filename: enigma2-plugin-extensions-enigmalight_1.42+git136+df9097b0+df9097b60e-r12_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-enigmalight.bb
+Description:  enigma2-plugin-extensions-enigmalight version 1.42+git-r12
+OE: enigma2-plugin-extensions-enigmalight
+HomePage: https://github.com/oe-mirrors/enigmalight
+License: GPL-3.0-only
+Priority: optional
+
 Package: enigma2-plugin-extensions-epgtranslator
 Version: git3522+87d51450+87d5145b06-r0
 Depends: enigma2-alliance-plugins
@@ -127,6 +159,21 @@ Source: enigma2-alliance-plugins.bb
 Description: extensions-epgtranslator (translations)
 OE: enigma2-alliance-plugins
 License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-extensions-internetspeedtest
+Version: git40+46493890+4649389083-r0
+Depends: python3-core
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: madhouse
+MD5Sum: 78a8df5613d7d3028db3dd27d884de39
+Size: 699084
+Filename: enigma2-plugin-extensions-internetspeedtest_git40+46493890+4649389083-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-internetspeedtest.bb
+Description:  Internet speed test for enigma2
+OE: enigma2-plugin-extensions-internetspeedtest
+License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-multi-stalkerpro
@@ -228,6 +275,37 @@ Source: enigma2-plugins-alliance.bb
 Description: extensions-vierg
 OE: enigma2-plugins-alliance
 License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-extensions-vpnmanager
+Version: 1.1.7-py3
+Depends: python3-future, python3-json, openvpn, bash, openresolv, python3-beautifulsoup4
+Conflicts: enigma2-plugin-extensions-goldenpanel, enigma2-plugin-extensions-satvenus-panel, enigma2-plugin-extensions-goldenfeed, enigma2-plugin-extensions-persiandreambox, enigma2-plugin-extensions-dreamosat-downloader
+Section: extra
+Architecture: all
+Maintainer: murxer <support@boxpirates.to>
+MD5Sum: 52f0138fd0fb5307fa60871a29e07f8f
+Size: 491660
+Filename: enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk
+Source: https://www.boxpirates.to
+Description:  OpenVpn Verbindungen verwalten
+HomePage: https://www.boxpirates.to
+License: free
+Priority: optional
+
+Package: enigma2-plugin-extensions-weatherplugin
+Version: 2.1+git5+bf7bf8a0+bf7bf8af37-r0
+Depends: python3-core
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: dd683545c4e6baf844839bf686a087b8
+Size: 674966
+Filename: enigma2-plugin-extensions-weatherplugin_2.1+git5+bf7bf8a0+bf7bf8af37-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-weatherplugin.bb
+Description:  enigma2-plugin-extensions-weatherplugin version 2.1+git-r0
+OE: enigma2-plugin-extensions-weatherplugin
+License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-cinogripli
