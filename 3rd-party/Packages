@@ -341,6 +341,42 @@ OE: enigma2-plugins-alliance
 License: Proprietary
 Priority: optional
 
+Package: libcrypto-compat
+Version: 3.1.1-r0
+Depends: libcrypto, libssl, libxcrypt-compat
+Provides: libcrypto0.9.7, libcrypto0.9.8, libcrypto1.0.0, libcrypto1.1.1, libssl0.9.7, libssl0.9.8, libssl1.0.0, libssl1.1.1
+Replaces: libcrypto0.9.7, libcrypto0.9.8, libcrypto1.0.0, libcrypto1.1.1, libssl0.9.7, libssl0.9.8, libssl1.0.0, libssl1.1.1
+Conflicts: libcrypto0.9.7, libcrypto0.9.8, libcrypto1.0.0, libcrypto1.1.1, libssl0.9.7, libssl0.9.8, libssl1.0.0, libssl1.1.1
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 955fe0bbd6bcfca518dd7ce4a1f5dd31
+SHA256sum: b7830e20b887b92c898c075ac0487049ed81df25f032d56cc21ac8b8f34c671a
+Size: 876
+Filename: libcrypto-compat_3.1.1-r0_cortexa15hf-neon-vfpv4.ipk
+Source: libcrypto-compat_3.1.1.bb
+Description: Compatibility for packages that link to older libcrypto or libssl
+OE: libcrypto-compat
+License: GPL-2.0-only
+Priority: optional
+
+Package: libxcrypt-compat
+Version: 4.4.35-r0
+Depends: libc6 (>= 2.37)
+Section: libs
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9280d0aa915f74c985eb7b10f960767b
+SHA256sum: 643801b768eba33779e91a31661257d1229c0b2408ac4225345280c759444ccd
+Size: 70314
+Filename: libxcrypt-compat_4.4.35-r0_cortexa15hf-neon-vfpv4.ipk
+Source: libxcrypt-compat_4.4.35.bb
+Description: Extended cryptographic library (from glibc)
+OE: libxcrypt-compat
+HomePage: https://github.com/besser82/libxcrypt
+License: LGPL-2.1-only
+Priority: optional
+
 Package: tar
 Version: 1.34-r0
 Description: GNU file archiving program
