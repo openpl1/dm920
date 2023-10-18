@@ -193,6 +193,21 @@ Homepage: https://github.com/zKhadiri/MultiStalkerPro-releases
 License: Proprietary
 Priority: required
 
+Package: enigma2-plugin-extensions-plutotv
+Version: 20230812
+Section: extensions
+Priority: optional
+Architecture: all
+Maintainer: Billy2011
+Description: Pluto TV for Enigma2
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Source: enigma2-plugin-extensions-plutotv.bb
+Homepage: none
+License: none
+Filename: enigma2-plugin-extensions-plutotv_20230812_all.ipk
+Size: 503662
+MD5Sum: f8d43db62889e69997818c15dbf88fbc
+
 Package: enigma2-plugin-extensions-rakutentv
 Version: 20230722
 Depends: python3-core
