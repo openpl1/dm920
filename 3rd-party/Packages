@@ -227,22 +227,19 @@ License: none
 Priority: optional
 
 Package: enigma2-plugin-extensions-samsungtvplus
-Version: 20230922
-Depends: python3-core
-Recommends: enigma2-plugin-systemplugins-serviceapp
+Version: 20231005-r1
 Section: extensions
+Priority: optional
 Architecture: all
 Maintainer: Billy2011
-MD5Sum: 8f5c5c1ca38c37db6354cffc554274fd
-SHA256sum: 941c80f8e37509ce3f02eeaeabe1a704c1c590f656213e1944f25a6b6e679e49
-Size: 171662
-Filename: enigma2-plugin-extensions-samsungtvplus_20230922_all.ipk
-Source: enigma2-plugin-extensions-samsungtvplus.bb
 Description: Samsung TV Plus for Enigma2
-OE: enigma2
-HomePage: none
-License: none
-Priority: optional
+Depends: enigma2-plugin-extensions-epgimport
+Recommends: enigma2-plugin-systemplugins-serviceapp
+Source: enigma2-plugin-extensions-samsungtvplus.bb
+Homepage: none
+Filename: enigma2-plugin-extensions-samsungtvplus_20231005-r1_all.ipk
+Size: 173402
+MD5Sum: fb1bf97cad13c7b23e0ed423ddfbeb41
 
 Package: enigma2-plugin-extensions-sudoku
 Version: gitr7585+50dd0220+50dd022338-r1
