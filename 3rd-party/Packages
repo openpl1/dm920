@@ -305,21 +305,6 @@ HomePage: https://www.boxpirates.to
 License: free
 Priority: optional
 
-Package: enigma2-plugin-extensions-weatherplugin
-Version: 2.1+git5+bf7bf8a0+bf7bf8af37-r0
-Depends: python3-core
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dd683545c4e6baf844839bf686a087b8
-Size: 674966
-Filename: enigma2-plugin-extensions-weatherplugin_2.1+git5+bf7bf8a0+bf7bf8af37-r0_cortexa15hf-neon-vfpv4.ipk
-Source: enigma2-plugin-extensions-weatherplugin.bb
-Description:  enigma2-plugin-extensions-weatherplugin version 2.1+git-r0
-OE: enigma2-plugin-extensions-weatherplugin
-License: GPL-3.0-only
-Priority: optional
-
 Package: enigma2-plugin-skins-cinogripli
 Version: git17+0fc78e40+0fc78e4b54-r0
 Recommends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-skincomponents-weathercomponent, enigma2-plugin-systemplugins-weathercomponenthandler
