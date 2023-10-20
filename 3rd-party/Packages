@@ -161,6 +161,20 @@ OE: enigma2-alliance-plugins
 License: Proprietary
 Priority: optional
 
+Package: enigma2-plugin-extensions-footonsat
+Version: 1.8-r3
+Section: extensions
+Priority: optional
+Architecture: all
+Maintainer: ziko-ZR1
+Description: FootOnsat for Enigma2
+Source: enigma2-plugin-extensions-footonsat.bb
+Homepage: https://github.com/ziko-ZR1/FootOnsat
+License: none
+Filename: enigma2-plugin-extensions-footonsat_1.8-r3_all.ipk
+Size: 13406848
+MD5Sum: 01cf8783dc7126905f2a025372dcb3d5
+
 Package: enigma2-plugin-extensions-internetspeedtest
 Version: git40+46493890+4649389083-r0
 Depends: python3-core
@@ -192,6 +206,21 @@ OE: enigma2-plugin-extensions-multi-stalkerpro
 Homepage: https://github.com/zKhadiri/MultiStalkerPro-releases
 License: Proprietary
 Priority: required
+
+Package: enigma2-plugin-extensions-ngsetting
+Version: 1.5
+Section: enigma2
+Priority: optional
+Architecture: all
+Maintainer: m43c0,ftp21 & mmark <m43c0@live.it>
+Description: Vhannibal E2 NGsetting
+Source: enigma2-plugin-extensions-ngsetting.bb
+Homepage: http://www.dream-elite.net
+License: none
+Filename: enigma2-plugin-extensions-ngsetting_1.5_all.ipk
+Size: 42530
+MD5Sum: b74889c8e9f3e18805a9be76c9489798
+SHA256sum: f503f1b025d8040edb03275ebfea209551e36193d079a7624f347f4ba9f44e06
 
 Package: enigma2-plugin-extensions-plutotv
 Version: 20230812
@@ -292,7 +321,6 @@ Priority: optional
 Package: enigma2-plugin-extensions-vpnmanager
 Version: 1.1.7-py3
 Depends: python3-future, python3-json, openvpn, bash, openresolv, python3-beautifulsoup4
-Conflicts: enigma2-plugin-extensions-goldenpanel, enigma2-plugin-extensions-satvenus-panel, enigma2-plugin-extensions-goldenfeed, enigma2-plugin-extensions-persiandreambox, enigma2-plugin-extensions-dreamosat-downloader
 Section: extra
 Architecture: all
 Maintainer: murxer <support@boxpirates.to>
@@ -302,6 +330,23 @@ Filename: enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk
 Source: https://www.boxpirates.to
 Description:  OpenVpn Verbindungen verwalten
 HomePage: https://www.boxpirates.to
+License: free
+Priority: optional
+
+Package: enigma2-plugin-extensions-wireguard-vpn
+Version: 6.0
+Depends: python3-core
+Section: extensions
+Architecture: all
+Maintainer: madhouse
+MD5Sum: 40645e446a988cc0914a39a9e340218f
+SHA256sum: a0dce56792521221dc82fdd37b42a37eb8b6e2aefa260ca1f6ae2c3c94c3213d
+Size: 1136108 
+Filename: enigma2-plugin-extensions-wireguard-vpn_6.0_all.ipk
+Source: enigma2-plugin-extensions-wireguard-vpn.bb
+Description: Protect your device with Wireguard
+OE: enigma2
+HomePage: https://github.com/m4dhouse
 License: free
 Priority: optional
 
@@ -373,23 +418,4 @@ OE: libxcrypt-compat
 HomePage: https://github.com/besser82/libxcrypt
 License: LGPL-2.1-only
 Priority: optional
-
-Package: tar
-Version: 1.34-r0
-Description: GNU file archiving program
- GNU tar saves many files together into a single tape or disk archive, and
- can restore individual files from the archive.
-Section: base
-Priority: optional
-Maintainer: openimage
-MD5Sum: 4b57fcec747d2814d14da2a3dd71d096
-SHA256sum: e9a8e58d6e6e32aa3dd8f264ab24086dfcd7a4e96e79df8ae12cd0f60643df22
-Size: 146716
-Filename: tar_1.34-r0_cortexa15hf-neon-vfpv4.ipk
-License: GPL-3.0-only
-Architecture: cortexa15hf-neon-vfpv4
-OE: tar
-Homepage: http://www.gnu.org/software/tar/
-Depends: libacl1 (>= 2.3.1), libc6 (>= 2.37), update-alternatives-opkg
-Source: tar_1.34.bb
 
