@@ -13,10 +13,7 @@
 1697800464 dreambox-dvb-modules-dm920-lcd_3.14-1.17-20200321-r0_dm920.ipk
 1697800464 dreambox-dvb-modules-dm920-stb-core_3.14-1.17-20200321-r0_dm920.ipk
 1697800464 dreambox-dvb-modules-dm920_3.14-1.17-20200321-r0_dm920.ipk
-1697800464 enigma2-dbg_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
-1697800464 enigma2-dev_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
 1697800464 enigma2-fonts_2020.10.17-r0_dm920.ipk
-1697800464 enigma2-meta_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
 1697800464 enigma2-plugin-extensions---pycache--_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
 1697800464 enigma2-plugin-extensions-cutlisteditor_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
 1697800464 enigma2-plugin-extensions-dvdburn_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
@@ -73,7 +70,6 @@
 1697800464 enigma2-plugin-systemplugins-videotune_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
 1697800464 enigma2-plugin-systemplugins-wirelesslan_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
 1697800464 enigma2-staticdev_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
-1697800464 enigma2_3.11+git87+e8d87320+e8d8732058-r0_dm920.ipk
 1697800464 flash-scripts_1.1+git162+81ff8d40+81ff8d40bb-r1_dm920.ipk
 1697800464 gstreamer1.0-plugin-multibox-dvbmediasink-dbg_1.0+git251+57d37e90+57d37e9d48-r0_dm920.ipk
 1697800464 gstreamer1.0-plugin-multibox-dvbmediasink-dev_1.0+git251+57d37e90+57d37e9d48-r0_dm920.ipk
