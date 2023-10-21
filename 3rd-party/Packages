@@ -350,6 +350,22 @@ HomePage: https://www.dreamosat-forum.com
 License: GPL-2.0-only
 Priority: optional
 
+Package: enigma2-plugin-skins-madmax-impossible
+Version: 1.7
+Section: base
+Architecture: all
+Maintainer: Madhouse
+MD5Sum: 6c0326c16e8564800bd0d99442d9dd2e
+SHA256sum: e7789290a9bca498913e10098ce8e257126bf8e3c773781986b28a12e4683d27
+Size: 3757604  
+Filename: enigma2-plugin-skins-madmax-impossible_1.7_all.ipk
+Source: enigma2-plugin-skins-madmax-impossible.bb
+Description: Enigma2 FHD Skin
+OE: enigma2-plugin-skins-madmax-impossible
+HomePage: https://github.com/m4dhouse/MadMax-FHD
+License: free
+Priority: optional
+
 Package: enigma2-plugin-skins-mymetrixfhdpy3
 Version: 2.2
 Depends: python3-imaging, python3-requests
