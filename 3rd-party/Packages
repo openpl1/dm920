@@ -220,7 +220,6 @@ License: none
 Filename: enigma2-plugin-extensions-ngsetting_1.5_all.ipk
 Size: 42530
 MD5Sum: b74889c8e9f3e18805a9be76c9489798
-SHA256sum: f503f1b025d8040edb03275ebfea209551e36193d079a7624f347f4ba9f44e06
 
 Package: enigma2-plugin-extensions-plutotv
 Version: 20230812
@@ -330,23 +329,6 @@ Filename: enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk
 Source: https://www.boxpirates.to
 Description:  OpenVpn Verbindungen verwalten
 HomePage: https://www.boxpirates.to
-License: free
-Priority: optional
-
-Package: enigma2-plugin-extensions-wireguard-vpn
-Version: 6.0
-Depends: python3-core
-Section: extensions
-Architecture: all
-Maintainer: madhouse
-MD5Sum: 40645e446a988cc0914a39a9e340218f
-SHA256sum: a0dce56792521221dc82fdd37b42a37eb8b6e2aefa260ca1f6ae2c3c94c3213d
-Size: 1136108 
-Filename: enigma2-plugin-extensions-wireguard-vpn_6.0_all.ipk
-Source: enigma2-plugin-extensions-wireguard-vpn.bb
-Description: Protect your device with Wireguard
-OE: enigma2
-HomePage: https://github.com/m4dhouse
 License: free
 Priority: optional
 
