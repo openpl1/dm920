@@ -96,22 +96,6 @@ HomePage: https://www.dreamosat-forum.com
 License: LGPL-2.1-only & GPL-3.0-only
 Priority: optional
 
-Package: enigma2-plugin-extensions-dreamsatpanel
-Version: 1.6-r0
-Depends: libc6 (>= 2.38+git0+750a45a783), python3-imaging, python3-six
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fcc388870d4a6852f48220ddde672401
-SHA256sum: ca14616991f4727fd02a141c6313aa470314b1d89d2edaa6d019cf3b592c60f5
-Size: 2445638
-Filename: enigma2-plugin-extensions-dreamsatpanel_1.6-r0_cortexa15hf-neon-vfpv4.ipk
-Source: enigma2-plugin-extensions-dreamsatpanel_git.bb
-Description: enigma2-plugin-extensions-dreamsatpanel version 1.6-r0
-OE: enigma2-plugin-extensions-dreamsatpanel
-License: GPL-2.0-only
-Priority: optional
-
 Package: enigma2-plugin-extensions-enigmalight
 Version: 1.42+git136+df9097b0+df9097b60e-r12
 Depends: libc6 (>= 2.38+git0+1aed90c9c8), libgcc1 (>= 13.2.0), libstdc++6 (>= 13.2.0), libusb-1.0-0 (>= 1.0.26)
