@@ -163,6 +163,7 @@ Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat
 Version: 1.8-r3
+Depends: python3-sqlite3
 Section: extensions
 Priority: optional
 Architecture: all
