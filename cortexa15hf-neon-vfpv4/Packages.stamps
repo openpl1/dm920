@@ -715,10 +715,10 @@
 1697997082 enigma2-plugin-extensions-nfsserver-dbg_2.0+git6+e7880e30+e7880e3fd7-r1_cortexa15hf-neon-vfpv4.ipk
 1697997082 enigma2-plugin-extensions-nfsserver-dev_2.0+git6+e7880e30+e7880e3fd7-r1_cortexa15hf-neon-vfpv4.ipk
 1697997082 enigma2-plugin-extensions-nfsserver_2.0+git6+e7880e30+e7880e3fd7-r1_cortexa15hf-neon-vfpv4.ipk
-1697997100 enigma2-plugin-extensions-oaweather-dbg_1.4-15-gd7be130-r0_cortexa15hf-neon-vfpv4.ipk
-1697997100 enigma2-plugin-extensions-oaweather-dev_1.4-15-gd7be130-r0_cortexa15hf-neon-vfpv4.ipk
-1697997100 enigma2-plugin-extensions-oaweather-src_1.4-15-gd7be130-r0_cortexa15hf-neon-vfpv4.ipk
-1697997100 enigma2-plugin-extensions-oaweather_1.4-15-gd7be130-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 enigma2-plugin-extensions-oaweather-dbg_0.0-38-g40d5f53-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 enigma2-plugin-extensions-oaweather-dev_0.0-38-g40d5f53-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 enigma2-plugin-extensions-oaweather-src_0.0-38-g40d5f53-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 enigma2-plugin-extensions-oaweather_0.0-38-g40d5f53-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 enigma2-plugin-extensions-ofdb_2.0-git5691+227ab850+227ab85611-r0_cortexa15hf-neon-vfpv4.ipk
 1697997082 enigma2-plugin-extensions-oggisport-dbg_1.0+git10+2c8b03b0+2c8b03bf25-r1_cortexa15hf-neon-vfpv4.ipk
 1697997082 enigma2-plugin-extensions-oggisport-dev_1.0+git10+2c8b03b0+2c8b03bf25-r1_cortexa15hf-neon-vfpv4.ipk
@@ -854,7 +854,7 @@
 1697997104 enigma2-plugin-skins-satdreamgr-hd-transpba-dev_1.0+git488+b660af10+b660af1c2a-r1_cortexa15hf-neon-vfpv4.ipk
 1697997104 enigma2-plugin-skins-satdreamgr-hd-transpba_1.0+git488+b660af10+b660af1c2a-r1_cortexa15hf-neon-vfpv4.ipk
 1697997105 enigma2-plugin-softcams-cccam_2.3.2a-r0_cortexa15hf-neon-vfpv4.ipk
-1697997105 enigma2-plugin-softcams-ncam_git10703+6aeddd90+6aeddd92f3-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 enigma2-plugin-softcams-ncam_git10704+979cc720+979cc72711-r0_cortexa15hf-neon-vfpv4.ipk
 1697997105 enigma2-plugin-softcams-oscam-emu_1.20+git1988+a137cbf0+a137cbf6eb-r0_cortexa15hf-neon-vfpv4.ipk
 1697997105 enigma2-plugin-softcams-oscam_1.20+git10633+13a07540+13a0754dc0-r0_cortexa15hf-neon-vfpv4.ipk
 1698004027 enigma2-plugin-systemplugins-autobouquetsmaker-dbg_3.3+git1035+7d977f00+7d977f03e7-r0_cortexa15hf-neon-vfpv4.ipk
@@ -5614,8 +5614,8 @@
 1698004190 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1698004793 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1698004793 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7266,8 +7266,8 @@
 1697997045 smbnetfs-doc_0.6.3-r0_cortexa15hf-neon-vfpv4.ipk
 1697997045 smbnetfs_0.6.3-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 sntp_4.2.8p17-r0_cortexa15hf-neon-vfpv4.ipk
-1697997105 softcams-enigma2-meta-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1697997105 softcams-enigma2-meta-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 softcams-enigma2-meta-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1698013822 softcams-enigma2-meta-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 sqlite3-dbg_3.43.2-r0_cortexa15hf-neon-vfpv4.ipk
 1698004190 sqlite3_3.43.2-r0_cortexa15hf-neon-vfpv4.ipk
 1697997045 sshfs-fuse-dbg_3.7.3-r0_cortexa15hf-neon-vfpv4.ipk
