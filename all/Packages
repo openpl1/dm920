@@ -495,14 +495,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dbg
-Version: 1+git4460+1d103ec0+1d103ec250-r0
+Version: 1+git4461+069e18b0+069e18bd9c-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a2186243ddb16c00b66bf515905f2cac
-SHA256sum: ad9ab5d7f726db6c0d95ae210308a397c94556ccb158c62269b08a55c25f0aaa
-Size: 728
-Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4460+1d103ec0+1d103ec250-r0_all.ipk
+MD5Sum: b7f9da19ec66aad2e7a8a7e5bee66e7f
+SHA256sum: 8aaded872b10103a43cf026628e1e2bef6c1ab2f5fd3a796109ec25bca71b2ce
+Size: 732
+Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4461+069e18b0+069e18bd9c-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -511,15 +511,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dev
-Version: 1+git4460+1d103ec0+1d103ec250-r0
-Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 1+git4460+1d103ec0+1d103ec250-r0), exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python3-core-dev, python3-dev, python3-e2icjson-dev, python3-pycurl-dev, rtmpdump-dev, uchardet-dev, wget-dev
+Version: 1+git4461+069e18b0+069e18bd9c-r0
+Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 1+git4461+069e18b0+069e18bd9c-r0), exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python3-core-dev, python3-dev, python3-e2icjson-dev, python3-pycurl-dev, rtmpdump-dev, uchardet-dev, wget-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 22f5dbc73245d94ad67c873b229766c8
-SHA256sum: 1d8ddb1251fa21a7b548c796a05d43d98cb99873b385b40715261752b0b10ec5
-Size: 874
-Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4460+1d103ec0+1d103ec250-r0_all.ipk
+MD5Sum: 7d2102cec3bb9cb648d2ecfd7ec5420f
+SHA256sum: cb6c6dabfc7d831da3e646208a08394120f9037de599225310c5b3ccb4fefb30
+Size: 876
+Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4461+069e18b0+069e18bd9c-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Development files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -528,15 +528,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer
-Version: 1+git4460+1d103ec0+1d103ec250-r0
+Version: 1+git4461+069e18b0+069e18bd9c-r0
 Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplayer, hlsdl, iptvsubparser, lsdir, python3-core, python3-e2icjson, python3-pycurl, rtmpdump, uchardet, wget
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 03733677121f976aaad196e297ca3562
-SHA256sum: ccfc65c3b0fc158860c6aca3ecc79a89e4f46684631217ae45b045ac856254c9
-Size: 8982904
-Filename: enigma2-plugin-extensions-e2iplayer_1+git4460+1d103ec0+1d103ec250-r0_all.ipk
+MD5Sum: 7bdeb7f363853e5de6fe474a5ddb667d
+SHA256sum: 99aee1d850440d528a500621ebcc437cfa6871d67ac96f1ddfb379b2944f18a7
+Size: 8983074
+Filename: enigma2-plugin-extensions-e2iplayer_1+git4461+069e18b0+069e18bd9c-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
 OE: enigma2-plugin-extensions-e2iplayer
@@ -1310,14 +1310,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-13e-19e-23e-28e-dbg
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 49dc81f837748bb52d89e8bbe602b451
-SHA256sum: 6db375520c011d44bc941510e9f539c0c84559547d32a0c07a73dea62d68ea4b
+MD5Sum: 9b7b6c18911454ae95ce46b592f787dc
+SHA256sum: 0e4298ee2bfb6663edd04f9b226245832fb32450dbe229328003df1544393448
 Size: 716
-Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e-dbg_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e-dbg_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-13e-19e-23e-28e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
@@ -1325,15 +1325,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-13e-19e-23e-28e-dev
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
-Recommends: enigma2-plugin-settings-hans-13e-19e-23e-28e (= 1.0+git32+64aff9e0+64aff9e486-r0), xz-dev
+Version: 1.0+git33+236c4320+236c4325b0-r0
+Recommends: enigma2-plugin-settings-hans-13e-19e-23e-28e (= 1.0+git33+236c4320+236c4325b0-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 27bb68c0311577d31bd6c0a1a1c7aaa4
-SHA256sum: e329acd57cd48f4073759ad9df5a822346ec18e688efdc1d67f44166a4f3f356
+MD5Sum: 705aaaa995123e30f5fd88e61637f4ba
+SHA256sum: c5942a7ac025035cb0844392b866c727e5eae8976cdd19686e6d520fffec1090
 Size: 754
-Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e-dev_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e-dev_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-13e-19e-23e-28e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
@@ -1341,15 +1341,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-13e-19e-23e-28e
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 55c0c5cd6d372f16d2f0a98235bf9d0d
-SHA256sum: 3f2a24a16d133b36d9e38f30110296b9b9d8e8795272c62dae4661cceb1c8ecf
-Size: 681452
-Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 3c67394502a69c96c8e137a03f97cac8
+SHA256sum: 93a318725eccebe9f97cac765e7fea5289a6a7103162f82059d7ba2f79d2484a
+Size: 686784
+Filename: enigma2-plugin-settings-hans-13e-19e-23e-28e_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-13e-19e-23e-28e version 1.0+git-r0
 OE: enigma2-plugin-settings-hans-13e-19e-23e-28e
@@ -1357,14 +1357,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-28e-dbg
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c7789ea95787ef5b501fdc2834283827
-SHA256sum: d3576b2a41271833a36e1c1bda4313ae3616d3adf86195443ecf1fa89982a7b1
+MD5Sum: 48d908e013cf1fa614d0c86f9e596600
+SHA256sum: af0e5871bd77196fbb1295bac97cebf02782cb6358e8c44b38750fee792ed93f
 Size: 710
-Filename: enigma2-plugin-settings-hans-19e-23e-28e-dbg_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-19e-23e-28e-dbg_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-19e-23e-28e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-hans-19e-23e-28e
@@ -1372,15 +1372,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-28e-dev
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
-Recommends: enigma2-plugin-settings-hans-19e-23e-28e (= 1.0+git32+64aff9e0+64aff9e486-r0), xz-dev
+Version: 1.0+git33+236c4320+236c4325b0-r0
+Recommends: enigma2-plugin-settings-hans-19e-23e-28e (= 1.0+git33+236c4320+236c4325b0-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 911d996896a343c80381e26c9065b740
-SHA256sum: 8c2c780f4648b7e23c39c2248e1168d1f4782527920b9aa3a08f0259854cba9c
+MD5Sum: 0de975cac121ca2bf4e0f4e41c15ae29
+SHA256sum: 9b1e6000956093daa3b84fed9c4a387ee3c26692be367323b96fae75be2d0d3d
 Size: 750
-Filename: enigma2-plugin-settings-hans-19e-23e-28e-dev_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-19e-23e-28e-dev_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-19e-23e-28e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-hans-19e-23e-28e
@@ -1388,15 +1388,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-28e
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 90bef2c3f90f4bad04907da21aea3a02
-SHA256sum: 5718f5bef0a42b080651315ba7a54864031abee6ea0414ad1cc668011a882740
-Size: 662262
-Filename: enigma2-plugin-settings-hans-19e-23e-28e_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: cbd56b9b100921dd42a05f8b83303cde
+SHA256sum: b81eab5c07413fe7dd5928383d703f2216513e0899cad7c7f619ee7d638d20af
+Size: 667770
+Filename: enigma2-plugin-settings-hans-19e-23e-28e_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-19e-23e-28e version 1.0+git-r0
 OE: enigma2-plugin-settings-hans-19e-23e-28e
@@ -1404,14 +1404,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-basis-dbg
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 39dfaf3b39c35a4049ca6e09206505fb
-SHA256sum: a42fa239d4fd2f6165e79380abfc0f096a853444be66c5a7d34a9d16b78d0677
-Size: 714
-Filename: enigma2-plugin-settings-hans-19e-23e-basis-dbg_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: ab878fa76c75488911289ea0a11d6dd6
+SHA256sum: b820a560bbccd45cf4b8dbfa5fa3d0fe5cc3b62b8f8e3fd7b418839db77dd27a
+Size: 712
+Filename: enigma2-plugin-settings-hans-19e-23e-basis-dbg_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-basis.bb
 Description: enigma2-plugin-settings-hans-19e-23e-basis version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-hans-19e-23e-basis
@@ -1419,15 +1419,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-basis-dev
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
-Recommends: enigma2-plugin-settings-hans-19e-23e-basis (= 1.0+git32+64aff9e0+64aff9e486-r0), xz-dev
+Version: 1.0+git33+236c4320+236c4325b0-r0
+Recommends: enigma2-plugin-settings-hans-19e-23e-basis (= 1.0+git33+236c4320+236c4325b0-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 381c4e9043164de650820ecb5c2dfb2a
-SHA256sum: bc94d52f574097f077894456de29afdd83ad11d2069e1463e116206bb06fd348
-Size: 752
-Filename: enigma2-plugin-settings-hans-19e-23e-basis-dev_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: fb5cb05288651b9d7b06139f322f1b74
+SHA256sum: 1d5e8474dcc2cbdf1b63d31d805a6191a18c1083c6ee7d79e18dfd98b7dfad92
+Size: 750
+Filename: enigma2-plugin-settings-hans-19e-23e-basis-dev_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-basis.bb
 Description: enigma2-plugin-settings-hans-19e-23e-basis version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-hans-19e-23e-basis
@@ -1435,15 +1435,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-basis
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1b09785440e995b23e457a0e0f5cfe10
-SHA256sum: 1f2f0c8a0c58eb6deb4ba2fece1d172087e41967b97be5ab853b607ebf8eca6a
-Size: 27738
-Filename: enigma2-plugin-settings-hans-19e-23e-basis_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 84ca4216764b06e2bfc1007f87fe41b4
+SHA256sum: 8d7a43f4702b1979a9ad36736a17ffa4252d1597b02ab9cccb6bbba9385d5a94
+Size: 27954
+Filename: enigma2-plugin-settings-hans-19e-23e-basis_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e-basis.bb
 Description: enigma2-plugin-settings-hans-19e-23e-basis version 1.0+git-r0
 OE: enigma2-plugin-settings-hans-19e-23e-basis
@@ -1451,14 +1451,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-dbg
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e75f95b2426f2f4bb35d295f7873671e
-SHA256sum: 101a7dd6eeb24bf2d3c866998fcb05a210047008271c93fea0b219f815953e0e
+MD5Sum: 04b7775760ab6c230a3cbd31868b51d0
+SHA256sum: 8813b97fc7dcb8e08d2ebe48306805520d315c2b09e9685c4375ac3c859883fb
 Size: 706
-Filename: enigma2-plugin-settings-hans-19e-23e-dbg_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-19e-23e-dbg_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e.bb
 Description: enigma2-plugin-settings-hans-19e-23e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-hans-19e-23e
@@ -1466,15 +1466,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e-dev
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
-Recommends: enigma2-plugin-settings-hans-19e-23e (= 1.0+git32+64aff9e0+64aff9e486-r0), xz-dev
+Version: 1.0+git33+236c4320+236c4325b0-r0
+Recommends: enigma2-plugin-settings-hans-19e-23e (= 1.0+git33+236c4320+236c4325b0-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 049258437b4b4168eaff8426076911db
-SHA256sum: ac7779584fe7152611adb6f01e43131e9bc0c796cce2a964b1534de7dfcd54b9
+MD5Sum: 05b0d0100ebb1945fe094d9cbef843d1
+SHA256sum: 753979712b6f0a3c157c1adc33056fd4f226b40d2dba35ccd068d1cafad62ca2
 Size: 744
-Filename: enigma2-plugin-settings-hans-19e-23e-dev_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-19e-23e-dev_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e.bb
 Description: enigma2-plugin-settings-hans-19e-23e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-hans-19e-23e
@@ -1482,15 +1482,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-19e-23e
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 06886a1cb6666fd89bd409a50d0e3c5b
-SHA256sum: e1a587262d4685d8e66d3818260dfba4509752cc2f00bfc0de61dd3631939b44
-Size: 652774
-Filename: enigma2-plugin-settings-hans-19e-23e_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 94551e9eebb6d9034cf529d73326afe3
+SHA256sum: 93c5116be09f0d8aa2483c770d16aee7e3fddb3eb4e0b3b6772bc378b679b23c
+Size: 658446
+Filename: enigma2-plugin-settings-hans-19e-23e_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-19e-23e.bb
 Description: enigma2-plugin-settings-hans-19e-23e version 1.0+git-r0
 OE: enigma2-plugin-settings-hans-19e-23e
@@ -1498,14 +1498,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-dbg
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 178fa50251689cbe90ffa4f31dd68f0d
-SHA256sum: 2113b31b67abc62bf2e2fb12e8daa4388e8ea16807b415440c00cb0d35f1c830
-Size: 718
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-dbg_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: d7f6b62fc5cf3ded0d103c5431e05cec
+SHA256sum: 31617eb22da298432c3743894956ecb6a4a1710bff4253f696360ac3b3e73787
+Size: 720
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-dbg_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
@@ -1513,15 +1513,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-dev
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
-Recommends: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e (= 1.0+git32+64aff9e0+64aff9e486-r0), xz-dev
+Version: 1.0+git33+236c4320+236c4325b0-r0
+Recommends: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e (= 1.0+git33+236c4320+236c4325b0-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b6edf8cd4fdf7a2fcabfc952652d35e9
-SHA256sum: ceac88fa512065f9b79e3815a2e0747500e2b99ece042efbaafc3aa09b567c75
+MD5Sum: 4f0acb4d1fc89e7aae6e584845f9d675
+SHA256sum: 07abf657af071bd2fdf1a9a3fc042e35bba3a92d66f80157817c017eea855175
 Size: 758
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-dev_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-dev_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
@@ -1529,14 +1529,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating-dbg
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8a20062a94edb5cad259047b64e3dd7b
-SHA256sum: 1a954e917364f39f23493c795feba2cd366250606896cd90d55039ca07a8e862
+MD5Sum: b138034956410bffdd30869a642eed12
+SHA256sum: 68c9abba80d64fb0637a4c35e7c386d56a1d9808463a747c1f47f9b8f8e7f4c9
 Size: 726
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating-dbg_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating-dbg_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
@@ -1544,15 +1544,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating-dev
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
-Recommends: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating (= 1.0+git32+64aff9e0+64aff9e486-r0), xz-dev
+Version: 1.0+git33+236c4320+236c4325b0-r0
+Recommends: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating (= 1.0+git33+236c4320+236c4325b0-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9df2428fe0311d4f00161b4a5feb3088
-SHA256sum: ead9a716e83a067f21ac7d882582609d132083ff3701084a5796d404538201f5
-Size: 764
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating-dev_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 4a560a1ba407048bbea14f4e55fcb566
+SHA256sum: 11168fa54fafa778067912e1a65ba24809bffb58ff7f3c589722ad9e100228fd
+Size: 766
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating-dev_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
@@ -1560,7 +1560,7 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Depends: xz
 Provides: e2_hanssettings_13e_19e_23e_28e_AND_rotating
 Replaces: e2_hanssettings_13e_19e_23e_28e_AND_rotating
@@ -1568,10 +1568,10 @@ Conflicts: e2_hanssettings_13e_19e_23e_28e_AND_rotating
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 91d8a1d1be7980978f5b1169e9bfcaa6
-SHA256sum: 7feac7fd029bb51ef0d4fe13680247ce43482b91d4acd95955989d022d9fc390
-Size: 841066
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 0978e4aaafe718b1135826cc996739c7
+SHA256sum: 57b26d2872cb3779b50e491d9407b74add9d195b8cb962f0598f81a85651a80a
+Size: 869164
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating version 1.0+git-r0
 OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e-rotating
@@ -1579,15 +1579,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 35ed4f00da2b0ea4f4852b06ba6e7339
-SHA256sum: 2136795186015596555caad28689c50750b98eaf9dd9e6fa5b20289dca6d5bb6
-Size: 686492
-Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 81f588fe19ecfc7326882527af8b3bbc
+SHA256sum: b17d03fe3409b8f8aa4afe3ca5877ea6cff03a2eb4013fcb3e16f11efcb2561b
+Size: 691638
+Filename: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e.bb
 Description: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e version 1.0+git-r0
 OE: enigma2-plugin-settings-hans-9e-13e-19e-23e-28e
@@ -1595,14 +1595,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-kabelnl-dbg
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d0dfdbea89be81061aa749061909652a
-SHA256sum: 8a41049210515aafe559f21975f7503e181d8b57d2490897ed5609844f5c9a84
-Size: 708
-Filename: enigma2-plugin-settings-hans-kabelnl-dbg_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 241552b770cba666aa385bf6319696b5
+SHA256sum: 8b468f80364e34cfaed99de82224e84789090033711e5303ebdffa3e66da1273
+Size: 704
+Filename: enigma2-plugin-settings-hans-kabelnl-dbg_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-kabelnl.bb
 Description: enigma2-plugin-settings-hans-kabelnl version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-hans-kabelnl
@@ -1610,15 +1610,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-kabelnl-dev
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
-Recommends: enigma2-plugin-settings-hans-kabelnl (= 1.0+git32+64aff9e0+64aff9e486-r0), xz-dev
+Version: 1.0+git33+236c4320+236c4325b0-r0
+Recommends: enigma2-plugin-settings-hans-kabelnl (= 1.0+git33+236c4320+236c4325b0-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d4f22f529c0e1fdcc2fd79cd639cbe0c
-SHA256sum: 11e6c0cb3c88f5130c8f50cc349818a087c435793c668c60e1f67363dc0c169b
-Size: 746
-Filename: enigma2-plugin-settings-hans-kabelnl-dev_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: 1614bc820ebd337bba42f4589838e569
+SHA256sum: c8d6aec757129667aebbd8eb97a297c97544b8d78e4d8df0329a0d464555ee9d
+Size: 744
+Filename: enigma2-plugin-settings-hans-kabelnl-dev_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-kabelnl.bb
 Description: enigma2-plugin-settings-hans-kabelnl version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-hans-kabelnl
@@ -1626,15 +1626,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-hans-kabelnl
-Version: 1.0+git32+64aff9e0+64aff9e486-r0
+Version: 1.0+git33+236c4320+236c4325b0-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9ef5916dbe3b3a9eec3e697d3d697fcb
-SHA256sum: c4279bd1c8187ba4428bb5afbf11f152decedd31eca189fef0434785397382d4
-Size: 627528
-Filename: enigma2-plugin-settings-hans-kabelnl_1.0+git32+64aff9e0+64aff9e486-r0_all.ipk
+MD5Sum: b8f6957839922448fdf3bae90f2586a6
+SHA256sum: 459d311ecaed7d96c2cdda4da3f131a4800966f3ba6b48de1d6082f701e970ae
+Size: 632944
+Filename: enigma2-plugin-settings-hans-kabelnl_1.0+git33+236c4320+236c4325b0-r0_all.ipk
 Source: enigma2-plugin-settings-hans-kabelnl.bb
 Description: enigma2-plugin-settings-hans-kabelnl version 1.0+git-r0
 OE: enigma2-plugin-settings-hans-kabelnl
@@ -7091,14 +7091,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: streamlinksrv-dbg
-Version: 1.8.3+git24+ef910750+ef9107543f-r0
+Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 8adbc933567468ed147f7e94947e0418
-SHA256sum: 327641cb8a92aa9c6e04450cb57ea398fcfbd80001324d380a84c03d891c9cee
-Size: 702
-Filename: streamlinksrv-dbg_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
+MD5Sum: 04090a47ae5e5e3b922b9fe7ab91b29f
+SHA256sum: 07841ec338dc7716f59d6a9ed44e84acdf23bd609d41c75693f1138876418463
+Size: 698
+Filename: streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Debugging files
 OE: streamlinksrv
@@ -7107,15 +7107,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: streamlinksrv-dev
-Version: 1.8.3+git24+ef910750+ef9107543f-r0
-Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git24+ef910750+ef9107543f-r0)
+Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
+Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git25+e0f24a00+e0f24a01f1-r0)
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 9ce222a968daddd248c3989ff8834dc3
-SHA256sum: 7d46215eec6906fafbd13c83d835ad95a6c36432b3c5e6570e2cbb997126a7c5
+MD5Sum: 9910cf98824feb8def56946979c39c35
+SHA256sum: 015def765ca546c598059c5bc99a9a4267c582baf0816eed5405a6cf5eca2db1
 Size: 752
-Filename: streamlinksrv-dev_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
+Filename: streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Development files
 OE: streamlinksrv
@@ -7124,15 +7124,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: streamlinksrv
-Version: 1.8.3+git24+ef910750+ef9107543f-r0
+Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
 Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 387a38e7aec1137d4a71af65c93722b5
-SHA256sum: 83338c95240b483c1e1c34816ea4e087b55cac95603a5f5ee0634a2f465c8569
-Size: 83018
-Filename: streamlinksrv_1.8.3+git24+ef910750+ef9107543f-r0_all.ipk
+MD5Sum: 88e6fc5327a8c64a9bcf0bea52621b94
+SHA256sum: d264b7a7a6b322094611a876090f0c7159ad688fe7d8188e5c88f06d7cb76440
+Size: 83014
+Filename: streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
 OE: streamlinksrv
@@ -7141,14 +7141,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 2+git547+14aa90f0+14aa90fcf8-3
+Version: 2+git548+1adcba90+1adcba9834-3
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: fefc2790183be4120108e34a5662c232
-SHA256sum: 765318f9dc890ee137082e7641cc4ef9de36a23d1b79fa595dffadd2ef146268
+MD5Sum: c391d0e4cc339a7e9b605e3d9a2bfa0a
+SHA256sum: 19cab50bc811596b1a9d4e1a17c6720f5d1ff9c5dc56a46b8bc643c818c84853
 Size: 662
-Filename: tuxbox-common-dbg_2+git547+14aa90f0+14aa90fcf8-3_all.ipk
+Filename: tuxbox-common-dbg_2+git548+1adcba90+1adcba9834-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3 - Debugging files
 OE: tuxbox-common
@@ -7156,15 +7156,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 2+git547+14aa90f0+14aa90fcf8-3
-Recommends: tuxbox-common (>= 2+git547+14aa90f0+14aa90fcf8-3), tuxbox-common (<< 2+git547+14aa90f0+14aa90fcf8-3.0), xz-dev
+Version: 2+git548+1adcba90+1adcba9834-3
+Recommends: tuxbox-common (>= 2+git548+1adcba90+1adcba9834-3), tuxbox-common (<< 2+git548+1adcba90+1adcba9834-3.0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 8a46413f7cb3d6f7fa81164a526c61fd
-SHA256sum: 7fbbf6ef0961e106ecfcf7fe55341a274ca4e754f6b67c1942adbad51465f8bf
-Size: 714
-Filename: tuxbox-common-dev_2+git547+14aa90f0+14aa90fcf8-3_all.ipk
+MD5Sum: 1070daed1c6d61bbefa97a657985ec42
+SHA256sum: c11d0622637e65676f8f51cc9578d3b1fb730a134625158e4ecd86961d9de7e0
+Size: 716
+Filename: tuxbox-common-dev_2+git548+1adcba90+1adcba9834-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3 - Development files
 OE: tuxbox-common
@@ -7172,15 +7172,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common
-Version: 2+git547+14aa90f0+14aa90fcf8-3
+Version: 2+git548+1adcba90+1adcba9834-3
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: ea6c8db82f3b53d13d1f6e08c0cb0666
-SHA256sum: b59d0b554364924040057d378d944b3ea36594a5e4586d805b13413f04455e34
-Size: 49772
-Filename: tuxbox-common_2+git547+14aa90f0+14aa90fcf8-3_all.ipk
+MD5Sum: cfb182550bfa838ada0bafc61e19d134
+SHA256sum: 6a911ea84ac6fbcd4f30c872d3c7c50e98ab24fb3323bfd879def043f47acfad
+Size: 49724
+Filename: tuxbox-common_2+git548+1adcba90+1adcba9834-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3
 OE: tuxbox-common
