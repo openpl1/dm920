@@ -47,21 +47,6 @@ OE: enigma2-plugin-extensions-backupsuite
 License: GPL-3.0-only
 Priority: optional
 
-Package: enigma2-plugin-extensions-bouquetmakerxtream
-Version: 0.33.20231022
-Section: misc
-Architecture: all
-Maintainer: kiddac
-MD5Sum: f6fdf7cbd7950ab3896005e09a695369
-SHA256sum: 1d25e12b6ea4514e57c4c820dd7ec6c17e702e21a9be832ce432116d0ec6dc86
-Size: 1355082
-Filename: enigma2-plugin-extensions-bouquetmakerxtream_0.33.20231022_all.ipk
-Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
-Description: Bouquet Maker Xtream - IPTV bouquet maker
-OE: enigma2-plugin-extensions-bouquetmakerxtream
-License: none
-Priority: optional
-
 Package: enigma2-plugin-extensions-chefkoch
 Version: git3519+269a0990+269a099786-r0
 Depends: enigma2-alliance-plugins
@@ -330,23 +315,6 @@ Source: https://www.boxpirates.to
 Description:  OpenVpn Verbindungen verwalten
 HomePage: https://www.boxpirates.to
 License: free
-Priority: optional
-
-Package: enigma2-plugin-skins-cinogripli
-Version: git17+0fc78e40+0fc78e4b54-r0
-Recommends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-skincomponents-weathercomponent, enigma2-plugin-systemplugins-weathercomponenthandler
-Section: base
-Architecture: all
-Maintainer: audi06_19
-MD5Sum: 46160e4ba91d803ab4ee257571f751f2
-SHA256sum: 78a76ecff48ec8b23c9ceaadd9c5b9e2110c50014c8247b23574d7286d0945d5
-Size: 1338388
-Filename: enigma2-plugin-skins-cinogripli_git17+0fc78e40+0fc78e4b54-r0_all.ipk
-Source: enigma2-plugin-skins-cinogripli.bb
-Description: enigma2-plugin-skins-cinogripli
-OE: enigma2-plugin-skins-cinogripli
-HomePage: https://www.dreamosat-forum.com
-License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-madmax-impossible
