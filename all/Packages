@@ -2722,6 +2722,53 @@ OE: enigma2-plugin-settings-morph883-motor
 License: CLOSED
 Priority: optional
 
+Package: enigma2-plugin-skins-cinogriplifhd-dbg
+Version: 2.0+git4+13c98c30+13c98c3fb2-r0
+Section: devel
+Architecture: all
+Maintainer: all
+MD5Sum: d0c906d07ccace61b5a0948460ce1492
+SHA256sum: d2afe0edb8ae4d33cf9a332aa28867eb72e559c809999a998f23d87c0aafbb82
+Size: 696
+Filename: enigma2-plugin-skins-cinogriplifhd-dbg_2.0+git4+13c98c30+13c98c3fb2-r0_all.ipk
+Source: enigma2-plugin-skins-cinogriplifhd.bb
+Description: enigma2-plugin-skins-cinogriplifhd version 2.0+git-r0 - Debugging files
+OE: enigma2-plugin-skins-cinogriplifhd
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-cinogriplifhd-dev
+Version: 2.0+git4+13c98c30+13c98c3fb2-r0
+Recommends: enigma2-plugin-extensions-oaweather-dev, enigma2-plugin-skins-cinogriplifhd (= 2.0+git4+13c98c30+13c98c3fb2-r0)
+Section: devel
+Architecture: all
+Maintainer: all
+MD5Sum: fd3374e11bd14e8c41093ef118651441
+SHA256sum: 2007249deec3aa165ab71a447a5291ffbeab9be5e5cf7fd1dcea13797389b005
+Size: 750
+Filename: enigma2-plugin-skins-cinogriplifhd-dev_2.0+git4+13c98c30+13c98c3fb2-r0_all.ipk
+Source: enigma2-plugin-skins-cinogriplifhd.bb
+Description: enigma2-plugin-skins-cinogriplifhd version 2.0+git-r0 - Development files
+OE: enigma2-plugin-skins-cinogriplifhd
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-cinogriplifhd
+Version: 2.0+git4+13c98c30+13c98c3fb2-r0
+Depends: enigma2-plugin-extensions-oaweather
+Section: base
+Architecture: all
+Maintainer: all
+MD5Sum: 6d9f318261ac95b0644b8fd081175483
+SHA256sum: 73dbedcfeef7c45ed382a5edde02116717a01bdf45670d11009e7da453795227
+Size: 1053070
+Filename: enigma2-plugin-skins-cinogriplifhd_2.0+git4+13c98c30+13c98c3fb2-r0_all.ipk
+Source: enigma2-plugin-skins-cinogriplifhd.bb
+Description: enigma2-plugin-skins-cinogriplifhd version 2.0+git-r0
+OE: enigma2-plugin-skins-cinogriplifhd
+License: GPL-3.0-only
+Priority: optional
+
 Package: enigma2-plugin-skins-darkos-dbg
 Version: 1.0+git50+9916c3a0+9916c3a22e-r0
 Section: devel
