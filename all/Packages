@@ -696,9 +696,9 @@ Version: 4.17-20231011-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9faaf1854156c2eb77914c77cfcffade
-SHA256sum: 4695259466981f52a833cce6540137133bed79a3bb47b180d8978fe5e7765362
-Size: 712
+MD5Sum: 7d511e006bb90d57499bfd1d7e509eff
+SHA256sum: 5ba18aa1cb03e2d6997ccedc61eebe85a54ff82f981feead89b3523d29ead76f
+Size: 714
 Filename: enigma2-plugin-extensions-xstreamity-dbg_4.17-20231011-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Debugging files
@@ -713,8 +713,8 @@ Recommends: enigma2-plugin-extensions-xstreamity (= 4.17-20231011-r0), python3-m
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: c31838b3e884e1d892d23a4e765825a2
-SHA256sum: 37f86fc1d57a5385f9a68f6d3b6b4182c0f44001a3727fb492dffa6f4297d550
+MD5Sum: de8a3e4c979c1c2eb4a13ff46353e31f
+SHA256sum: 2cc783849ceb50127e68b03bafc93f0c2f3c47b20f01f7bca818a1d90b6a3b4d
 Size: 784
 Filename: enigma2-plugin-extensions-xstreamity-dev_4.17-20231011-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
@@ -729,9 +729,9 @@ Version: 4.17-20231011-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9cb23fc1cc2790df88c023ad970325c5
-SHA256sum: 7e191b60e723962c51dacb9171df2c33710d2e2fcefaece54ef4c61ada38b73c
-Size: 55570
+MD5Sum: e9576a558a0f59a2cf2a76f5166846ac
+SHA256sum: 94ac960ffc8bfef10cbd20f812e74e4200d9fc2a10bd86f6e2e6b5fba5910ea4
+Size: 55578
 Filename: enigma2-plugin-extensions-xstreamity-src_4.17-20231011-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Source files
@@ -746,9 +746,9 @@ Depends: python3-multiprocessing, python3-pillow, python3-requests
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 58358df56b8294355a66ba7b03c090f9
-SHA256sum: 441c8039d545b8187b4c68fcbcaa467dd4632195997281563978c1e688cc6462
-Size: 4336326
+MD5Sum: 9a34c0edafd9406fce3922c0484a24ef
+SHA256sum: 9befcc7c6e67e1e17994f34a3faa04d52b3ab17768374d26dc769a8516b2c36e
+Size: 4335962
 Filename: enigma2-plugin-extensions-xstreamity_4.17-20231011-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC
