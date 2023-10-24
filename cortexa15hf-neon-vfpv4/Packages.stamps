@@ -610,6 +610,10 @@
 1698079957 enigma2-plugin-extensions-blackoutblind-dbg_2.0+git14+83baad50+83baad5649-r1_cortexa15hf-neon-vfpv4.ipk
 1698079957 enigma2-plugin-extensions-blackoutblind-dev_2.0+git14+83baad50+83baad5649-r1_cortexa15hf-neon-vfpv4.ipk
 1698079957 enigma2-plugin-extensions-blackoutblind_2.0+git14+83baad50+83baad5649-r1_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-extensions-blurayplayer-dbg_1+git156+1e6a8100+1e6a8107e1-r1_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-extensions-blurayplayer-dev_1+git156+1e6a8100+1e6a8107e1-r1_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-extensions-blurayplayer-src_1+git156+1e6a8100+1e6a8107e1-r1_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-extensions-blurayplayer_1+git156+1e6a8100+1e6a8107e1-r1_cortexa15hf-neon-vfpv4.ipk
 1698080361 enigma2-plugin-extensions-bonjour_2.0-git5692+cbd6db90+cbd6db927d-r0_cortexa15hf-neon-vfpv4.ipk
 1698079957 enigma2-plugin-extensions-cacheflush-dbg_2.0+git24+358306c0+358306c15e-r1_cortexa15hf-neon-vfpv4.ipk
 1698079957 enigma2-plugin-extensions-cacheflush-dev_2.0+git24+358306c0+358306c15e-r1_cortexa15hf-neon-vfpv4.ipk
@@ -907,11 +911,11 @@
 1698079957 enigma2-plugin-systemplugins-signalfinder-dbg_1+git67+5167e4a0+5167e4a1f7-r0_cortexa15hf-neon-vfpv4.ipk
 1698079957 enigma2-plugin-systemplugins-signalfinder-dev_1+git67+5167e4a0+5167e4a1f7-r0_cortexa15hf-neon-vfpv4.ipk
 1698079957 enigma2-plugin-systemplugins-signalfinder_1+git67+5167e4a0+5167e4a1f7-r0_cortexa15hf-neon-vfpv4.ipk
-1698080614 enigma2-plugin-systemplugins-terrestrialscan-dbg_1.0+git57+7a31ea20+7a31ea2d4f-r0_cortexa15hf-neon-vfpv4.ipk
-1698080614 enigma2-plugin-systemplugins-terrestrialscan-dev_1.0+git57+7a31ea20+7a31ea2d4f-r0_cortexa15hf-neon-vfpv4.ipk
-1698080614 enigma2-plugin-systemplugins-terrestrialscan-po_1.0+git57+7a31ea20+7a31ea2d4f-r0_cortexa15hf-neon-vfpv4.ipk
-1698080614 enigma2-plugin-systemplugins-terrestrialscan-src_1.0+git57+7a31ea20+7a31ea2d4f-r0_cortexa15hf-neon-vfpv4.ipk
-1698080614 enigma2-plugin-systemplugins-terrestrialscan_1.0+git57+7a31ea20+7a31ea2d4f-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-systemplugins-terrestrialscan-dbg_1.0+git58+a4158ee0+a4158eec91-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-systemplugins-terrestrialscan-dev_1.0+git58+a4158ee0+a4158eec91-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-systemplugins-terrestrialscan-po_1.0+git58+a4158ee0+a4158eec91-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-systemplugins-terrestrialscan-src_1.0+git58+a4158ee0+a4158eec91-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 enigma2-plugin-systemplugins-terrestrialscan_1.0+git58+a4158ee0+a4158eec91-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 enigma2-plugin-systemplugins-transcodingsetup_2.0-git5692+cbd6db90+cbd6db927d-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 enigma2-plugin-systemplugins-vfdcontrol_2.0-git5692+cbd6db90+cbd6db927d-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 enigma2-plugin-systemplugins-vps-dbg_2.0-git5692+cbd6db90+cbd6db927d-r0_cortexa15hf-neon-vfpv4.ipk
@@ -1091,7 +1095,6 @@
 1698080615 gcc-plugins_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 gcc-runtime-dbg_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698080615 gcc-symlinks_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
-1698080615 gcc_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698080615 gcov-symlinks_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698080615 gcov_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698079972 gdb-dbg_13.2-r0_cortexa15hf-neon-vfpv4.ipk
@@ -5618,8 +5621,8 @@
 1698080361 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1698080614 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1698080614 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7285,7 +7288,7 @@
 1698079974 strace-dev_6.5-r0_cortexa15hf-neon-vfpv4.ipk
 1698079974 strace-doc_6.5-r0_cortexa15hf-neon-vfpv4.ipk
 1698079974 strace_6.5-r0_cortexa15hf-neon-vfpv4.ipk
-1698079956 streamlink_${GITPKGVTAG}-r0_cortexa15hf-neon-vfpv4.ipk
+1698124608 streamlink_${GITPKGVTAG}-r0_cortexa15hf-neon-vfpv4.ipk
 1698080361 streamripper-dbg_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1698080361 streamripper-dev_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1698080361 streamripper-doc_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
