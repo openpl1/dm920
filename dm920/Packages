@@ -438,9 +438,9 @@ Provides: enigma2-plugin-extensions-openwebif-terminal
 Section: base
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: 59b4656032aeae1f373e5f8d90e2b71b
-SHA256sum: 28c65836529ae498bd83d54a7dc7904e25d3cfed9e6d5c35120aa288cbcdaf8d
-Size: 3149444
+MD5Sum: 715c4b3dfff3c0a02f44c1e7c41f03ca
+SHA256sum: 22420cd9a6865b8465883a1682425dd8b09fa67557fde43c117a544213b0030c
+Size: 3149752
 Filename: enigma2-plugin-extensions-openwebif_1.5.2-205-g1d47ad03-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0
