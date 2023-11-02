@@ -2892,6 +2892,98 @@ OE: enigma2-plugin-skins-magic
 License: GPL-2.0-or-later
 Priority: optional
 
+Package: enigma2-plugin-skins-mx-graphite-pli-dbg
+Version: 1.0+git7+daaab250+daaab25d02-r0
+Section: devel
+Architecture: all
+Maintainer: MX
+MD5Sum: 3b7d4c2122c1c2ed19a674d957a7bf19
+SHA256sum: 3cf35c35171f04d039f5e28ac9272a779cf654effce76ad4dd65a36a6b8758b3
+Size: 670
+Filename: enigma2-plugin-skins-mx-graphite-pli-dbg_1.0+git7+daaab250+daaab25d02-r0_all.ipk
+Source: enigma2-plugin-skins-mx-graphite-pli.bb
+Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Debugging files
+OE: enigma2-plugin-skins-mx-graphite-pli
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-mx-graphite-pli-dev
+Version: 1.0+git7+daaab250+daaab25d02-r0
+Recommends: enigma2-plugin-skins-mx-graphite-pli (= 1.0+git7+daaab250+daaab25d02-r0)
+Section: devel
+Architecture: all
+Maintainer: MX
+MD5Sum: 6d03dc70172edf8cdaef08d2e9d5c070
+SHA256sum: 6e052fb2ea32be7d1b918e1f4e6d292354e89b1981e5a3344534368784db699f
+Size: 708
+Filename: enigma2-plugin-skins-mx-graphite-pli-dev_1.0+git7+daaab250+daaab25d02-r0_all.ipk
+Source: enigma2-plugin-skins-mx-graphite-pli.bb
+Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Development files
+OE: enigma2-plugin-skins-mx-graphite-pli
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-mx-graphite-pli
+Version: 1.0+git7+daaab250+daaab25d02-r0
+Section: base
+Architecture: all
+Maintainer: MX
+MD5Sum: d4a32cd0665dc68e55d06a5590aa3c7d
+SHA256sum: a6e4de2b55f6e107d092a5dcd2bf21b6b5d27b5dc6faf2cad7157ea0397c0098
+Size: 999248
+Filename: enigma2-plugin-skins-mx-graphite-pli_1.0+git7+daaab250+daaab25d02-r0_all.ipk
+Source: enigma2-plugin-skins-mx-graphite-pli.bb
+Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0
+OE: enigma2-plugin-skins-mx-graphite-pli
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-mx-hq7-pli-dbg
+Version: 1.0+git7+3fb09270+3fb0927e0f-r0
+Section: devel
+Architecture: all
+Maintainer: MX
+MD5Sum: 3aeec411e48a1e6c6c65abd69594e927
+SHA256sum: f8b1c581fcef5c7142c9a3855e5ad95570026d376fe9ee01df992ae88bdff378
+Size: 668
+Filename: enigma2-plugin-skins-mx-hq7-pli-dbg_1.0+git7+3fb09270+3fb0927e0f-r0_all.ipk
+Source: enigma2-plugin-skins-mx-hq7-pli.bb
+Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0 - Debugging files
+OE: enigma2-plugin-skins-mx-hq7-pli
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-mx-hq7-pli-dev
+Version: 1.0+git7+3fb09270+3fb0927e0f-r0
+Recommends: enigma2-plugin-skins-mx-hq7-pli (= 1.0+git7+3fb09270+3fb0927e0f-r0)
+Section: devel
+Architecture: all
+Maintainer: MX
+MD5Sum: 11a291ea598f32a4c06064bea15ecb84
+SHA256sum: ea92180086287bbdd0fcbb894e3f4192704104fedd03ba7c686c792a2664377c
+Size: 706
+Filename: enigma2-plugin-skins-mx-hq7-pli-dev_1.0+git7+3fb09270+3fb0927e0f-r0_all.ipk
+Source: enigma2-plugin-skins-mx-hq7-pli.bb
+Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0 - Development files
+OE: enigma2-plugin-skins-mx-hq7-pli
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-mx-hq7-pli
+Version: 1.0+git7+3fb09270+3fb0927e0f-r0
+Section: base
+Architecture: all
+Maintainer: MX
+MD5Sum: c11df28b4652b089b2dc9c9a209756b4
+SHA256sum: 52f1a2172c4e490e4961ea9ff4a49edaf7806c1f29d3aa0af7f931c97b615fd6
+Size: 1579784
+Filename: enigma2-plugin-skins-mx-hq7-pli_1.0+git7+3fb09270+3fb0927e0f-r0_all.ipk
+Source: enigma2-plugin-skins-mx-hq7-pli.bb
+Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0
+OE: enigma2-plugin-skins-mx-hq7-pli
+License: GPL-3.0-only
+Priority: optional
+
 Package: enigma2-plugin-skins-pd1loi-hd-night-dbg
 Version: 2.6.1+git533+46121d20+46121d2ca8-r0
 Section: devel
