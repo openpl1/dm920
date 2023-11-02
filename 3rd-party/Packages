@@ -194,7 +194,7 @@ Size: 1147440
 MD5Sum: d20de3f8244742d7684372c03fb288c3
 
 Package: enigma2-plugin-extensions-footonsat
-Version: 1.8-r3
+Version: 1.8-r4
 Depends: python3-sqlite3
 Section: extensions
 Priority: optional
@@ -204,9 +204,9 @@ Description: FootOnsat for Enigma2
 Source: enigma2-plugin-extensions-footonsat.bb
 Homepage: https://github.com/ziko-ZR1/FootOnsat
 License: none
-Filename: enigma2-plugin-extensions-footonsat_1.8-r3_all.ipk
-Size: 13406848
-MD5Sum: 01cf8783dc7126905f2a025372dcb3d5
+Filename: enigma2-plugin-extensions-footonsat_1.8-r4_all.ipk
+Size: 14782524
+MD5Sum: 37f897e182e446411da9d968def81b74
 
 Package: enigma2-plugin-extensions-freearhey
 Version: 2.8
