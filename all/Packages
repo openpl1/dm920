@@ -499,8 +499,8 @@ Version: 1+git4463+f8f3cc90+f8f3cc96b3-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e6c411fbafade5b8758be1e377caed78
-SHA256sum: d4ee3dc9d1f78d5284011d97ee7539cecd6235cc55292ffab04447a7e8efecec
+MD5Sum: d54d139385405bf8fe2855656d459fc3
+SHA256sum: c9de7947ef5bd5cbefbb1f24c38c5ae9499b69f1bc002d290d5966001d4bd754
 Size: 732
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -516,8 +516,8 @@ Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e3e143144dcf3c17800ba21efcccb63f
-SHA256sum: 7cc89a0436625318f34150169f6d36a946dbda06f8f19add189daf3e7f53d152
+MD5Sum: 44f399868a19d2d3f523f380bddeeecb
+SHA256sum: e0d2f22d76ca6b1f19016246d11bd9b41049b6d5f39dc5e0a8a81c41cc984277
 Size: 874
 Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -533,9 +533,9 @@ Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplaye
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 47e324fb68099d388f52fc698f2483ef
-SHA256sum: 1ac3dd53d9780c4080a8b05927b3bc8a36cd38479a4128954434ef490cb04f2f
-Size: 8988282
+MD5Sum: 33d4a13ec8a8ad6fc9c49b01542411eb
+SHA256sum: 53ece5ea0adaa03ca5d6bc4a3df1cd586bc7917d58ad5721ff3fbda8794d4b89
+Size: 8990038
 Filename: enigma2-plugin-extensions-e2iplayer_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
@@ -2770,14 +2770,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dbg
-Version: 1.0+git77+38c7d4d0+38c7d4dead-r0
+Version: 1.0+git80+59951290+59951293d1-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: dfcac55731a57f584b10273fe3237603
-SHA256sum: 920b9d2b96ac2ad061046f10531a22c711ccd97118de8b023f5a899f08e44304
+MD5Sum: 8854369501247ceccac50556f9901fdb
+SHA256sum: 2b9e7a59da872949506119937f28e5f8fd7ca615b81da94f66d28ef6961e86db
 Size: 688
-Filename: enigma2-plugin-skins-darkos-dbg_1.0+git77+38c7d4d0+38c7d4dead-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dbg_1.0+git80+59951290+59951293d1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-darkos
@@ -2785,15 +2785,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dev
-Version: 1.0+git77+38c7d4d0+38c7d4dead-r0
-Recommends: enigma2-plugin-skins-darkos (= 1.0+git77+38c7d4d0+38c7d4dead-r0)
+Version: 1.0+git80+59951290+59951293d1-r0
+Recommends: enigma2-plugin-skins-darkos (= 1.0+git80+59951290+59951293d1-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: dc71fdd54dc900606af792e35e5b2ece
-SHA256sum: 3f646cb943471f7656eb515f7bd023725fd14149ed92c291a96132176b76fb2b
+MD5Sum: 51fd80736c0777b06d6106270e9b61f7
+SHA256sum: b0af15a184020fa18b63af1fb2402535afb36e9f0133dd785a8d22d51c522253
 Size: 726
-Filename: enigma2-plugin-skins-darkos-dev_1.0+git77+38c7d4d0+38c7d4dead-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dev_1.0+git80+59951290+59951293d1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-darkos
@@ -2801,14 +2801,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-src
-Version: 1.0+git77+38c7d4d0+38c7d4dead-r0
+Version: 1.0+git80+59951290+59951293d1-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 135d310c1895a2bbe651d416f885770e
-SHA256sum: fb4e83ac0b71c2a8aceb79d733958f2eeeb8e4f208962c7fe9bb60201d2813e1
+MD5Sum: ef3b2ba96fa9fe382b6bf33f4352d452
+SHA256sum: 25cf65098e0338c0e4d4dd9ec027082999115dd200faca9cdf6468046731105c
 Size: 6094
-Filename: enigma2-plugin-skins-darkos-src_1.0+git77+38c7d4d0+38c7d4dead-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-src_1.0+git80+59951290+59951293d1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Source files
 OE: enigma2-plugin-skins-darkos
@@ -2816,14 +2816,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos
-Version: 1.0+git77+38c7d4d0+38c7d4dead-r0
+Version: 1.0+git80+59951290+59951293d1-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: a3f9a51dd75c4bf4a697493c82d4c27d
-SHA256sum: c2fa0ad4517d53fe58ba7e0a5dc49727eb86f0d3b129ee36c6e1909c0d8adfe7
-Size: 1490544
-Filename: enigma2-plugin-skins-darkos_1.0+git77+38c7d4d0+38c7d4dead-r0_all.ipk
+MD5Sum: 7faed69a6512ec81de87670f10e91731
+SHA256sum: 35be66587c622eec0d30f54d4b9ac9c9a73a5fa287e44f8999ceec38b5dca24c
+Size: 1490114
+Filename: enigma2-plugin-skins-darkos_1.0+git80+59951290+59951293d1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-darkos
