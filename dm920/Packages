@@ -966,8 +966,8 @@ Recommends: glibc-dbg, libcrypto-dbg, libgcc-dbg, libssl-dbg, libstdc++-dbg, uch
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a9dfa25a9d1a13e44508e6166c811b21
-SHA256sum: 634368ab476398f46046ab220b27300b446d4dbbedaf415799cb483036850df0
+MD5Sum: 9ccc92b20a37a144363f4c09756773a5
+SHA256sum: a93613f6a31b9e53f70e94942cfb85ce7d275389567bd746555e14e6e844148f
 Size: 1696872
 Filename: enigma2-plugin-systemplugins-serviceapp-dbg_git176+947f62e0+947f62ed5c-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-serviceapp_0.5.bb
@@ -982,8 +982,8 @@ Recommends: enigma2-dev, enigma2-plugin-systemplugins-serviceapp (= git176+947f6
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bfbf383acbaf14ff583face19db1a9ce
-SHA256sum: 1ae83f4305e56fa8fc79d9930e4edbcced6987e84cc376d7acd004926f1ea658
+MD5Sum: f6d215fd340a55cbc350de3e23d732a0
+SHA256sum: 034c3cc446a019779340ab82d5eeb9358c6f00913b127614c0edc7cfbd780b96
 Size: 800
 Filename: enigma2-plugin-systemplugins-serviceapp-dev_git176+947f62e0+947f62ed5c-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-serviceapp_0.5.bb
@@ -999,9 +999,9 @@ Recommends: exteplayer3, gstplayer
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 791d80527c977e772a5480786414bc23
-SHA256sum: 6ac373f219d7fa74ec4cc268544a655f780fcbe4f2f68a9102fee603a05bc6d8
-Size: 128822
+MD5Sum: f9dc56c332b0e9081ba9bb30b3bd2fe3
+SHA256sum: 0f45d3693d1a1d2eab7ef876dd1a7266e45e7cc592810b7329dd08cda9d7d3ed
+Size: 128236
 Filename: enigma2-plugin-systemplugins-serviceapp_git176+947f62e0+947f62ed5c-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-serviceapp_0.5.bb
 Description: enigma2-plugin-systemplugins-serviceapp version git-r0
