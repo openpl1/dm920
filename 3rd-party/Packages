@@ -68,14 +68,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
-Version: 0.40.20231024
+Version: 1.00.20231105
 Section: misc
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 2e7268280d76540c8f6922bb8546279f
-SHA256sum: 4ae1fbaa8a3ecd3c13eb33de0f98b7bfced772f7be167448196f75322818e308
-Size: 1369710 
-Filename: enigma2-plugin-extensions-bouquetmakerxtream_0.40.20231024_all.ipk
+MD5Sum: 928c2d36dbcf388060204060977b7ef0
+SHA256sum: e3245da121bcb462ed25f9b81babfbb1d6db3e27c32a173d2553b4445665fb83
+Size: 1405834
+Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.00.20231105_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 OE: enigma2-plugin-extensions-bouquetmakerxtream
