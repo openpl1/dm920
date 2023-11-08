@@ -499,8 +499,8 @@ Version: 1+git4463+f8f3cc90+f8f3cc96b3-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e6c411fbafade5b8758be1e377caed78
-SHA256sum: d4ee3dc9d1f78d5284011d97ee7539cecd6235cc55292ffab04447a7e8efecec
+MD5Sum: d54d139385405bf8fe2855656d459fc3
+SHA256sum: c9de7947ef5bd5cbefbb1f24c38c5ae9499b69f1bc002d290d5966001d4bd754
 Size: 732
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -516,8 +516,8 @@ Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e3e143144dcf3c17800ba21efcccb63f
-SHA256sum: 7cc89a0436625318f34150169f6d36a946dbda06f8f19add189daf3e7f53d152
+MD5Sum: 44f399868a19d2d3f523f380bddeeecb
+SHA256sum: e0d2f22d76ca6b1f19016246d11bd9b41049b6d5f39dc5e0a8a81c41cc984277
 Size: 874
 Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -533,9 +533,9 @@ Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplaye
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 47e324fb68099d388f52fc698f2483ef
-SHA256sum: 1ac3dd53d9780c4080a8b05927b3bc8a36cd38479a4128954434ef490cb04f2f
-Size: 8988282
+MD5Sum: 33d4a13ec8a8ad6fc9c49b01542411eb
+SHA256sum: 53ece5ea0adaa03ca5d6bc4a3df1cd586bc7917d58ad5721ff3fbda8794d4b89
+Size: 8990038
 Filename: enigma2-plugin-extensions-e2iplayer_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
@@ -1642,14 +1642,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5b275618d1d5d6e507f853e0e0d856fe
-SHA256sum: a023cd2f6acf2703480a35ab283c5e2b6a1528328a3eff5b44ada2a126dc29c3
+MD5Sum: 698c1f1143d85e59a5780d677dc35b6c
+SHA256sum: 7ba965ec2f07a1d42d1e93c9b84119ab29a7fdd00d3ed7a36ea12bac88eae83d
 Size: 734
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
@@ -1657,15 +1657,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 67015f60e85767b147f0e4e0f8b09a1a
-SHA256sum: 08a91755c96d94e6b62b40229ec6b3c857c6d06e5de922c9277ff99674569f36
-Size: 772
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 599c6e84c85f6750d34cd24def78bf9b
+SHA256sum: e5efb1e439e61094f63064a4c21bf079d2945dd4a54fcc40854642b668b106fb
+Size: 774
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
@@ -1673,15 +1673,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 96792b4145cf687a1a4e13d689980996
-SHA256sum: 7621a4dc04e7663db5532f776e331c48ccb51d21d16c8cc2afc126419f86e453
-Size: 76618
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 314b3d434bb15c3c8fa56047b2308148
+SHA256sum: c7f95f924b02091a7301910c383fa43d492ed9840ce6200d6f6e57c7bef2a816
+Size: 76966
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
@@ -1689,14 +1689,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 91a79d2c8fa06edde4d8a21e2ecdb986
-SHA256sum: 79515710581cc42e8ec54c58ac952ea4ffc6b0e52fd0eecb759c34bcf76ae268
+MD5Sum: 653e37553ff0c7ca25f487070f7782d8
+SHA256sum: f9e855740c1762817fb7ff32254d012ba24b313561c5d54966311eaad147feb6
 Size: 726
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e-19.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
@@ -1704,15 +1704,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 44e906b9cc2c15edcfbe30db91991c00
-SHA256sum: 437fea63999a592beef9ad522f618825393796bbbc1f590c0e648d48d88f72fb
-Size: 764
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: de07682d143e20215e68221c8248ad9c
+SHA256sum: 4f53dfd14666b4d739d7e1a53453609f0646bcbaddae39e63fe74008363c5763
+Size: 766
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e-19.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
@@ -1720,15 +1720,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 064db60d432dd0d84f3d5137e567acfd
-SHA256sum: 28402e1dfc0e679268ee8875a599c1dd3359a761bac7bad2fee0561d16ee1d95
-Size: 64044
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: b112c2e5f982f3c625441ed178c25870
+SHA256sum: ec8af8b30ab4bfa274b5bb565a3ef9958b34f211889c868f17d148aa2ea36e34
+Size: 64346
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e-19.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
@@ -1736,14 +1736,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c0fe91c0ab7a85c91940546997db9f79
-SHA256sum: 482d949a1d1398a3033db6d6257e282b41ed7edd652c65a6113610b9d7616fdf
-Size: 720
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: cd87e7b4d95207f57abf97759a98e92c
+SHA256sum: c4b88b2bd8d7702b08966f9119174b077a26e0e1dd5ce11a2c50f4ae74f1f28c
+Size: 722
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-13e
@@ -1751,15 +1751,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-0.8w-13e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-0.8w-13e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2e6d9b7a89f4eb0721ec045c4392bcea
-SHA256sum: a752a95dac9db268974adddf784c8aea967b31cc329f0373b732ed9f9c87d501
-Size: 758
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 9bdbaa2b45e5ed7c7fbc59e65b044e77
+SHA256sum: 8e82a7a2ecdf5394d0b7438b21d6daf7cddceab00ee10b15103b8271cca87ede
+Size: 760
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-13e
@@ -1767,15 +1767,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e2e8a3aa4737b8ee14d8d84e16e02b70
-SHA256sum: e2300b8827e7a681c3f28cddef8d181d44d9961847157625aec8cc3fbf4bd3ed
-Size: 44274
-Filename: enigma2-plugin-settings-morph883-0.8w-13e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 4c6d5af4d40d99f5af9ff36d7fcfc7df
+SHA256sum: 8156db3c5e771f2b5ed7c561123346763e2de5bed2365560ed1a54f50b606c1e
+Size: 44410
+Filename: enigma2-plugin-settings-morph883-0.8w-13e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-13e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-0.8w-13e
@@ -1783,14 +1783,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f3594854d5e7212d0c961a5c4549f2d4
-SHA256sum: b532009cf4da962a3eb5d9c4147fa8fed0489799bae3f004eb2b1f012679a721
+MD5Sum: 993a62c5f642f0dad1902a99ff1aee55
+SHA256sum: 977aef59b5b175ca49d4376f100489ef085596e415d54533e239366f6a617713
 Size: 726
-Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-4.8e-13e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-4.8e-13e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
@@ -1798,15 +1798,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-0.8w-4.8e-13e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-0.8w-4.8e-13e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9e1bacc3467e34f5de83c71418a157bd
-SHA256sum: 60f498478d063aa67bb43bb158af07808a2dc9b7fcf47ce6616bc0b9279449d3
+MD5Sum: f8efa5285cc7878d9f81231964db9737
+SHA256sum: 8609b2786913ef925707f41a9ec41fd57f72cba0a09e254d8c5ab47afef95423
 Size: 764
-Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-4.8e-13e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-4.8e-13e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
@@ -1814,15 +1814,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 862abcab090759ba7bb7587181164150
-SHA256sum: b68ea93ec22d1705ffa3a62cb16f07c85a2facbf86c9be0e209046d448864db0
-Size: 49894
-Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: cb0409ea80fd8e2531667c59e4d89175
+SHA256sum: 77131fd8089cd89f50cd7677325960526d9dc2a54c0cffe873b5f179a9762947
+Size: 49990
+Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-4.8e-13e.bb
 Description: enigma2-plugin-settings-morph883-0.8w-4.8e-13e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
@@ -1830,14 +1830,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8ef77462655cf1c722f90f5450494611
-SHA256sum: 8d6cce4b8ba089afe12b5265e2561efe7991e840fb88ab34da1136995309d7da
-Size: 730
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 0717b641427b0caf0501872d281e9925
+SHA256sum: 816ffa1b8c8fe7870f72b63b28b973d2972bae9d862c6cb1fac83c4b26d8d7ef
+Size: 732
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
@@ -1845,15 +1845,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 67cdd4fb87522acfef3cefcea8bc370b
-SHA256sum: 3c3877957cb60ab5e592f97084365a9cce1c062cf44e89c12f1079971449dba2
-Size: 770
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: c3e979eb848b775e244bf8d1295e8fa8
+SHA256sum: 5787ba84880f676f382bf9c18aa1294b5b0a5e508bb81d99b4d60317b3f39de1
+Size: 772
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
@@ -1861,15 +1861,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5279c7ced5105f1ca237e7dd5ec58356
-SHA256sum: cb3095994121ff117cb7ad52897b6cf71993d3156326537b9e166468cac1f6ac
-Size: 72632
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: b7086da5495a493d02710b37f2694fda
+SHA256sum: 2ef5c07b776f1c5e801ae30215bb0707e9c4002f6ad8626e12b5c5d560853d44
+Size: 72840
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
@@ -1877,14 +1877,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7bd4361101c75af8b1d98dd4424b8e12
-SHA256sum: f604ddb10f5ef2704b5c1215cd5fcd0fbbbff69ad12507cde8c96b6583b15aa2
-Size: 724
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: cf0883d9ac2d5cc17584911bbb76830e
+SHA256sum: 59b1c116c8f043d5eeadddd14e39f301cfd1ce015e3aff144e7d5ea0f9b01c81
+Size: 726
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e-19.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e
@@ -1892,15 +1892,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-16e-19.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-16e-19.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 162fad16e5927ebb178946788ed0859d
-SHA256sum: 8e57db22a69598250fb4fd8992c39baad8d216a216a7b57a173e47a57a6018bb
-Size: 762
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 926ccd0ca0660612221619542240b9f3
+SHA256sum: 0b0fe151d9e1c86535baf3fd2b47f08b192e7bd2e1cfa800d9a8fe965cd60bf6
+Size: 764
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e-19.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e
@@ -1908,15 +1908,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 078db3a85866a72f66b4056513c22ace
-SHA256sum: 87eda3b26d936ef3d9a3e25ee14911685cd85fcca790f4efb3865d47d64b3c6c
-Size: 60736
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 73153a6ade0149d7bde5702865ee8aef
+SHA256sum: 40611889579bda56f7ca69ee8b4d5eebef8b13e56968ad10622a3742208ca748
+Size: 61032
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e-19.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e
@@ -1924,14 +1924,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 04028b7466d5d472d51968b8c987b739
-SHA256sum: 34f6a5573e46d8349aa0585cea2c3b6baae3769d8a8493bf15fd645be27eafac
-Size: 716
-Filename: enigma2-plugin-settings-morph883-13e-16e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 32294249fb0c1b16da1f97b10c390991
+SHA256sum: b1050f50fe39a5254f8311c74d9fab8a3e75a02f3c0bf21b84849767fc7b55da
+Size: 718
+Filename: enigma2-plugin-settings-morph883-13e-16e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-16e
@@ -1939,15 +1939,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-16e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-16e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6743efd7a9170e283e0502634786038c
-SHA256sum: 3c0243ab7d34807efee66b5c96457e3b5073e53ffc0b23f9a015e6dc4b56f3ae
+MD5Sum: 85fafd2f6571a37a19c9a4c481e288cf
+SHA256sum: aa906666003ee8e11d435f74510c7e80dde765332a16387a871031e3ce32ef26
 Size: 758
-Filename: enigma2-plugin-settings-morph883-13e-16e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-16e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-16e
@@ -1955,15 +1955,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 51fd941db0b402cc9ce51353fb072376
-SHA256sum: 9a43f49cc0afadac89d3f02ce9f1ec86a2d3871c2f321e3bac1b0024108ac1de
-Size: 41082
-Filename: enigma2-plugin-settings-morph883-13e-16e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 9455f1d877ef6c7c22ee6b54418225c1
+SHA256sum: fa9d13e3c726a53b893c225c8006eb728ff8636613dd63839afc38b125431269
+Size: 41090
+Filename: enigma2-plugin-settings-morph883-13e-16e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e.bb
 Description: enigma2-plugin-settings-morph883-13e-16e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-16e
@@ -1971,14 +1971,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 46699e2b0e882ff4110e76220ac9021b
-SHA256sum: 8b8ad0f078d605bf34fe6faedaeb013a289708ab08a290730420f89f74b9bdc1
+MD5Sum: b6b3c83e11ef9d81775bcbdbfbfed66d
+SHA256sum: cb523e15c9e494227ff07bfc63371ef6e81fb24cf8a94f76094c6ecb7ca453a3
 Size: 732
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e
@@ -1986,15 +1986,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1600ec364ffe36f45fcd58089088b146
-SHA256sum: 35a008f9791ba54912d05e096b62d39c6ccdd87162b2eb4bbdbca6a8c56e04b0
+MD5Sum: e169168b06e644b7438171cd0c2ace34
+SHA256sum: c75f25feb4e829ef9ef03d43a23a79938ef50bd0c6aeef1ae0bee3cd84e6da79
 Size: 772
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e
@@ -2002,15 +2002,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0dc169be65fbaac789036779bbf08235
-SHA256sum: 42f6fd370f183d7dcab679778d4ad579821ec962e157ba4c4f4bad05ea10d84c
-Size: 72612
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 5d3b2c7bbc1628aa060ec7b73cc7b216
+SHA256sum: 16d89a599afcb261a158b45ff8d693c19cfad3ffb43454a0c075d7780dda8e7d
+Size: 72866
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-28.2e
@@ -2018,14 +2018,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: de4e43cae05521b817d764166d7e66b8
-SHA256sum: b12ea82ecdcde06b5072b4d7013ab5cfff1b40c9fb0a20e6fee12353a7da2ff4
-Size: 726
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 2bd3f34f5c755520b1e6192bff178310
+SHA256sum: 62e81f5d75671e23f91d565553d50323503a02324333128b9fb0b2e8f507c846
+Size: 728
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-23.5e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
@@ -2033,15 +2033,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-19.2e-23.5e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-19.2e-23.5e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d0ab1eea693874bed3ce6f22274fea68
-SHA256sum: a37de00318521216ac2d0b00abf2ce98e01d5eec367a03f2381031bb5b4107d1
+MD5Sum: e75b93030129eec68743429912e21ffe
+SHA256sum: 4d2e460d7c071dcc84b1dffafac09c58e9abe067b8d7be771c239d4959450157
 Size: 766
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-23.5e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
@@ -2049,15 +2049,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9a451cb913da6ba95db265b22225de9e
-SHA256sum: 392937bc37e1092214e4745b8a384fdf3028d69759e7035d4926f2473a2a75dd
-Size: 60098
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: aa668ac62adb4d5f83f9eb905c7c3791
+SHA256sum: d3305c6798b0aea7785549dfe99baa0f6e7483d4e99801c653c73f7c0259baa8
+Size: 60316
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-23.5e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
@@ -2065,14 +2065,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 28b577a65fcbf7c4a8fbf7b0c785c24d
-SHA256sum: 68308597776e1ba13cdacd2220fe8d4d6b9539db0ef49120473bab7d1a37ead3
+MD5Sum: ef8be5e58ad8ad29e0b872189d9c313f
+SHA256sum: 3315237e115c8cfa6e296092a9ed60af2f65f1ada11144b4934cb928ccad1e91
 Size: 726
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-28.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
@@ -2080,15 +2080,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-19.2e-28.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-19.2e-28.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 82a0e259960ec62bd674e7bc701b65d4
-SHA256sum: 3940336caffd6208cfa0c8e44162fe9a6f935b5810aaf54ca97684518de8bd65
+MD5Sum: a1ea979f3ec8ff217d4082af90dd17d8
+SHA256sum: b1a9ed85728608008ae4507f65a32658c56d593f8878d6d6c8c020b8a62d9a80
 Size: 766
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-28.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
@@ -2096,15 +2096,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9c6124fe65caa8c3361c5d10b7025195
-SHA256sum: 9d3d87e68169d5cad3e3c316032a2b333fa6a87d26247e2dcd5dfd4b61a8c6aa
-Size: 60662
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: a03fc27c817bc4407aa313648276094d
+SHA256sum: aab29063cbfe890f5b13ad08090f1448d83d59fb6ce095cebe6065da9fe33017
+Size: 60900
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-28.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
@@ -2112,14 +2112,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-42e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2d691f92521da412c3ea648a4ec40c66
-SHA256sum: 771eb18dc90926f14f5f84a87746c3cc5cb9801cf2af37539ce720f015c44b7e
-Size: 724
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: dcf21b8fc319e726aff4fdc846f50478
+SHA256sum: 213656f345c539e5e0a0fabb5032052d125af8cc31ced65bf96c7f694679bcc2
+Size: 726
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-42e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-42e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-42e
@@ -2127,15 +2127,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-42e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-19.2e-42e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-19.2e-42e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0895fec88214327b60b95949b75593ee
-SHA256sum: 5ab0988e43d55a8fcf4c503d4235a66bdcc60a3460b88a8015b5355b0096c771
-Size: 762
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 081402f44b10bdd819f59b16a91df543
+SHA256sum: 99a609da87ff47f22b03f30805873a411ce3d0d062f76a2e3037174ce0dad408
+Size: 764
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-42e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-42e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-42e
@@ -2143,15 +2143,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-42e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e5f0c11fdc7f9c33fda52b703e8add9a
-SHA256sum: c5e1da8af4b3ed4a1c9db051aaed63e902e62e61114d2bb53411132547e2c93f
-Size: 61602
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 6b5fda2469ef0cb049ef701fe382b015
+SHA256sum: 9fa6a79bbaf58d19a6e60446c088326bf7f9584f0986b4206e8591b7554aa80c
+Size: 61914
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-42e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e-42e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-19.2e-42e
@@ -2159,14 +2159,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3c7ec549a07a707d97dbef98a7e5e8d8
-SHA256sum: a8eb22a780b9905e1a232a40e6f42b5acfdb8fd9b19130abec0095a2ee6b89dd
-Size: 720
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 88d3c83d471ecc8e1cdd4094d435e037
+SHA256sum: 77a64a6ce48e332f0f873e379541936dc7f56978dff0b63412f1d64d04a3ba42
+Size: 722
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e
@@ -2174,15 +2174,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-19.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-19.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ab9180792ff2423dc874cf1918c828ad
-SHA256sum: 176342b78c782c56b25eb75515deaeed02fe35c6983a2abdd0fada0e8a30166c
+MD5Sum: f8b4e274b98dc06a431db5624b17134b
+SHA256sum: 9ed44785b11e887b92f63c9d3d5644ae9a2b0b7e3d5cd8d0effa9340ae1709db
 Size: 758
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e
@@ -2190,15 +2190,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 74e48c6679cab987a832f6a71ee644ab
-SHA256sum: 990724ea9e8f76c16fbd37d7b572b179233e9eeaa7819d34d9dc3e14541a9814
-Size: 48022
-Filename: enigma2-plugin-settings-morph883-13e-19.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 65f670e439872bf66574960780ebbcc4
+SHA256sum: f16fd196af95b4d26f82a52778f80e9564413ee70e534c865235f3889601433a
+Size: 48236
+Filename: enigma2-plugin-settings-morph883-13e-19.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-19.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-19.2e
@@ -2206,14 +2206,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-23.5e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9a7cec9693f7ebe8b4dd8406325d25a8
-SHA256sum: 55de71295f5fd16eedbc5873b3480fd888d5bc0b682fe12afbdfbe9a10965bf9
+MD5Sum: 436f5484a03761442682394627c26b08
+SHA256sum: cd5347d08820f7f4857af317f0f00fff61d0a0be154551fdfc31ff44c8056517
 Size: 720
-Filename: enigma2-plugin-settings-morph883-13e-23.5e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-23.5e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-23.5e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-23.5e
@@ -2221,15 +2221,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-23.5e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-23.5e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-23.5e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7a296a6157a7dc7e5a6f6d2344799e10
-SHA256sum: 42d5b875831cae9167d0322250fa1f13f342cd75f1a68dd3e6ec01ea04830394
-Size: 756
-Filename: enigma2-plugin-settings-morph883-13e-23.5e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: b425649793c0ecda608d2c81e75aa3c5
+SHA256sum: 96382d7670459aef78801f849341bfa6b64a4dcc4b17ee8743c1708e0e2b63c8
+Size: 758
+Filename: enigma2-plugin-settings-morph883-13e-23.5e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-23.5e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-23.5e
@@ -2237,15 +2237,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-23.5e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 80b4a98fc10d46edfbe049fffdd690d4
-SHA256sum: 0e9d6d577bf0798e4af0ba29b64c2fd7910bef9c815bf48544573d4e516f82eb
-Size: 40446
-Filename: enigma2-plugin-settings-morph883-13e-23.5e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: f13da6d3e50cbb4729cb3877377f25e7
+SHA256sum: 4ec116efc45c8f799f2a948fbcb0c74f90c14d4fc3f727fd9a05969c003006c6
+Size: 40476
+Filename: enigma2-plugin-settings-morph883-13e-23.5e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-23.5e.bb
 Description: enigma2-plugin-settings-morph883-13e-23.5e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-23.5e
@@ -2253,14 +2253,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-28.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: be9add67cb9dbe438ccbd63d494d74ac
-SHA256sum: 8755b5a6227b84c75961abaa82925b78953477af0da20e04735b56deacc4e2a7
+MD5Sum: f0afc9394ed58aac7f8e5e65e11f399c
+SHA256sum: 4ebf2e6d357d7a3b83b3b36784334c7893f4030ead8c69d2f07f7be6d4d4f310
 Size: 720
-Filename: enigma2-plugin-settings-morph883-13e-28.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-28.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-28.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-28.2e
@@ -2268,15 +2268,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-28.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-28.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-28.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 415472ec1c77343839bc0e64eb62bf10
-SHA256sum: 2f20f01a251ad95a7861c3bf792ab62f03b4ef4ea8a91a1f64909b4c81432786
-Size: 756
-Filename: enigma2-plugin-settings-morph883-13e-28.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: d1ac0ef5104d4c2d822071392a70cb06
+SHA256sum: 31f13896d665abe4ae417d23c349a171785e794b1e52cbb95a31f93de3f552b5
+Size: 758
+Filename: enigma2-plugin-settings-morph883-13e-28.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-28.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-28.2e
@@ -2284,15 +2284,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-28.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4ec92f045aafdf1f967beed7fddcd1a6
-SHA256sum: a378bea55741905a39a4f2f5dbdfd15f311916585d55ba43d766ccebbcc8699b
-Size: 40894
-Filename: enigma2-plugin-settings-morph883-13e-28.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: ff6f78fa7b26173306f61e74744119a3
+SHA256sum: 04e8228a12f8771b135f972f630994e60fce723298fd2a3eb112ca4f836a3701
+Size: 40978
+Filename: enigma2-plugin-settings-morph883-13e-28.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-28.2e.bb
 Description: enigma2-plugin-settings-morph883-13e-28.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-28.2e
@@ -2300,14 +2300,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-42e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6061980a1b9af518b9c3c49d52abc747
-SHA256sum: a7385abc7bafbf04842e8f656c7c311740ab26b5982b16a832698bb710bd7939
-Size: 716
-Filename: enigma2-plugin-settings-morph883-13e-42e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 15c62803b847a4bb2227318c0852656c
+SHA256sum: ee2897f816beed622baedb60068c046b6f312071c16473745bdaf56fabbc8a17
+Size: 718
+Filename: enigma2-plugin-settings-morph883-13e-42e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-42e.bb
 Description: enigma2-plugin-settings-morph883-13e-42e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-42e
@@ -2315,15 +2315,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-42e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e-42e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e-42e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 99d244aa248b94058b56990dc0df3ff6
-SHA256sum: abe9a1e43fbc7d150e394b4d77cf0e22b6e425c06576fde5f550fb2f8b007a14
-Size: 756
-Filename: enigma2-plugin-settings-morph883-13e-42e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 2747777036112cbb360259f993c872f8
+SHA256sum: ccf5ff21c8fd546acf176d7cbf3d9020701a7132920c30947dc66481f9687184
+Size: 758
+Filename: enigma2-plugin-settings-morph883-13e-42e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-42e.bb
 Description: enigma2-plugin-settings-morph883-13e-42e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e-42e
@@ -2331,15 +2331,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-42e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e5ea9a206aaf2c11921ddfbe33eab521
-SHA256sum: 3da0602cd3f4ae5016f666467e28a119881dd53e913c763129806b9f23fe4e8d
-Size: 41854
-Filename: enigma2-plugin-settings-morph883-13e-42e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 13172831cc37734887e6f5650adcc51a
+SHA256sum: d2346a5e219ff99b3d0a43e18e26af54aaaa2029c5d8e925f2024e0b170d31f9
+Size: 41966
+Filename: enigma2-plugin-settings-morph883-13e-42e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-42e.bb
 Description: enigma2-plugin-settings-morph883-13e-42e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e-42e
@@ -2347,14 +2347,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: baf316bbe2dc651bd22bcdbce055a17d
-SHA256sum: 6896d0240b3c5541a8cec540657ee33754b30f9c5a178ada641f2532bc4c4a2b
+MD5Sum: 4f48e1fbbc225cc1adf03efa79cb5a35
+SHA256sum: 77f5f1a0589da6e0fa8fbfc07fcb2e48e09a8ae494859c947ffd6025942e5983
 Size: 712
-Filename: enigma2-plugin-settings-morph883-13e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e.bb
 Description: enigma2-plugin-settings-morph883-13e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-13e
@@ -2362,15 +2362,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-13e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-13e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f9974e683f600ed54e52fa218b8f88a4
-SHA256sum: f69f47783773b968798ef40d8b827391ecfbb80f980aa25b7bf9fe50392d8816
+MD5Sum: e468a64e81898c136165960bf803cbc4
+SHA256sum: 79e32fe624f5aa2620a84847979ac6c53931b6bb911fbaeb29ea11a93894b090
 Size: 752
-Filename: enigma2-plugin-settings-morph883-13e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e.bb
 Description: enigma2-plugin-settings-morph883-13e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-13e
@@ -2378,15 +2378,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7ce8c39efd82bc7bd4adb3832bfc2aee
-SHA256sum: 3581593cb3d296f9b75c06969caa8ec0322b64056c61bf96ca31fa49e892801f
-Size: 28142
-Filename: enigma2-plugin-settings-morph883-13e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 8e999fd85e16c56fe5c4bde3c93263d6
+SHA256sum: 889e610ff1fea168366f13952c16c77ad5c5bb34c615acec77cb8b6985379f8b
+Size: 28190
+Filename: enigma2-plugin-settings-morph883-13e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e.bb
 Description: enigma2-plugin-settings-morph883-13e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-13e
@@ -2394,14 +2394,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-19.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 50ff3bba48254b02d3b23f15d0895577
-SHA256sum: da77c9a79281eaf7f9fcb356164d146cd7ad6506f39fab42351ab1bec45151b0
-Size: 726
-Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 13924f6ae4bf6e84303e5f8e8b011a0b
+SHA256sum: ffd068e0a1c16c7ea36e604e1fc68325213df75ec4f2217e43a0bfcde4cebd0a
+Size: 728
+Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-30w-13e-19.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-30w-13e-19.2e
@@ -2409,15 +2409,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-19.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-30w-13e-19.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-30w-13e-19.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 678e12d5b8d9c0db613b6e0a2d79d396
-SHA256sum: 4f7f37a86f48cd3c37b33501129e108de9f9e8d166723d14490fc1b722111965
-Size: 762
-Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 08444c4ce90f4e95349cfad41ae3324d
+SHA256sum: b82592f541df23ec89e71780e6f631339a9fc98f7b4a725bf8691b4d7ac4fd58
+Size: 764
+Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-30w-13e-19.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-30w-13e-19.2e
@@ -2425,15 +2425,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-19.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 950d63f08587c9a809b4754f4a5b74d5
-SHA256sum: 6f7d18a3db4fe0e12e38ccc1d47a02aeac0f111c8c7403ca4896d644a946d801
-Size: 57662
-Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 5fb056b9913b6247a9229a6ea8e9ad83
+SHA256sum: 3142fa36a144af175eb64d2c215723c14d2c5ad46511f5970d2f9fdc44b6e75a
+Size: 57874
+Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-30w-13e-19.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-30w-13e-19.2e
@@ -2441,14 +2441,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 641f08ba2e852c6fcd606fd3c653b88c
-SHA256sum: a8fdf9d353f1609ebc9862384b18204c711600d4e0fb40bb0bc61881e7e93c90
-Size: 718
-Filename: enigma2-plugin-settings-morph883-30w-13e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: a24c6beadd2dee1d51ecd0a44b7c19cb
+SHA256sum: cebb178c561eef0cd25516c57af840eaa3e07b683ce7f3f9a09a3dbbe46aa39d
+Size: 720
+Filename: enigma2-plugin-settings-morph883-30w-13e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e.bb
 Description: enigma2-plugin-settings-morph883-30w-13e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-30w-13e
@@ -2456,15 +2456,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-30w-13e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-30w-13e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 918b4e7cfc2da3a533a01e1255ad9665
-SHA256sum: 77ec9af3c993d12f6f6bb3426737c41cd396d4a9c55727b9c91d90c59b6b25e0
+MD5Sum: 002551dd4340a075744c35d377a57810
+SHA256sum: 3d87ff8f92838fcc9943267dd2db1ddcb5156377e63ed30a52aeb7ba42db90f6
 Size: 758
-Filename: enigma2-plugin-settings-morph883-30w-13e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-30w-13e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e.bb
 Description: enigma2-plugin-settings-morph883-30w-13e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-30w-13e
@@ -2472,15 +2472,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a803cd905ed370fff864222902ae82a4
-SHA256sum: 72062eb9a0fe1d53cbaafdc81ac67a02c631fc3dc890e0803e5f00f7bad786f1
-Size: 37884
-Filename: enigma2-plugin-settings-morph883-30w-13e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 1b3b61a7449a297d02c188f8eed5bf0b
+SHA256sum: 4a504ab1306fbf0e4b6ee71d553938eae043e50f23dd45fa8e51fd764d5641d3
+Size: 37932
+Filename: enigma2-plugin-settings-morph883-30w-13e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e.bb
 Description: enigma2-plugin-settings-morph883-30w-13e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-30w-13e
@@ -2488,14 +2488,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8fba907fe4f7073faa63c96b583a9930
-SHA256sum: 327c53bacdd102ece050040c74fc81170a05b343b208b9a5f632a02ec3602e3a
+MD5Sum: 27fcd557ba413c06870320098aa114f5
+SHA256sum: 7748e5f4447692256776330c78082c92d5746f50a0df23bf31f20a8b6bd93ceb
 Size: 726
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-4.8e-13e-19.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
@@ -2503,15 +2503,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-4.8e-13e-19.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-4.8e-13e-19.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5608dd2f867a626e332ed02810140af2
-SHA256sum: 9f95e12342bc017e42ef79f90ae91b8bb120f606f4d80c6203c47098c293ac5d
+MD5Sum: 0e2b894272d46aac39a8f629ab59fe62
+SHA256sum: 495c55dcc4ff671f5e0cf6bbf35a2f4f7071a0c9df56f0031e0a74618402a81f
 Size: 764
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-4.8e-13e-19.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
@@ -2519,15 +2519,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e50d578a7cb30825bb8af7a3e6b5b288
-SHA256sum: cfd7ea6962f3510e1a27c12031375f0daf2203b74fb3fa47b872be0ac51fe2a6
-Size: 53578
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 3763844aa2bcf8c843ccd61b8a614576
+SHA256sum: 467e79c74b3e133b93771830aa27e5f8f072ceced1244b7e482258b507722398
+Size: 53802
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-4.8e-13e-19.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
@@ -2535,14 +2535,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8d2a383a888f266cb14e39438bb789e1
-SHA256sum: 7d43e456f13b855560f744afc645992e2be4ab134f0bf94032bd8ad64dd7788b
+MD5Sum: f868a001d64b3672d989078b7bdcd246
+SHA256sum: 62acfa52cd3a56be9483b0c1064558607d63c0f555c150823cdff1079fceebed
 Size: 720
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e.bb
 Description: enigma2-plugin-settings-morph883-4.8e-13e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-4.8e-13e
@@ -2550,15 +2550,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-4.8e-13e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-4.8e-13e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c2828a2d129eff12f231678d0436f0ff
-SHA256sum: c67c1fac6a8950ea7466def875200442252ed2e6dae75669b69d1bcf93e5b18e
+MD5Sum: 46c84ca094c4b36fbcbb8c376fb61d36
+SHA256sum: 6c6e67f77509acab1639224fb12dce82ad79992e4e806b07da7018d0d7efc60f
 Size: 758
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e.bb
 Description: enigma2-plugin-settings-morph883-4.8e-13e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-4.8e-13e
@@ -2566,15 +2566,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 88209a9058cb73e43a0acf8004114666
-SHA256sum: 7ac95b9936376ae94437d19fc9949fb703da87f7bdef79ce3e4ee15773287f27
-Size: 33808
-Filename: enigma2-plugin-settings-morph883-4.8e-13e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: b3cf68f5f12770fe72dd8954a02bc8c0
+SHA256sum: 8b4bdbb6689ce8c1059472faa24998159716cf59065e3a4837e0a6504dc4f0d2
+Size: 33888
+Filename: enigma2-plugin-settings-morph883-4.8e-13e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e.bb
 Description: enigma2-plugin-settings-morph883-4.8e-13e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-4.8e-13e
@@ -2582,14 +2582,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3827426477ad7101398f2a0792f8185f
-SHA256sum: d557c366f5eeaedcca8c40d5bd2db0133819d82254482494283550bbaff7bfce
-Size: 722
-Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 23ecc912230a56def72ea63699acba7d
+SHA256sum: 6d91dbfcbfc5907009a19bfa6adaf0e59925d6564da6c735cbced6675c0de74d
+Size: 724
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-9e-13e-19.2e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
@@ -2597,15 +2597,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-9e-13e-19.2e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-9e-13e-19.2e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5cf9da2dc5c4d53045aed501eadb641b
-SHA256sum: b56faa3b70324f893ec5ef64e4074d6a7a89aabed2024fc37d5b76df5163bb8d
+MD5Sum: 01a1b0a97e63bb16ed4a425d065a8dac
+SHA256sum: 0d9b851360cea73fd650a9cd4c04cc40e688a004ae294e01c2064ea0f5489e15
 Size: 762
-Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-9e-13e-19.2e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
@@ -2613,15 +2613,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-19.2e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 32b09c4907ea86a88822cfdfae22c74c
-SHA256sum: aefa4e3283033d96e29d4cefea672e5c270ddfbd1ecc9f384d0c9828db2f4141
-Size: 59752
-Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: d5a5c4c32aa1e304bb4e33b41ea4ea21
+SHA256sum: 849396bf6f49113b035235641e0e699ef27d54f84610433747b7c29b7ffeaf5e
+Size: 59992
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
 Description: enigma2-plugin-settings-morph883-9e-13e-19.2e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
@@ -2629,14 +2629,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4267fc2090d8fb629d510483f951cecf
-SHA256sum: 6f2bb233faa8923c70dd98a10402af68241f5e6f5f21314acf5494783068d49c
+MD5Sum: c90d6ac5fb78bc8bac9ae726f3c93ba6
+SHA256sum: eb8a228ed9bc5bba2cc972b0f0e5c6729231b74280993333de5c835164aef032
 Size: 718
-Filename: enigma2-plugin-settings-morph883-9e-13e-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-9e-13e-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e.bb
 Description: enigma2-plugin-settings-morph883-9e-13e version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-9e-13e
@@ -2644,15 +2644,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-9e-13e (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-9e-13e (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 487c8accc6cd8dac510124ac02f9fee1
-SHA256sum: d6331e9f46965d2e44d4b1e24c537b4618ae975afe66cf60f64d6ea9e256ce4f
+MD5Sum: 7b90caca449c71e28ee6097686dfe770
+SHA256sum: 8fea38650f7361e3b8d8642ee79cf70468406d2e69dcdf76d991a5944cd9c713
 Size: 754
-Filename: enigma2-plugin-settings-morph883-9e-13e-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-9e-13e-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e.bb
 Description: enigma2-plugin-settings-morph883-9e-13e version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-9e-13e
@@ -2660,15 +2660,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7d823f6b204b61bd23b4b70d5a7d50e1
-SHA256sum: 20796b8b045af8258b96edde2c9532b418bc3cf3818344343e4f7c206c859909
-Size: 40058
-Filename: enigma2-plugin-settings-morph883-9e-13e_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: ec2cfd466ab8697c7b2b97abd0b7d234
+SHA256sum: 4b4a11cf425cdbaffd14a6c30ec2e6f776eb938b705ced127ce746aff91038bc
+Size: 40062
+Filename: enigma2-plugin-settings-morph883-9e-13e_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e.bb
 Description: enigma2-plugin-settings-morph883-9e-13e version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-9e-13e
@@ -2676,14 +2676,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-motor-dbg
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9075d629d9142b07ced7f4ae8205380a
-SHA256sum: 556e2103665289c45740d6ba0d64eb0f6308451168d36da3c15cf251a74584d8
-Size: 712
-Filename: enigma2-plugin-settings-morph883-motor-dbg_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 11c1083ae8f44fed9bd79d840bbca8d5
+SHA256sum: b3dc0d5d43a377b4584e0a4542272965ac361d768973b5fd4bdaf2412e3ed9f3
+Size: 714
+Filename: enigma2-plugin-settings-morph883-motor-dbg_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-motor.bb
 Description: enigma2-plugin-settings-morph883-motor version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-settings-morph883-motor
@@ -2691,15 +2691,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-motor-dev
-Version: 1.0+git356+472fba30+472fba3385-r0
-Recommends: enigma2-plugin-settings-morph883-motor (= 1.0+git356+472fba30+472fba3385-r0), xz-dev
+Version: 1.0+git357+68788ab0+68788abe31-r0
+Recommends: enigma2-plugin-settings-morph883-motor (= 1.0+git357+68788ab0+68788abe31-r0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9c1633a4554672e7591720d417850bfc
-SHA256sum: 96cc10477ddb7f261c2f70786bd0acae238f02b15671a08aad6d015dca1defc9
-Size: 750
-Filename: enigma2-plugin-settings-morph883-motor-dev_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: 3b436a4add7e803a61022d787e1d108c
+SHA256sum: 2938e1b59655d1deb7097dc682d19f8369d37417448dd3fe5ec3ff1d6afdbe51
+Size: 752
+Filename: enigma2-plugin-settings-morph883-motor-dev_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-motor.bb
 Description: enigma2-plugin-settings-morph883-motor version 1.0+git-r0 - Development files
 OE: enigma2-plugin-settings-morph883-motor
@@ -2707,15 +2707,15 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-motor
-Version: 1.0+git356+472fba30+472fba3385-r0
+Version: 1.0+git357+68788ab0+68788abe31-r0
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 77acef1dff1c6ced8380fd1313b28922
-SHA256sum: 91c9781ca4c2e2138afe4392af1c1b6838f595544bd5c53d266a93ee7ccb88f7
-Size: 244046
-Filename: enigma2-plugin-settings-morph883-motor_1.0+git356+472fba30+472fba3385-r0_all.ipk
+MD5Sum: fc73252ca0a4378cef75233e9e79e37f
+SHA256sum: f41d8ca1d3b07a990b3e6f83dc60ba50100f432bacd868bd3ea076fceb199a8b
+Size: 244614
+Filename: enigma2-plugin-settings-morph883-motor_1.0+git357+68788ab0+68788abe31-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-motor.bb
 Description: enigma2-plugin-settings-morph883-motor version 1.0+git-r0
 OE: enigma2-plugin-settings-morph883-motor
@@ -2770,14 +2770,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dbg
-Version: 1.0+git86+1cc3c1a0+1cc3c1a44f-r0
+Version: 1.0+git96+74038f60+74038f6ba1-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 85b04d1d0dd6be4af8de681964754e08
-SHA256sum: 9ebd4072747d6497bd2d61f74c2d4ee1de95680e7959b8ca280367544e22cd5f
+MD5Sum: ecd4e4bcfaeca87513268ab80bd2282d
+SHA256sum: 32604d77777f2fe49a03c4a7b6db41b66983e885a731cf0686e58e4970cf6036
 Size: 690
-Filename: enigma2-plugin-skins-darkos-dbg_1.0+git86+1cc3c1a0+1cc3c1a44f-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dbg_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-darkos
@@ -2785,15 +2785,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dev
-Version: 1.0+git86+1cc3c1a0+1cc3c1a44f-r0
-Recommends: enigma2-plugin-skins-darkos (= 1.0+git86+1cc3c1a0+1cc3c1a44f-r0)
+Version: 1.0+git96+74038f60+74038f6ba1-r0
+Recommends: enigma2-plugin-skins-darkos (= 1.0+git96+74038f60+74038f6ba1-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 51f38afbcf908d138090c3318e787d11
-SHA256sum: 4116739f6ce3f5058c39b51ea49c6cf162dea2e8acacad66c66373f149965fa4
-Size: 726
-Filename: enigma2-plugin-skins-darkos-dev_1.0+git86+1cc3c1a0+1cc3c1a44f-r0_all.ipk
+MD5Sum: 7994a34333f4da663e60971016a21131
+SHA256sum: 8ec12f5c339e3d59a98ee919f9dca1a0eb36e8e00f3ca5a02f5c0ffe969a9b08
+Size: 728
+Filename: enigma2-plugin-skins-darkos-dev_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-darkos
@@ -2801,14 +2801,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-src
-Version: 1.0+git86+1cc3c1a0+1cc3c1a44f-r0
+Version: 1.0+git96+74038f60+74038f6ba1-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 3bd157178a16bf382f80d16e164ec172
-SHA256sum: 52f604f9f5f223e1125c63e5659330e098eb55055f654cba289f23862b4f11d4
-Size: 6094
-Filename: enigma2-plugin-skins-darkos-src_1.0+git86+1cc3c1a0+1cc3c1a44f-r0_all.ipk
+MD5Sum: fbb927a195617b2a106a2153ed94fb76
+SHA256sum: 39373ecaf1006ed4e6a50d9270fc6780696a592af8884e5867a082de7282c659
+Size: 6210
+Filename: enigma2-plugin-skins-darkos-src_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Source files
 OE: enigma2-plugin-skins-darkos
@@ -2816,14 +2816,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos
-Version: 1.0+git86+1cc3c1a0+1cc3c1a44f-r0
+Version: 1.0+git96+74038f60+74038f6ba1-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: e33de4e7b91778a4be4876b49463f2ca
-SHA256sum: 0955a7d291109dddc9b599fb9105bf8126e5c923e66051e7681b6c1489274ea7
-Size: 1493638
-Filename: enigma2-plugin-skins-darkos_1.0+git86+1cc3c1a0+1cc3c1a44f-r0_all.ipk
+MD5Sum: 1fa4a6e4a257532107cfc93dd8a902eb
+SHA256sum: 97e60e7a8ad23f4bf0a16722e9f5c6af8310ae5dc7774279e4235ef28af459b6
+Size: 2837458
+Filename: enigma2-plugin-skins-darkos_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-darkos
@@ -2866,9 +2866,9 @@ Version: 6.0.5+git463+0a7f7810+0a7f781b0e-r0
 Section: base
 Architecture: all
 Maintainer: MCelliotG
-MD5Sum: 651eb9d05d3059f5fbc2a18106a3ba9c
-SHA256sum: e4901a3e28ab08ee9a0f46f82ce0351435b18067ae5eda43fbd5a3046156843a
-Size: 11676776
+MD5Sum: 130847c45c90c525dbdad03c0cdf4fb3
+SHA256sum: ee1c476e5a5c4b02d9d8833b47fd2c1a17a17aec48fc68288523ae8293494e98
+Size: 11718900
 Filename: enigma2-plugin-skins-glamouraurafhd_6.0.5+git463+0a7f7810+0a7f781b0e-r0_all.ipk
 Source: enigma2-plugin-skins-glamouraurafhd.bb
 Description: enigma2-plugin-skins-glamouraurafhd version 6.0.5+git-r0
@@ -2893,14 +2893,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-pli-dbg
-Version: 1.0+git7+daaab250+daaab25d02-r0
+Version: 1.0+git8+060dd7f0+060dd7f4a6-r0
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: 3b7d4c2122c1c2ed19a674d957a7bf19
-SHA256sum: 3cf35c35171f04d039f5e28ac9272a779cf654effce76ad4dd65a36a6b8758b3
+MD5Sum: 7b0e418621bbf7fa0c60f90ed18a8bbb
+SHA256sum: 47967c378dc7f11b5184ffd33afbcb69f7f63a9d4a7c75ce3ae31dfa8346abbd
 Size: 670
-Filename: enigma2-plugin-skins-mx-graphite-pli-dbg_1.0+git7+daaab250+daaab25d02-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-graphite-pli-dbg_1.0+git8+060dd7f0+060dd7f4a6-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-pli.bb
 Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-mx-graphite-pli
@@ -2908,15 +2908,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-pli-dev
-Version: 1.0+git7+daaab250+daaab25d02-r0
-Recommends: enigma2-plugin-skins-mx-graphite-pli (= 1.0+git7+daaab250+daaab25d02-r0)
+Version: 1.0+git8+060dd7f0+060dd7f4a6-r0
+Recommends: enigma2-plugin-skins-mx-graphite-pli (= 1.0+git8+060dd7f0+060dd7f4a6-r0)
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: 6d03dc70172edf8cdaef08d2e9d5c070
-SHA256sum: 6e052fb2ea32be7d1b918e1f4e6d292354e89b1981e5a3344534368784db699f
+MD5Sum: 8309080c675154ad2e63e7d6fb512c5c
+SHA256sum: b67edb88080eed6bcd210cf5732c62249d5e8d26f69a2f0066c6a6ded67c3420
 Size: 708
-Filename: enigma2-plugin-skins-mx-graphite-pli-dev_1.0+git7+daaab250+daaab25d02-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-graphite-pli-dev_1.0+git8+060dd7f0+060dd7f4a6-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-pli.bb
 Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-mx-graphite-pli
@@ -2924,14 +2924,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-pli
-Version: 1.0+git7+daaab250+daaab25d02-r0
+Version: 1.0+git8+060dd7f0+060dd7f4a6-r0
 Section: base
 Architecture: all
 Maintainer: MX
-MD5Sum: d4a32cd0665dc68e55d06a5590aa3c7d
-SHA256sum: a6e4de2b55f6e107d092a5dcd2bf21b6b5d27b5dc6faf2cad7157ea0397c0098
-Size: 999248
-Filename: enigma2-plugin-skins-mx-graphite-pli_1.0+git7+daaab250+daaab25d02-r0_all.ipk
+MD5Sum: 85636a48904a48546ad1f5e501ac28de
+SHA256sum: 051dddbc2ed0bd62c999fa6d6c5dc0c2bdbc90d4da1d56c7a8b1c24ab2b72be6
+Size: 953738
+Filename: enigma2-plugin-skins-mx-graphite-pli_1.0+git8+060dd7f0+060dd7f4a6-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-pli.bb
 Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0
 OE: enigma2-plugin-skins-mx-graphite-pli
@@ -2939,14 +2939,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-pli-dbg
-Version: 1.0+git7+3fb09270+3fb0927e0f-r0
+Version: 1.0+git9+a75ae040+a75ae04a39-r0
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: 3aeec411e48a1e6c6c65abd69594e927
-SHA256sum: f8b1c581fcef5c7142c9a3855e5ad95570026d376fe9ee01df992ae88bdff378
+MD5Sum: fd18e18b9f14b03939429cca424fa79e
+SHA256sum: 3b5ede3276f45f48e67b82cc9f9192b197a7f851eba855618f059f267a7bee53
 Size: 668
-Filename: enigma2-plugin-skins-mx-hq7-pli-dbg_1.0+git7+3fb09270+3fb0927e0f-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-hq7-pli-dbg_1.0+git9+a75ae040+a75ae04a39-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-pli.bb
 Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-mx-hq7-pli
@@ -2954,15 +2954,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-pli-dev
-Version: 1.0+git7+3fb09270+3fb0927e0f-r0
-Recommends: enigma2-plugin-skins-mx-hq7-pli (= 1.0+git7+3fb09270+3fb0927e0f-r0)
+Version: 1.0+git9+a75ae040+a75ae04a39-r0
+Recommends: enigma2-plugin-skins-mx-hq7-pli (= 1.0+git9+a75ae040+a75ae04a39-r0)
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: 11a291ea598f32a4c06064bea15ecb84
-SHA256sum: ea92180086287bbdd0fcbb894e3f4192704104fedd03ba7c686c792a2664377c
+MD5Sum: 83b60c6b86eb29629538bd10c91a7db1
+SHA256sum: 9ae2b74f0ea91ed9f0aedb198c44230cdf866f3af60bc7a2c92080c6d660bbe0
 Size: 706
-Filename: enigma2-plugin-skins-mx-hq7-pli-dev_1.0+git7+3fb09270+3fb0927e0f-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-hq7-pli-dev_1.0+git9+a75ae040+a75ae04a39-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-pli.bb
 Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-mx-hq7-pli
@@ -2970,14 +2970,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-pli
-Version: 1.0+git7+3fb09270+3fb0927e0f-r0
+Version: 1.0+git9+a75ae040+a75ae04a39-r0
 Section: base
 Architecture: all
 Maintainer: MX
-MD5Sum: c11df28b4652b089b2dc9c9a209756b4
-SHA256sum: 52f1a2172c4e490e4961ea9ff4a49edaf7806c1f29d3aa0af7f931c97b615fd6
-Size: 1579784
-Filename: enigma2-plugin-skins-mx-hq7-pli_1.0+git7+3fb09270+3fb0927e0f-r0_all.ipk
+MD5Sum: bcae7ac0fd517fc583a659c029077e69
+SHA256sum: a423d0d47acff2da9dfc47d271c9f04c320ce204174b6d95bf885f8f45a9e3ac
+Size: 1534294
+Filename: enigma2-plugin-skins-mx-hq7-pli_1.0+git9+a75ae040+a75ae04a39-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-pli.bb
 Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0
 OE: enigma2-plugin-skins-mx-hq7-pli
