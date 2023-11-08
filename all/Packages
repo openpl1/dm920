@@ -2892,52 +2892,6 @@ OE: enigma2-plugin-skins-magic
 License: GPL-2.0-or-later
 Priority: optional
 
-Package: enigma2-plugin-skins-mx-graphite-pli-dbg
-Version: 1.0+git11+7e0942d0+7e0942d680-r0
-Section: devel
-Architecture: all
-Maintainer: MX
-MD5Sum: b81c1d5d997a5a4e9e009780d6cac757
-SHA256sum: 0a0c7954d315dea48ba65c1c1ef522dbe385247cf4febf526bab859738e44c66
-Size: 670
-Filename: enigma2-plugin-skins-mx-graphite-pli-dbg_1.0+git11+7e0942d0+7e0942d680-r0_all.ipk
-Source: enigma2-plugin-skins-mx-graphite-pli.bb
-Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Debugging files
-OE: enigma2-plugin-skins-mx-graphite-pli
-License: GPL-3.0-only
-Priority: optional
-
-Package: enigma2-plugin-skins-mx-graphite-pli-dev
-Version: 1.0+git11+7e0942d0+7e0942d680-r0
-Recommends: enigma2-plugin-skins-mx-graphite-pli (= 1.0+git11+7e0942d0+7e0942d680-r0)
-Section: devel
-Architecture: all
-Maintainer: MX
-MD5Sum: 0e6a1c89295ac61328c30395a405b7b4
-SHA256sum: 0e66bf6d44d01f914571901a92944aaf25ba072210cf1245353b6e97c933f79d
-Size: 710
-Filename: enigma2-plugin-skins-mx-graphite-pli-dev_1.0+git11+7e0942d0+7e0942d680-r0_all.ipk
-Source: enigma2-plugin-skins-mx-graphite-pli.bb
-Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Development files
-OE: enigma2-plugin-skins-mx-graphite-pli
-License: GPL-3.0-only
-Priority: optional
-
-Package: enigma2-plugin-skins-mx-graphite-pli
-Version: 1.0+git11+7e0942d0+7e0942d680-r0
-Section: base
-Architecture: all
-Maintainer: MX
-MD5Sum: ab922114258c61bb425513f81a1dd5d0
-SHA256sum: 0d985b387e186646e7b6b226fefca43e0b33f1b850487cc931c36f1f67e0903f
-Size: 1030348
-Filename: enigma2-plugin-skins-mx-graphite-pli_1.0+git11+7e0942d0+7e0942d680-r0_all.ipk
-Source: enigma2-plugin-skins-mx-graphite-pli.bb
-Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0
-OE: enigma2-plugin-skins-mx-graphite-pli
-License: GPL-3.0-only
-Priority: optional
-
 Package: enigma2-plugin-skins-mx-hq7-pli-dbg
 Version: 1.0+git11+724f5010+724f501b70-r0
 Section: devel
