@@ -544,6 +544,71 @@ HomePage: http://www.iptvplayer.gitlab.io/
 License: GPL-2.0-or-later
 Priority: optional
 
+Package: enigma2-plugin-extensions-e2piconizer-dbg
+Version: 1.25-20231109-r0
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: b3d34ca5534f9c1eaea0dda067e42db4
+SHA256sum: 73c429747c548ca912fdc831c2bd07fffd9291de29e6a56623c99456ba3970c9
+Size: 712
+Filename: enigma2-plugin-extensions-e2piconizer-dbg_1.25-20231109-r0_all.ipk
+Source: enigma2-plugin-extensions-e2piconizer.bb
+Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Debugging files
+OE: enigma2-plugin-extensions-e2piconizer
+HomePage: https://github.com/kiddac/E2_Piconizer
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-e2piconizer-dev
+Version: 1.25-20231109-r0
+Recommends: enigma2-plugin-extensions-e2piconizer (= 1.25-20231109-r0)
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 7878c0c1d7437ffa2fe5f2fe71e64b7f
+SHA256sum: 23d529b72ae9b56c6939e3b69fcdfda312e1ce17d3e881c0ddf18cf88c6615c4
+Size: 748
+Filename: enigma2-plugin-extensions-e2piconizer-dev_1.25-20231109-r0_all.ipk
+Source: enigma2-plugin-extensions-e2piconizer.bb
+Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Development files
+OE: enigma2-plugin-extensions-e2piconizer
+HomePage: https://github.com/kiddac/E2_Piconizer
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-e2piconizer-src
+Version: 1.25-20231109-r0
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 1da0753bd274c5ffa7cd5f70b9e6d047
+SHA256sum: 762f8546235bf52233825b98b93fcb2aaf0e9f823b94c4d736b1ede4ec8453fc
+Size: 12584
+Filename: enigma2-plugin-extensions-e2piconizer-src_1.25-20231109-r0_all.ipk
+Source: enigma2-plugin-extensions-e2piconizer.bb
+Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Source files
+OE: enigma2-plugin-extensions-e2piconizer
+HomePage: https://github.com/kiddac/E2_Piconizer
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-e2piconizer
+Version: 1.25-20231109-r0
+Section: base
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 603e05344551f00319e566548b38b43c
+SHA256sum: 577efcb921dc4cf63e06cb52dd3e9ed76056182f790d56917fbfb1437fc121a7
+Size: 1784388
+Filename: enigma2-plugin-extensions-e2piconizer_1.25-20231109-r0_all.ipk
+Source: enigma2-plugin-extensions-e2piconizer.bb
+Description: enigma2-plugin-extensions-e2piconizer version git-r0
+OE: enigma2-plugin-extensions-e2piconizer
+HomePage: https://github.com/kiddac/E2_Piconizer
+License: GPL-2.0-or-later
+Priority: optional
+
 Package: enigma2-plugin-extensions-epgimport-rytec
 Version: 20230617-r0
 Replaces: enigma2-plugin-extensions-xmltvimport-rytec
@@ -688,6 +753,67 @@ Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3
 OE: enigma2-plugin-extensions-jedimakerxtream
 HomePage: https://github.com/kiddac/Jedi_Maker_Xtream
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-piconsmissing-dbg
+Version: 1.0+git6+03760b80+03760b884e-r0
+Section: devel
+Architecture: all
+Maintainer: Huevos
+MD5Sum: d017649e2c27c6641b23bfd2763cd2f6
+SHA256sum: 64f02f39292f93ec542e20481d319721bc566d13a07a261bc59340305652fd04
+Size: 686
+Filename: enigma2-plugin-extensions-piconsmissing-dbg_1.0+git6+03760b80+03760b884e-r0_all.ipk
+Source: enigma2-plugin-extensions-piconsmissing.bb
+Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0 - Debugging files
+OE: enigma2-plugin-extensions-piconsmissing
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-piconsmissing-dev
+Version: 1.0+git6+03760b80+03760b884e-r0
+Recommends: enigma2-plugin-extensions-piconsmissing (= 1.0+git6+03760b80+03760b884e-r0)
+Section: devel
+Architecture: all
+Maintainer: Huevos
+MD5Sum: 494a443335062452102c26def0abc090
+SHA256sum: 4ca942c4c85d2bc70406bf8e21dd82cccd0b5dc609b7879e102301cd1e06e5ac
+Size: 722
+Filename: enigma2-plugin-extensions-piconsmissing-dev_1.0+git6+03760b80+03760b884e-r0_all.ipk
+Source: enigma2-plugin-extensions-piconsmissing.bb
+Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0 - Development files
+OE: enigma2-plugin-extensions-piconsmissing
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-piconsmissing-src
+Version: 1.0+git6+03760b80+03760b884e-r0
+Section: devel
+Architecture: all
+Maintainer: Huevos
+MD5Sum: 377df5075f2d95750179c7e7b6184f5e
+SHA256sum: 25b76e7cb8deba7ac6174dd41f5579a406016eb9dcfbb66f87ee2b0593c93c0e
+Size: 4284
+Filename: enigma2-plugin-extensions-piconsmissing-src_1.0+git6+03760b80+03760b884e-r0_all.ipk
+Source: enigma2-plugin-extensions-piconsmissing.bb
+Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0 - Source files
+OE: enigma2-plugin-extensions-piconsmissing
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-piconsmissing
+Version: 1.0+git6+03760b80+03760b884e-r0
+Section: base
+Architecture: all
+Maintainer: Huevos
+MD5Sum: f465b9baf9658fe434bb4761d6d74109
+SHA256sum: 8222df41ad6491cb54a4802b2bcc8da01b0f6d93727b0694a0debe2ee010a10d
+Size: 8008
+Filename: enigma2-plugin-extensions-piconsmissing_1.0+git6+03760b80+03760b884e-r0_all.ipk
+Source: enigma2-plugin-extensions-piconsmissing.bb
+Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0
+OE: enigma2-plugin-extensions-piconsmissing
 License: GPL-2.0-or-later
 Priority: optional
 
@@ -2770,14 +2896,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dbg
-Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
+Version: 1.0+git99+34db4210+34db421e7a-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: dc4c11320493b2df8deb3b3144df012a
-SHA256sum: 69fb6bc8d8c8e9e7a8a6cbda651ecc492bd8b08fac41f23705237c4d5aa602da
+MD5Sum: 955eb9e8a2b4cc2f778c15f281d0f102
+SHA256sum: 3fddf90a056d287d20a05d241abe76b0ee377fae132db5a527f74cea3214db75
 Size: 690
-Filename: enigma2-plugin-skins-darkos-dbg_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dbg_1.0+git99+34db4210+34db421e7a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-darkos
@@ -2785,15 +2911,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dev
-Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
-Recommends: enigma2-plugin-skins-darkos (= 1.0+git98+3a9e6ce0+3a9e6ce351-r0)
+Version: 1.0+git99+34db4210+34db421e7a-r0
+Recommends: enigma2-plugin-skins-darkos (= 1.0+git99+34db4210+34db421e7a-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: ea6d3a0ffb3c1b08de8a308865b4edfe
-SHA256sum: e99366ac217b0ae453b7a0b1ba6ae74743c7c644d2536131e3f6c2f91d2dc0c0
+MD5Sum: f597b88819d6a8cee7d2e3af443f99c1
+SHA256sum: a14cb716dcd52f13ed39ff90583640ea6daf941b8f53ecdad5d8e3a52f712305
 Size: 726
-Filename: enigma2-plugin-skins-darkos-dev_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dev_1.0+git99+34db4210+34db421e7a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-darkos
@@ -2801,14 +2927,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-src
-Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
+Version: 1.0+git99+34db4210+34db421e7a-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 76f89924563d706cf10f15f0e19f0921
-SHA256sum: c0bff7c29f8c42e3b754857a2373e1525ce9ab816e1176dfaf305e723c00fe20
-Size: 6942
-Filename: enigma2-plugin-skins-darkos-src_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
+MD5Sum: 16de77c94b9cbccc6ff1ad3b356d60f3
+SHA256sum: f34dfe41a0bd678780cb40103dc51647265f76877357375fe99168a5081e9508
+Size: 6938
+Filename: enigma2-plugin-skins-darkos-src_1.0+git99+34db4210+34db421e7a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Source files
 OE: enigma2-plugin-skins-darkos
@@ -2816,14 +2942,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos
-Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
+Version: 1.0+git99+34db4210+34db421e7a-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: fc1c1f258b8c140aed3a4a4a2190c9f8
-SHA256sum: b710f6bff7c4c124eebbc935d25a32a7186a1a837d07f920126c917281062d14
-Size: 2841486
-Filename: enigma2-plugin-skins-darkos_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
+MD5Sum: 2c71a4db65dae2b88e173f0ed562dc29
+SHA256sum: b83fade077b6c11d56f49a40b697dcec473b2a3f8f96211b25a8f5abc630176b
+Size: 2841930
+Filename: enigma2-plugin-skins-darkos_1.0+git99+34db4210+34db421e7a-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-darkos
@@ -7280,14 +7406,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 2+git552+bf35c7a0+bf35c7ab48-3
+Version: 2+git553+a6efb750+a6efb7526b-3
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 06d33f0c07f18becf70004fccf057fbf
-SHA256sum: ca29efb067a571257d556a93e06d0001394d6bccac2a3fdcfc8d4e9173c74e1e
+MD5Sum: 5589a62a7adcecf2924b3d507961a1d8
+SHA256sum: 49da0e4352852ad015ff79fe8b8d47a002a99292b4b300130ca715002081738b
 Size: 662
-Filename: tuxbox-common-dbg_2+git552+bf35c7a0+bf35c7ab48-3_all.ipk
+Filename: tuxbox-common-dbg_2+git553+a6efb750+a6efb7526b-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3 - Debugging files
 OE: tuxbox-common
@@ -7295,15 +7421,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 2+git552+bf35c7a0+bf35c7ab48-3
-Recommends: tuxbox-common (>= 2+git552+bf35c7a0+bf35c7ab48-3), tuxbox-common (<< 2+git552+bf35c7a0+bf35c7ab48-3.0), xz-dev
+Version: 2+git553+a6efb750+a6efb7526b-3
+Recommends: tuxbox-common (>= 2+git553+a6efb750+a6efb7526b-3), tuxbox-common (<< 2+git553+a6efb750+a6efb7526b-3.0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 50829ba9ef867fc91cf204b464c9752e
-SHA256sum: 768630c4f7e7aae39deeca9641fa83c701d4ea85beaa9b903f8bfec94a7d6ae1
-Size: 716
-Filename: tuxbox-common-dev_2+git552+bf35c7a0+bf35c7ab48-3_all.ipk
+MD5Sum: 00be78e6da78dda0fb95047199bd674a
+SHA256sum: a51dadd2694c26e5e44f6e3ad485e11554285863988ac2f94a40846a980ffe80
+Size: 714
+Filename: tuxbox-common-dev_2+git553+a6efb750+a6efb7526b-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3 - Development files
 OE: tuxbox-common
@@ -7311,15 +7437,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common
-Version: 2+git552+bf35c7a0+bf35c7ab48-3
+Version: 2+git553+a6efb750+a6efb7526b-3
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 1027a0b5f3070fb182df2d9496923a6f
-SHA256sum: 9741f79e62c0679409d15679ea18a20ac6c2e04ec3ad7e7684b9c369683984c5
-Size: 49724
-Filename: tuxbox-common_2+git552+bf35c7a0+bf35c7ab48-3_all.ipk
+MD5Sum: 82e4bc7dbcfceb45929b31923069d4e9
+SHA256sum: 7cd06de82672a0a0194096d311eee896ff084067c7e6e6b4e94f2c090c9da4cf
+Size: 49744
+Filename: tuxbox-common_2+git553+a6efb750+a6efb7526b-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3
 OE: tuxbox-common
