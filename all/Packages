@@ -2770,14 +2770,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dbg
-Version: 1.0+git96+74038f60+74038f6ba1-r0
+Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: ecd4e4bcfaeca87513268ab80bd2282d
-SHA256sum: 32604d77777f2fe49a03c4a7b6db41b66983e885a731cf0686e58e4970cf6036
+MD5Sum: dc4c11320493b2df8deb3b3144df012a
+SHA256sum: 69fb6bc8d8c8e9e7a8a6cbda651ecc492bd8b08fac41f23705237c4d5aa602da
 Size: 690
-Filename: enigma2-plugin-skins-darkos-dbg_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
+Filename: enigma2-plugin-skins-darkos-dbg_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-darkos
@@ -2785,15 +2785,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-dev
-Version: 1.0+git96+74038f60+74038f6ba1-r0
-Recommends: enigma2-plugin-skins-darkos (= 1.0+git96+74038f60+74038f6ba1-r0)
+Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
+Recommends: enigma2-plugin-skins-darkos (= 1.0+git98+3a9e6ce0+3a9e6ce351-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 7994a34333f4da663e60971016a21131
-SHA256sum: 8ec12f5c339e3d59a98ee919f9dca1a0eb36e8e00f3ca5a02f5c0ffe969a9b08
-Size: 728
-Filename: enigma2-plugin-skins-darkos-dev_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
+MD5Sum: ea6d3a0ffb3c1b08de8a308865b4edfe
+SHA256sum: e99366ac217b0ae453b7a0b1ba6ae74743c7c644d2536131e3f6c2f91d2dc0c0
+Size: 726
+Filename: enigma2-plugin-skins-darkos-dev_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-darkos
@@ -2801,14 +2801,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos-src
-Version: 1.0+git96+74038f60+74038f6ba1-r0
+Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: fbb927a195617b2a106a2153ed94fb76
-SHA256sum: 39373ecaf1006ed4e6a50d9270fc6780696a592af8884e5867a082de7282c659
-Size: 6210
-Filename: enigma2-plugin-skins-darkos-src_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
+MD5Sum: 76f89924563d706cf10f15f0e19f0921
+SHA256sum: c0bff7c29f8c42e3b754857a2373e1525ce9ab816e1176dfaf305e723c00fe20
+Size: 6942
+Filename: enigma2-plugin-skins-darkos-src_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Source files
 OE: enigma2-plugin-skins-darkos
@@ -2816,14 +2816,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-darkos
-Version: 1.0+git96+74038f60+74038f6ba1-r0
+Version: 1.0+git98+3a9e6ce0+3a9e6ce351-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 1fa4a6e4a257532107cfc93dd8a902eb
-SHA256sum: 97e60e7a8ad23f4bf0a16722e9f5c6af8310ae5dc7774279e4235ef28af459b6
-Size: 2837458
-Filename: enigma2-plugin-skins-darkos_1.0+git96+74038f60+74038f6ba1-r0_all.ipk
+MD5Sum: fc1c1f258b8c140aed3a4a4a2190c9f8
+SHA256sum: b710f6bff7c4c124eebbc935d25a32a7186a1a837d07f920126c917281062d14
+Size: 2841486
+Filename: enigma2-plugin-skins-darkos_1.0+git98+3a9e6ce0+3a9e6ce351-r0_all.ipk
 Source: enigma2-plugin-skins-darkos.bb
 Description: enigma2-plugin-skins-darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-darkos
@@ -2893,14 +2893,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-pli-dbg
-Version: 1.0+git14+4010e890+4010e89104-r0
+Version: 1.0+git15+6fc481a0+6fc481afd7-r0
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: 008d1c9089f64f9cd51634f51e05becc
-SHA256sum: b901ea2d9eac050a4e1d680e60e6e18c9a9619fdf2351d26c4b1fca8470bc8e2
+MD5Sum: 321c83b817b26c4c7c82734a9d97e7cf
+SHA256sum: d540140b063ed06989ffb176b97d179ee2104353e89c99a43930818a53e8600a
 Size: 670
-Filename: enigma2-plugin-skins-mx-graphite-pli-dbg_1.0+git14+4010e890+4010e89104-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-graphite-pli-dbg_1.0+git15+6fc481a0+6fc481afd7-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-pli.bb
 Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-mx-graphite-pli
@@ -2908,15 +2908,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-pli-dev
-Version: 1.0+git14+4010e890+4010e89104-r0
-Recommends: enigma2-plugin-skins-mx-graphite-pli (= 1.0+git14+4010e890+4010e89104-r0)
+Version: 1.0+git15+6fc481a0+6fc481afd7-r0
+Recommends: enigma2-plugin-skins-mx-graphite-pli (= 1.0+git15+6fc481a0+6fc481afd7-r0)
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: f5b97e4b28c6b48481c1ba72ffd4f2b3
-SHA256sum: ff9d85563df5a475e5273e6f9ac458156f07b019f7478da3d78c1eabd3fd13ce
+MD5Sum: b05472224dd4ea803fb7554bd6d32268
+SHA256sum: d63a82c153f02bf044f7968a80f9e5d0ec3d7fb14fc70544d16fa28510bca745
 Size: 710
-Filename: enigma2-plugin-skins-mx-graphite-pli-dev_1.0+git14+4010e890+4010e89104-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-graphite-pli-dev_1.0+git15+6fc481a0+6fc481afd7-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-pli.bb
 Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-mx-graphite-pli
@@ -2924,14 +2924,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-pli
-Version: 1.0+git14+4010e890+4010e89104-r0
+Version: 1.0+git15+6fc481a0+6fc481afd7-r0
 Section: base
 Architecture: all
 Maintainer: MX
-MD5Sum: 09b262c8776ed932946ecba15ae46942
-SHA256sum: 309f1cd104c4dec8517a6c8ef35ea47fdf445b3ca2976e09a4ac19f75cc25744
-Size: 1030420
-Filename: enigma2-plugin-skins-mx-graphite-pli_1.0+git14+4010e890+4010e89104-r0_all.ipk
+MD5Sum: ec3d86832d01f60dcb53e93346adeef8
+SHA256sum: 17db754cb3c9b04c8f455ecd9e8ecf496151e5ac019b80ce13f8a01e1abec438
+Size: 1030432
+Filename: enigma2-plugin-skins-mx-graphite-pli_1.0+git15+6fc481a0+6fc481afd7-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-pli.bb
 Description: enigma2-plugin-skins-mx-graphite-pli version 1.0+git-r0
 OE: enigma2-plugin-skins-mx-graphite-pli
@@ -2939,14 +2939,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-pli-dbg
-Version: 1.0+git12+1ba15d50+1ba15d5a66-r0
+Version: 1.0+git14+cd587640+cd58764488-r0
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: c68af4d7541323ba2e1612bb5525e5cc
-SHA256sum: 3d03d704945f738c639bf7f1e347a731378c8030248efff0e2d2857ca9e5ade8
-Size: 668
-Filename: enigma2-plugin-skins-mx-hq7-pli-dbg_1.0+git12+1ba15d50+1ba15d5a66-r0_all.ipk
+MD5Sum: 448809f4cddae7935c61f3a2e0ccc89e
+SHA256sum: 57b63e052ccb02b072e9abf436086084bafaa0f4ffabd9b6f7c96249c0bc7924
+Size: 670
+Filename: enigma2-plugin-skins-mx-hq7-pli-dbg_1.0+git14+cd587640+cd58764488-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-pli.bb
 Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-mx-hq7-pli
@@ -2954,15 +2954,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-pli-dev
-Version: 1.0+git12+1ba15d50+1ba15d5a66-r0
-Recommends: enigma2-plugin-skins-mx-hq7-pli (= 1.0+git12+1ba15d50+1ba15d5a66-r0)
+Version: 1.0+git14+cd587640+cd58764488-r0
+Recommends: enigma2-plugin-skins-mx-hq7-pli (= 1.0+git14+cd587640+cd58764488-r0)
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: 46f152c841227f5a78df4dc0546f4f00
-SHA256sum: 64f61f2e3d8ecb95ea5946fc6682354161a81ea2369c0f7dcbd986677877e5f6
-Size: 706
-Filename: enigma2-plugin-skins-mx-hq7-pli-dev_1.0+git12+1ba15d50+1ba15d5a66-r0_all.ipk
+MD5Sum: 3b996241c91da0550515fb53d472ea2e
+SHA256sum: fcd93709b43f80a45dc0617c2287ad79b61b1dffe019d49bd4e6ff4eecdf3f7a
+Size: 708
+Filename: enigma2-plugin-skins-mx-hq7-pli-dev_1.0+git14+cd587640+cd58764488-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-pli.bb
 Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-mx-hq7-pli
@@ -2970,14 +2970,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-pli
-Version: 1.0+git12+1ba15d50+1ba15d5a66-r0
+Version: 1.0+git14+cd587640+cd58764488-r0
 Section: base
 Architecture: all
 Maintainer: MX
-MD5Sum: 8c0d2976e3627c9092a268ba147a6715
-SHA256sum: 5da798b1f85fb81a2aa446d0a8f1279bd7cf35229a6de905d62ccebad948990f
-Size: 1611158
-Filename: enigma2-plugin-skins-mx-hq7-pli_1.0+git12+1ba15d50+1ba15d5a66-r0_all.ipk
+MD5Sum: dd8ead2ddccb1745c614bb47c527878b
+SHA256sum: 83e817c23ca9b9267e75bc90f3ef7b9469886b297a3f61b830f1e85fc7ac8d47
+Size: 1611230
+Filename: enigma2-plugin-skins-mx-hq7-pli_1.0+git14+cd587640+cd58764488-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-pli.bb
 Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0
 OE: enigma2-plugin-skins-mx-hq7-pli
@@ -7234,9 +7234,9 @@ Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 04090a47ae5e5e3b922b9fe7ab91b29f
-SHA256sum: 07841ec338dc7716f59d6a9ed44e84acdf23bd609d41c75693f1138876418463
-Size: 698
+MD5Sum: 5a43b369545d6ce34d33712f6d9eff07
+SHA256sum: 15974591f5543a2c87b35517a01e7fa7cef46dd90b903590039c50f28488c35b
+Size: 702
 Filename: streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Debugging files
@@ -7251,8 +7251,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git25+e0f24
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 9910cf98824feb8def56946979c39c35
-SHA256sum: 015def765ca546c598059c5bc99a9a4267c582baf0816eed5405a6cf5eca2db1
+MD5Sum: 70eb119965e816465ef1f47d90dcb81c
+SHA256sum: 5469240d3ca67dfd3e5fa61f3db6a37c5cb48ffbae255f4eddcda4409a3b4fb5
 Size: 752
 Filename: streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
@@ -7268,9 +7268,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 88e6fc5327a8c64a9bcf0bea52621b94
-SHA256sum: d264b7a7a6b322094611a876090f0c7159ad688fe7d8188e5c88f06d7cb76440
-Size: 83014
+MD5Sum: e3c1d25fc60cc15de76aeca7af27a108
+SHA256sum: 5182f56093f6fbaf46c0148f6e9489e3f20b6dceee118ac7dbf1e59f9bc21508
+Size: 83020
 Filename: streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
