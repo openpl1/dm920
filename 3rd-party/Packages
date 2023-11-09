@@ -97,6 +97,22 @@ OE: enigma2-alliance-plugins
 License: Proprietary
 Priority: optional
 
+Package: enigma2-plugin-extensions-dreamosat-cammanager
+Version: git43+b8f3b610+b8f3b61713-r0
+Section: base
+Architecture: all
+Maintainer: audi06_19 <audi06_19@hotmail.com>
+MD5Sum: 815c20275966977a77f00ba70a1fc946
+SHA256sum: caa140618a2c355c3d7bd919210c375a96929b7b2c6a733c7cf13b9ddf4147d8
+Size: 73290
+Filename: enigma2-plugin-extensions-dreamosat-cammanager_git43+b8f3b610+b8f3b61713-r0_all.ipk
+Source: enigma2-plugin-extensions-dreamosat-cammanager_git.bb
+Description: Enigma2 Plugin DreamOSat camManager For Images by audi06_19
+OE: enigma2-plugin-extensions-dreamosat-cammanager
+HomePage: https://www.dreamosat-forum.com
+License: LGPL-2.1-only & GPL-3.0-only
+Priority: optional
+
 Package: enigma2-plugin-extensions-dreamosat-downloader
 Version: git42+c69db7e0+c69db7eafd-r0
 Depends: curl, libc6 (>= 2.38+git0+750a45a783), python3-core
@@ -110,6 +126,22 @@ Filename: enigma2-plugin-extensions-dreamosat-downloader_git42+c69db7e0+c69db7ea
 Source: enigma2-plugin-extensions-dreamosat-downloader_git.bb
 Description: Enigma2 Plugin DreamOSat Downloader For Images by audi06_19
 OE: enigma2-plugin-extensions-dreamosat-downloader
+HomePage: https://www.dreamosat-forum.com
+License: LGPL-2.1-only & GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-extensions-dreamosat-keyupdater
+Version: git43+b8f3b610+b8f3b61713-r0
+Section: base
+Architecture: all
+Maintainer: audi06_19 <audi06_19@hotmail.com>
+MD5Sum: 2ea72c024e4c42b6e8eaa8f861ae067b
+SHA256sum: cf15c211aec44d2badddd7096f4bb55f2b913b00e373f77c62c645aca74a4195
+Size: 39168
+Filename: enigma2-plugin-extensions-dreamosat-keyupdater_git43+b8f3b610+b8f3b61713-r0_all.ipk
+Source: enigma2-plugin-extensions-dreamosat-keyupdater_git.bb
+Description: Enigma2 Plugin DreamOSat keyUpdater For Images by audi06_19
+OE: enigma2-plugin-extensions-dreamosat-keyupdater
 HomePage: https://www.dreamosat-forum.com
 License: LGPL-2.1-only & GPL-3.0-only
 Priority: optional
@@ -129,6 +161,22 @@ Description: Enigma2 Plugin DreamOSat Script For Images by audi06_19
 OE: enigma2-plugin-extensions-dreamosat-script
 HomePage: https://www.dreamosat-forum.com
 License: LGPL-2.1-only & GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-extensions-dreamsatpanel
+Version: 1.6-r0
+Depends: libc6 (>= 2.38+git0+750a45a783), python3-imaging, python3-six
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: fcc388870d4a6852f48220ddde672401
+SHA256sum: ca14616991f4727fd02a141c6313aa470314b1d89d2edaa6d019cf3b592c60f5
+Size: 2445638
+Filename: enigma2-plugin-extensions-dreamsatpanel_1.6-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugin-extensions-dreamsatpanel_git.bb
+Description: enigma2-plugin-extensions-dreamsatpanel version 1.6-r0
+OE: enigma2-plugin-extensions-dreamsatpanel
+License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-enigmalight
