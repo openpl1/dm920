@@ -554,6 +554,21 @@ HomePage: none
 License: GPL-2.0-only
 Priority: optional
 
+Package: enigma2-plugin-skins-slyk-toppicks
+Version: 6.3.20231109
+Section: misc
+Architecture: all
+Maintainer: kiddac
+MD5Sum: a64cda979d7065f2c12162638d480946
+SHA256sum: 2d1c02265e409c95eb9efa6657467ebfc1840ed62e7489eee7cf103c68067e9f
+Size: 96328
+Filename: enigma2-plugin-skins-slyk-toppicks_6.3.20231109_all.ipk
+Source: enigma2-plugin-skins-slyk-toppicks.bb
+Description: Slyk Top Picks
+OE: enigma2-plugin-skins-slyk-toppicks
+License: none
+Priority: optional
+
 Package: enigma2-plugin-systemplugins-autocamsetup
 Version: 0.6
 Recommends: update-rc.d
