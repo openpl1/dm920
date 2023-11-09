@@ -554,6 +554,23 @@ HomePage: none
 License: GPL-2.0-only
 Priority: optional
 
+Package: enigma2-plugin-systemplugins-autocamsetup
+Version: 0.6
+Recommends: update-rc.d
+Section: base
+Architecture: all
+Maintainer: Dmitrij <Dima-73@inbox.lv>
+MD5Sum: c67532da05043416227fa69ad451e777
+SHA256sum: a0995e8e3644fc3b8115b52f778a89786b526b7a95554925bd3d4d15820df8e9
+Size: 49872
+Filename: enigma2-plugin-systemplugins-autocamsetup_0.6_all.ipk
+Source: enigma2-plugin-systemplugins-autocamsetup.bb
+Description: Advanced control softcam (support auto-camd)
+OE: enigma2
+Homepage: openpli
+License: GPL-2.0-only
+Priority: optional
+
 Package: enigma2-plugins-alliance
 Version: gitr7585+50dd0220+50dd022338-r1
 Depends: python3-ctypes
