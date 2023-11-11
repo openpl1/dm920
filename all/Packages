@@ -2957,6 +2957,52 @@ OE: enigma2-plugin-skins-magic
 License: GPL-2.0-or-later
 Priority: optional
 
+Package: enigma2-plugin-skins-multibox-fhd-dbg
+Version: 1.0+git2+3c761af0+3c761af6d5-r0
+Section: devel
+Architecture: all
+Maintainer: all
+MD5Sum: e9ccda71cf3c605fc224977dbf81a8cb
+SHA256sum: fd8d17819a7545c5b6ac4d7af0af79aab9fef0fc6e39ed2e68f167f2c79c71df
+Size: 682
+Filename: enigma2-plugin-skins-multibox-fhd-dbg_1.0+git2+3c761af0+3c761af6d5-r0_all.ipk
+Source: enigma2-plugin-skins-multibox-fhd.bb
+Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0 - Debugging files
+OE: enigma2-plugin-skins-multibox-fhd
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-multibox-fhd-dev
+Version: 1.0+git2+3c761af0+3c761af6d5-r0
+Recommends: enigma2-plugin-skins-multibox-fhd (= 1.0+git2+3c761af0+3c761af6d5-r0)
+Section: devel
+Architecture: all
+Maintainer: all
+MD5Sum: eea66c15c704eb4cd6d2d0bc66914fb7
+SHA256sum: dffa282e80d107133a24b3e7b2615c53c31049ef5dc49dd4b4e5463ac87028cb
+Size: 720
+Filename: enigma2-plugin-skins-multibox-fhd-dev_1.0+git2+3c761af0+3c761af6d5-r0_all.ipk
+Source: enigma2-plugin-skins-multibox-fhd.bb
+Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0 - Development files
+OE: enigma2-plugin-skins-multibox-fhd
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-multibox-fhd
+Version: 1.0+git2+3c761af0+3c761af6d5-r0
+Section: base
+Architecture: all
+Maintainer: all
+MD5Sum: 978224112a2c2704bd5bb949939cd20f
+SHA256sum: 2b26ffd60b1617d3d676d028e75a54f4eb8d5a7a13d178ebbcb0a24b120ae497
+Size: 2085082
+Filename: enigma2-plugin-skins-multibox-fhd_1.0+git2+3c761af0+3c761af6d5-r0_all.ipk
+Source: enigma2-plugin-skins-multibox-fhd.bb
+Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0
+OE: enigma2-plugin-skins-multibox-fhd
+License: GPL-3.0-only
+Priority: optional
+
 Package: enigma2-plugin-skins-mx-graphite-pli-dbg
 Version: 1.0+git15+6fc481a0+6fc481afd7-r0
 Section: devel
