@@ -68,14 +68,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
-Version: 1.01.20231105
+Version: 1.02.20231111
 Section: misc
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 817e339f70bd72c3e06396f4b2fb95d8
-SHA256sum: 6d37b19843a9c207d636e9b6a145fe9fd2b7e834bbc4d1c384b4108a1fe43ba1
-Size: 1405838
-Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.01.20231105_all.ipk
+MD5Sum: cc145b0dd7ec5ad32afde97fe343d8cd
+SHA256sum: 3b642b4de788fa6b05a965b46d5e39463e16e25ab23090107c9ae1e5d4b6dbdf
+Size: 1411228
+Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.02.20231111_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -571,7 +571,7 @@ Priority: optional
 
 Package: enigma2-plugin-skins-slyk-toppicks
 Version: 6.3.20231109
-Section: misc
+Section: base
 Architecture: all
 Maintainer: kiddac
 MD5Sum: a64cda979d7065f2c12162638d480946
@@ -581,7 +581,8 @@ Filename: enigma2-plugin-skins-slyk-toppicks_6.3.20231109_all.ipk
 Source: enigma2-plugin-skins-slyk-toppicks.bb
 Description: Slyk Top Picks
 OE: enigma2-plugin-skins-slyk-toppicks
-License: none
+HomePage: https://github.com/kiddac
+License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autocamsetup
