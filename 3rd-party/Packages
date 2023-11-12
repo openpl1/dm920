@@ -618,6 +618,22 @@ OE: enigma2-plugins-alliance
 License: Proprietary
 Priority: optional
 
+Package: fake-hwclock
+Version: 1.0-r0
+Recommends: update-rc.d
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 41fdec81fbf0ffa617b5a214f8ab3e90
+SHA256sum: 752bab29ba1128cdce790ccbb9ba5a27227cdb15385542de16b42e965ae725ef
+Size: 2230
+Filename: fake-hwclock_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+Source: fake-hwclock.bb
+Description: fake-hwclock - Trivial script to load/save current contents of the kernel clock
+OE: fake-hwclock
+License: GPL-2.0-or-later
+Priority: optional
+
 Package: libcrypto-compat
 Version: 3.1.1-r0
 Depends: libcrypto, libssl, libxcrypt-compat
