@@ -2958,14 +2958,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-multibox-fhd-dbg
-Version: 1.0+git4+5ac8bf90+5ac8bf9ff0-r0
+Version: 1.0+git5+94284a80+94284a878f-r0
 Section: devel
 Architecture: all
 Maintainer: all
-MD5Sum: 7adfd64697e5b8f78aaeebbe913c1c5d
-SHA256sum: 2d0e2fa55baf0d564196ac5d7ac46ae27bdde76b3432107fdf31eb0dcf02615f
+MD5Sum: a98246023ba4aae79900ea0859d15f69
+SHA256sum: 01e10c95944deb04fe68c77b608ebf93cc7566ea818772f704c75002b13443a0
 Size: 682
-Filename: enigma2-plugin-skins-multibox-fhd-dbg_1.0+git4+5ac8bf90+5ac8bf9ff0-r0_all.ipk
+Filename: enigma2-plugin-skins-multibox-fhd-dbg_1.0+git5+94284a80+94284a878f-r0_all.ipk
 Source: enigma2-plugin-skins-multibox-fhd.bb
 Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-multibox-fhd
@@ -2973,15 +2973,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-multibox-fhd-dev
-Version: 1.0+git4+5ac8bf90+5ac8bf9ff0-r0
-Recommends: enigma2-plugin-skins-multibox-fhd (= 1.0+git4+5ac8bf90+5ac8bf9ff0-r0)
+Version: 1.0+git5+94284a80+94284a878f-r0
+Recommends: enigma2-plugin-skins-multibox-fhd (= 1.0+git5+94284a80+94284a878f-r0)
 Section: devel
 Architecture: all
 Maintainer: all
-MD5Sum: 3c88d78966c4298b77568c287828c318
-SHA256sum: feb62cdeffc2bb19a1e1ca5803870121493fbe406b3290f2620e996af8733efc
+MD5Sum: 1617357563b683dfe3cc85995dbd3e4d
+SHA256sum: 168490ee057f56a68f019575fcebd25240d7f6bd1c8cd4cd9cfec52c1c57756a
 Size: 720
-Filename: enigma2-plugin-skins-multibox-fhd-dev_1.0+git4+5ac8bf90+5ac8bf9ff0-r0_all.ipk
+Filename: enigma2-plugin-skins-multibox-fhd-dev_1.0+git5+94284a80+94284a878f-r0_all.ipk
 Source: enigma2-plugin-skins-multibox-fhd.bb
 Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-multibox-fhd
@@ -2989,14 +2989,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-multibox-fhd
-Version: 1.0+git4+5ac8bf90+5ac8bf9ff0-r0
+Version: 1.0+git5+94284a80+94284a878f-r0
 Section: base
 Architecture: all
 Maintainer: all
-MD5Sum: 98c08e141ff91cdca1946e2699db7536
-SHA256sum: 798eed0c7a00262fe56734dc88fd3f54e325b1bde4e43a58a4245a4da3e35eb2
-Size: 2887096
-Filename: enigma2-plugin-skins-multibox-fhd_1.0+git4+5ac8bf90+5ac8bf9ff0-r0_all.ipk
+MD5Sum: 38360a6e8af508dbfd35be839d6bdf93
+SHA256sum: f65bdfa42689938c48bb7c15b97da75d3c99ec069704beb6177ffebff3120de3
+Size: 2886706
+Filename: enigma2-plugin-skins-multibox-fhd_1.0+git5+94284a80+94284a878f-r0_all.ipk
 Source: enigma2-plugin-skins-multibox-fhd.bb
 Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0
 OE: enigma2-plugin-skins-multibox-fhd
