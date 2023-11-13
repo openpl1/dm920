@@ -499,8 +499,8 @@ Version: 1+git4463+f8f3cc90+f8f3cc96b3-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d54d139385405bf8fe2855656d459fc3
-SHA256sum: c9de7947ef5bd5cbefbb1f24c38c5ae9499b69f1bc002d290d5966001d4bd754
+MD5Sum: e6c411fbafade5b8758be1e377caed78
+SHA256sum: d4ee3dc9d1f78d5284011d97ee7539cecd6235cc55292ffab04447a7e8efecec
 Size: 732
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -516,8 +516,8 @@ Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 44f399868a19d2d3f523f380bddeeecb
-SHA256sum: e0d2f22d76ca6b1f19016246d11bd9b41049b6d5f39dc5e0a8a81c41cc984277
+MD5Sum: e3e143144dcf3c17800ba21efcccb63f
+SHA256sum: 7cc89a0436625318f34150169f6d36a946dbda06f8f19add189daf3e7f53d152
 Size: 874
 Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -533,9 +533,9 @@ Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplaye
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 33d4a13ec8a8ad6fc9c49b01542411eb
-SHA256sum: 53ece5ea0adaa03ca5d6bc4a3df1cd586bc7917d58ad5721ff3fbda8794d4b89
-Size: 8990038
+MD5Sum: 47e324fb68099d388f52fc698f2483ef
+SHA256sum: 1ac3dd53d9780c4080a8b05927b3bc8a36cd38479a4128954434ef490cb04f2f
+Size: 8988282
 Filename: enigma2-plugin-extensions-e2iplayer_1+git4463+f8f3cc90+f8f3cc96b3-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
