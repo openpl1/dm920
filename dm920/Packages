@@ -405,9 +405,9 @@ Version: 1.5.2-209-g6d840b7a-r0
 Section: devel
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: a5ee4365147750b3cbd3c68fe05fd9b1
-SHA256sum: 4bb6c08f36ec7faa6d9d38c9e8d3d6df17e5943c1ef86ba3ba34b5a39cced48d
-Size: 698
+MD5Sum: d8557c911bed497fef9c711e11460d8b
+SHA256sum: 01d65ec6a6981ecd2226477b9180b9fffca5eb219987c0bb3d769488b4b9121a
+Size: 696
 Filename: enigma2-plugin-extensions-openwebif-dbg_1.5.2-209-g6d840b7a-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0 - Debugging files
@@ -421,8 +421,8 @@ Recommends: aio-grab-dev, enigma2-plugin-extensions-openwebif (= 1.5.2-209-g6d84
 Section: devel
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: aa948a38cfec974df21665d2959236ed
-SHA256sum: 280c28b2292bcd51e24c9896e08068244e198a53e7339e5f2ed4510228f18af2
+MD5Sum: adc466b9afb9f128aa0235e5d0abb268
+SHA256sum: 0a9865405fe37832e2be4b02c3a93fecacb0f40a626249514ed4f71274a210f1
 Size: 834
 Filename: enigma2-plugin-extensions-openwebif-dev_1.5.2-209-g6d840b7a-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
@@ -438,9 +438,9 @@ Provides: enigma2-plugin-extensions-openwebif-terminal
 Section: base
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: 35d84c1aea4506f8fd4781dddabc0a18
-SHA256sum: 3c40d46c1aa0ff61dfd629700845dc05b645501239714bf8645ed4b152bd0746
-Size: 3149470
+MD5Sum: f2499aad25c0eb7adb33092ebf48ee69
+SHA256sum: 88417b3b8807e602ff75b269a5b502d8ebf4357fa7fb5c2a43330f08e8427190
+Size: 3149658
 Filename: enigma2-plugin-extensions-openwebif_1.5.2-209-g6d840b7a-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0
