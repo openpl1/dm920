@@ -2834,64 +2834,64 @@ OE: enigma2-plugin-skins-cinogriplifhd
 License: GPL-3.0-only
 Priority: optional
 
-Package: enigma2-plugin-skins-darkos-dbg
+Package: enigma2-plugin-skins-e2darkos-dbg
 Version: 1.0+git105+4178a030+4178a03e28-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 37485f7a481e9204987879c26be6b19a
-SHA256sum: 2e57e68635f7639bd7f64f070f8986d4e13e1a21b21553e0fadfca89817b129f
-Size: 692
-Filename: enigma2-plugin-skins-darkos-dbg_1.0+git105+4178a030+4178a03e28-r0_all.ipk
-Source: enigma2-plugin-skins-darkos.bb
-Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Debugging files
-OE: enigma2-plugin-skins-darkos
+MD5Sum: 86b1de695cf44104d25722527b433439
+SHA256sum: 433a7d37dae18ec2eb6c3ae179c3159651a5edd1dc9cb368db619a06aa73c36f
+Size: 694
+Filename: enigma2-plugin-skins-e2darkos-dbg_1.0+git105+4178a030+4178a03e28-r0_all.ipk
+Source: enigma2-plugin-skins-e2darkos.bb
+Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Debugging files
+OE: enigma2-plugin-skins-e2darkos
 License: GPL-3.0-only
 Priority: optional
 
-Package: enigma2-plugin-skins-darkos-dev
+Package: enigma2-plugin-skins-e2darkos-dev
 Version: 1.0+git105+4178a030+4178a03e28-r0
-Recommends: enigma2-plugin-skins-darkos (= 1.0+git105+4178a030+4178a03e28-r0)
+Recommends: enigma2-plugin-skins-e2darkos (= 1.0+git105+4178a030+4178a03e28-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 62121af2c97f87f3fc9a2a6662b9e8b0
-SHA256sum: f6679db765fc0ec50dd6744015d714b1bee8392d79a9697efad6475df8c42073
+MD5Sum: a195649d5d0e3e7a547b87b149657d5a
+SHA256sum: 9d7cb67585d801c3679d54bcd159bf6ae1d3b8caebb9bc88c6c52581d070e09b
 Size: 728
-Filename: enigma2-plugin-skins-darkos-dev_1.0+git105+4178a030+4178a03e28-r0_all.ipk
-Source: enigma2-plugin-skins-darkos.bb
-Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Development files
-OE: enigma2-plugin-skins-darkos
+Filename: enigma2-plugin-skins-e2darkos-dev_1.0+git105+4178a030+4178a03e28-r0_all.ipk
+Source: enigma2-plugin-skins-e2darkos.bb
+Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Development files
+OE: enigma2-plugin-skins-e2darkos
 License: GPL-3.0-only
 Priority: optional
 
-Package: enigma2-plugin-skins-darkos-src
+Package: enigma2-plugin-skins-e2darkos-src
 Version: 1.0+git105+4178a030+4178a03e28-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 6ce99ca40be42d327f6041bdff13a386
-SHA256sum: 8c924fb480473b9ad72b26eb6acf766ece513862160d4f00ddb4673cc9b23e9a
+MD5Sum: da408b99f93d812d28126c3257670c1b
+SHA256sum: 06efb8e63c6e8ccacd61d291b93970fc4a9c2940fac1b71b7efcd782d761742f
 Size: 6938
-Filename: enigma2-plugin-skins-darkos-src_1.0+git105+4178a030+4178a03e28-r0_all.ipk
-Source: enigma2-plugin-skins-darkos.bb
-Description: enigma2-plugin-skins-darkos version 1.0+git-r0 - Source files
-OE: enigma2-plugin-skins-darkos
+Filename: enigma2-plugin-skins-e2darkos-src_1.0+git105+4178a030+4178a03e28-r0_all.ipk
+Source: enigma2-plugin-skins-e2darkos.bb
+Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Source files
+OE: enigma2-plugin-skins-e2darkos
 License: GPL-3.0-only
 Priority: optional
 
-Package: enigma2-plugin-skins-darkos
+Package: enigma2-plugin-skins-e2darkos
 Version: 1.0+git105+4178a030+4178a03e28-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 39840c0b35da96ebee32a8faa5382e2a
-SHA256sum: 59b28fbfa0c7713c50823e8a92ac370ed8887176b32feb98115c16c6661a99c5
-Size: 2840854
-Filename: enigma2-plugin-skins-darkos_1.0+git105+4178a030+4178a03e28-r0_all.ipk
-Source: enigma2-plugin-skins-darkos.bb
-Description: enigma2-plugin-skins-darkos version 1.0+git-r0
-OE: enigma2-plugin-skins-darkos
+MD5Sum: 3a7b8d8417ec532540c9da3b18e75c38
+SHA256sum: bf78f904db437a2164ce8d25c915dc62e6c99199e3872146f642c02651795cf0
+Size: 2841012
+Filename: enigma2-plugin-skins-e2darkos_1.0+git105+4178a030+4178a03e28-r0_all.ipk
+Source: enigma2-plugin-skins-e2darkos.bb
+Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0
+OE: enigma2-plugin-skins-e2darkos
 License: GPL-3.0-only
 Priority: optional
 
