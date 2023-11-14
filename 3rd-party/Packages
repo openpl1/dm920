@@ -67,21 +67,6 @@ OE: enigma2-plugin-extensions-backupsuite
 License: GPL-3.0-only
 Priority: optional
 
-Package: enigma2-plugin-extensions-bouquetmakerxtream
-Version: 1.04.20231112
-Section: misc
-Architecture: all
-Maintainer: kiddac
-MD5Sum: 038a7d771ed6334b197cd22fce5fb4a0
-SHA256sum: ef1ad0e521f4ac9b39668b57bdc41d7599eaf821693734d4cc4fc2b9cddb491a
-Size: 1412988  
-Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.04.20231112_all.ipk
-Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
-Description: Bouquet Maker Xtream - IPTV bouquet maker
-OE: enigma2-plugin-extensions-bouquetmakerxtream
-License: none
-Priority: optional
-
 Package: enigma2-plugin-extensions-chefkoch
 Version: git3519+269a0990+269a099786-r0
 Depends: enigma2-alliance-plugins
@@ -534,22 +519,6 @@ Source: https://www.boxpirates.to
 Description:  OpenVpn Verbindungen verwalten
 HomePage: https://www.boxpirates.to
 License: free
-Priority: optional
-
-Package: enigma2-plugin-softcams-oscam-emu
-Version: 1.20+git2004+53d2c200+53d2c20b44-r0
-Depends: libc6 (>= 2.38+git0+750a45a783), libcrypto3 (>= 3.1.4), libssl3 (>= 3.1.4), libudev1 (>= 3.2.12), softcam-support
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 72d58b5f79e491f5e09b5aeb721b1911
-SHA256sum: c8f4aa61379ee925418f6da4350c0db815e70a6709affc18d992dba7cef443e4
-Size: 809472
-Filename: enigma2-plugin-softcams-oscam-emu_1.20+git2004+53d2c200+53d2c20b44-r0_cortexa15hf-neon-vfpv4.ipk
-Source: enigma2-plugin-softcams-oscam-emu.bb
-Description: enigma2-plugin-softcams-oscam-emu version 1.20+git-r0
-OE: enigma2-plugin-softcams-oscam-emu
-License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-madmax-impossible
