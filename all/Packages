@@ -495,14 +495,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-dbg
-Version: 1.02-20231112-r2
+Version: 1.05-20231113-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 42f9baa6d973dc1eab2d86b8fee829ea
-SHA256sum: 60229fa322f007f36c946c1a364e330564ea9e504cd9aec4eb4e4812048e5b50
-Size: 708
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.02-20231112-r2_all.ipk
+MD5Sum: 5f7bb541c4ba7e22789721e4d488a6a1
+SHA256sum: 20906bf69253740560b661bbadf064bc81ce245b44e24a11c61d0287ce4bbc78
+Size: 710
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.05-20231113-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Debugging files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -511,15 +511,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-dev
-Version: 1.02-20231112-r2
-Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.02-20231112-r2), python3-backports-lzma-dev
+Version: 1.05-20231113-r3
+Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.05-20231113-r3)
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 0dea2b45b295a916c75a0fd196b5e3cd
-SHA256sum: 37fe4865e8988f53188cbe64a5ed91ef2c1dafb53c167d258eb3bc32375e1167
-Size: 764
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-dev_1.02-20231112-r2_all.ipk
+MD5Sum: 9d761541e1c1dfdd73f0785082e17313
+SHA256sum: 01e0e8452acfb205125c8c0a88d02054489a90a1600982a368fced36d008ab04
+Size: 744
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-dev_1.05-20231113-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Development files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -528,14 +528,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-src
-Version: 1.02-20231112-r2
+Version: 1.05-20231113-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: a235694574799813de1a877b43abae66
-SHA256sum: 879ad1a46ddeddcce2c84414f50aa46e04ba0039bfbe2204dbe280853b6f1c6f
-Size: 36124
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-src_1.02-20231112-r2_all.ipk
+MD5Sum: 3cbd2de49a7d512a6040198f85faf3c0
+SHA256sum: 2efa14fbd970e8086a497e7d6a2e30ce16dff924e57d07b25622f6c9f9efca5f
+Size: 37258
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-src_1.05-20231113-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Source files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -544,15 +544,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
-Version: 1.02-20231112-r2
-Depends: python3-backports-lzma
+Version: 1.05-20231113-r3
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9db9c7ee3b7cfa2130d840deefea485e
-SHA256sum: 6e19b85ef07bc4af2154a5f4d4e926e0e1028ed94ab7addfdba3d9045358862c
-Size: 1224472
-Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.02-20231112-r2_all.ipk
+MD5Sum: edf9df659aaaec6ef9696efa6dd5b460
+SHA256sum: dd28d62ee1ea91a1edad7ed243b0559c746d47d8bbadf92056f35fce493833f0
+Size: 1230072
+Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.05-20231113-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -611,14 +610,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-dbg
-Version: 1.25-20231109-r0
+Version: 1.25-20231110-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: b3d34ca5534f9c1eaea0dda067e42db4
-SHA256sum: 73c429747c548ca912fdc831c2bd07fffd9291de29e6a56623c99456ba3970c9
+MD5Sum: e4a5c53d04f5b209c853b6183fed44cd
+SHA256sum: 845bc96d1d2f22f3c67d2fc83d3d9f0dda48e62b0850201218794fc0bb2d1d8b
 Size: 712
-Filename: enigma2-plugin-extensions-e2piconizer-dbg_1.25-20231109-r0_all.ipk
+Filename: enigma2-plugin-extensions-e2piconizer-dbg_1.25-20231110-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Debugging files
 OE: enigma2-plugin-extensions-e2piconizer
@@ -627,15 +626,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-dev
-Version: 1.25-20231109-r0
-Recommends: enigma2-plugin-extensions-e2piconizer (= 1.25-20231109-r0)
+Version: 1.25-20231110-r0
+Recommends: enigma2-plugin-extensions-e2piconizer (= 1.25-20231110-r0)
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 7878c0c1d7437ffa2fe5f2fe71e64b7f
-SHA256sum: 23d529b72ae9b56c6939e3b69fcdfda312e1ce17d3e881c0ddf18cf88c6615c4
-Size: 748
-Filename: enigma2-plugin-extensions-e2piconizer-dev_1.25-20231109-r0_all.ipk
+MD5Sum: 5d3bae5e1518190819641daf8f17aa11
+SHA256sum: 6b7d3db891d34c7469766729e29660789119fb84beabffa565509d8a02852210
+Size: 746
+Filename: enigma2-plugin-extensions-e2piconizer-dev_1.25-20231110-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Development files
 OE: enigma2-plugin-extensions-e2piconizer
@@ -644,14 +643,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-src
-Version: 1.25-20231109-r0
+Version: 1.25-20231110-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 1da0753bd274c5ffa7cd5f70b9e6d047
-SHA256sum: 762f8546235bf52233825b98b93fcb2aaf0e9f823b94c4d736b1ede4ec8453fc
-Size: 12584
-Filename: enigma2-plugin-extensions-e2piconizer-src_1.25-20231109-r0_all.ipk
+MD5Sum: b8c43351a824e9d454e7d36789854d05
+SHA256sum: a4cf8e53c94377dcd6f669866501440b63e3820d4a7ba2c74893a06f45f18b8f
+Size: 12588
+Filename: enigma2-plugin-extensions-e2piconizer-src_1.25-20231110-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Source files
 OE: enigma2-plugin-extensions-e2piconizer
@@ -660,14 +659,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer
-Version: 1.25-20231109-r0
+Version: 1.25-20231110-r0
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 603e05344551f00319e566548b38b43c
-SHA256sum: 577efcb921dc4cf63e06cb52dd3e9ed76056182f790d56917fbfb1437fc121a7
-Size: 1784388
-Filename: enigma2-plugin-extensions-e2piconizer_1.25-20231109-r0_all.ipk
+MD5Sum: 29517a0d05b1b8eed7c97913785f8348
+SHA256sum: 53fc6dd02e3b25b34fca716bc5ae83aee404cd542e63dec4193e7bd7dda3451d
+Size: 1784400
+Filename: enigma2-plugin-extensions-e2piconizer_1.25-20231110-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0
 OE: enigma2-plugin-extensions-e2piconizer
@@ -823,14 +822,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dbg
-Version: 4.17-20231011-r0
+Version: 4.18-20231114-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 7d511e006bb90d57499bfd1d7e509eff
-SHA256sum: 5ba18aa1cb03e2d6997ccedc61eebe85a54ff82f981feead89b3523d29ead76f
-Size: 714
-Filename: enigma2-plugin-extensions-xstreamity-dbg_4.17-20231011-r0_all.ipk
+MD5Sum: 2a1f05b230ed866f7d3a60bfa35e68f8
+SHA256sum: baa112a97cfebbdaa8c8c4daf7f5dd733f8797ed8ed534caafe6d23a304536f9
+Size: 712
+Filename: enigma2-plugin-extensions-xstreamity-dbg_4.18-20231114-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Debugging files
 OE: enigma2-plugin-extensions-xstreamity
@@ -839,15 +838,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dev
-Version: 4.17-20231011-r0
-Recommends: enigma2-plugin-extensions-xstreamity (= 4.17-20231011-r0), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
+Version: 4.18-20231114-r0
+Recommends: enigma2-plugin-extensions-xstreamity (= 4.18-20231114-r0), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: de8a3e4c979c1c2eb4a13ff46353e31f
-SHA256sum: 2cc783849ceb50127e68b03bafc93f0c2f3c47b20f01f7bca818a1d90b6a3b4d
+MD5Sum: 9889904d539b800cdd73c38107a1dfb8
+SHA256sum: 2d8e2b0f7f5cf6f9ee81d05be5678137a862bc7e5e0796954e4fbfd4bdf632ba
 Size: 784
-Filename: enigma2-plugin-extensions-xstreamity-dev_4.17-20231011-r0_all.ipk
+Filename: enigma2-plugin-extensions-xstreamity-dev_4.18-20231114-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Development files
 OE: enigma2-plugin-extensions-xstreamity
@@ -856,14 +855,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-src
-Version: 4.17-20231011-r0
+Version: 4.18-20231114-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e9576a558a0f59a2cf2a76f5166846ac
-SHA256sum: 94ac960ffc8bfef10cbd20f812e74e4200d9fc2a10bd86f6e2e6b5fba5910ea4
-Size: 55578
-Filename: enigma2-plugin-extensions-xstreamity-src_4.17-20231011-r0_all.ipk
+MD5Sum: 131c69a8780887b664eb95d04927afdb
+SHA256sum: 06b60e5681d6835b99d6b3020e1c0bc46862f5de21d657cfc60641d9460866f5
+Size: 55574
+Filename: enigma2-plugin-extensions-xstreamity-src_4.18-20231114-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Source files
 OE: enigma2-plugin-extensions-xstreamity
@@ -872,15 +871,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 4.17-20231011-r0
+Version: 4.18-20231114-r0
 Depends: python3-multiprocessing, python3-pillow, python3-requests
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9a34c0edafd9406fce3922c0484a24ef
-SHA256sum: 9befcc7c6e67e1e17994f34a3faa04d52b3ab17768374d26dc769a8516b2c36e
-Size: 4335962
-Filename: enigma2-plugin-extensions-xstreamity_4.17-20231011-r0_all.ipk
+MD5Sum: 9e1ff9e419036a09e066336aaae2c681
+SHA256sum: 3bd7a05f6c63e28ff18e6d4c35dcf9044bc8721119e91d17b0946df1a67613b6
+Size: 2736806
+Filename: enigma2-plugin-extensions-xstreamity_4.18-20231114-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC
 OE: enigma2-plugin-extensions-xstreamity
@@ -2901,14 +2900,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos-dbg
-Version: 1.0+git106+53bf1780+53bf1789b4-r0
+Version: 1.0+git107+c68308c0+c68308c9a1-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 0e5ed97408e95e6d68d761bcbfe7ad00
-SHA256sum: 5b9a7c7d241e0753714b7ba142b8b20a4abea5ffab00801293d160548d6e7e6e
-Size: 694
-Filename: enigma2-plugin-skins-e2darkos-dbg_1.0+git106+53bf1780+53bf1789b4-r0_all.ipk
+MD5Sum: f4772cb936371590f25de891f269afd0
+SHA256sum: faf29f37afc5d1fecb869f7d4100e5ca06c319840eb37e3a28926fd146ff7232
+Size: 692
+Filename: enigma2-plugin-skins-e2darkos-dbg_1.0+git107+c68308c0+c68308c9a1-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-e2darkos
@@ -2916,15 +2915,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos-dev
-Version: 1.0+git106+53bf1780+53bf1789b4-r0
-Recommends: enigma2-plugin-skins-e2darkos (= 1.0+git106+53bf1780+53bf1789b4-r0)
+Version: 1.0+git107+c68308c0+c68308c9a1-r0
+Recommends: enigma2-plugin-skins-e2darkos (= 1.0+git107+c68308c0+c68308c9a1-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: dfa320d0b9726d6ceaecbb3824afdbe5
-SHA256sum: bd5ac15d54aa91f997a0ea1055437ff762803eb29bda75df431b5cc02ba31ae2
+MD5Sum: 6dcb46647f3520c10dcf58b7b289bfee
+SHA256sum: 4427f58f84c684edf2089c4ea3a177db2babc3091b30a7cb0e61a2df9a5311cb
 Size: 730
-Filename: enigma2-plugin-skins-e2darkos-dev_1.0+git106+53bf1780+53bf1789b4-r0_all.ipk
+Filename: enigma2-plugin-skins-e2darkos-dev_1.0+git107+c68308c0+c68308c9a1-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-e2darkos
@@ -2932,14 +2931,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos-src
-Version: 1.0+git106+53bf1780+53bf1789b4-r0
+Version: 1.0+git107+c68308c0+c68308c9a1-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: ee516a2dfca99b3f55e8ff034f1efed1
-SHA256sum: f491b45d3cf438975cf9fc5797c4d7b3931cc39e8ba4e07a5b8e2f3f7d7b9eb6
-Size: 6944
-Filename: enigma2-plugin-skins-e2darkos-src_1.0+git106+53bf1780+53bf1789b4-r0_all.ipk
+MD5Sum: 048ab0b6c9c2d80ab15bbfaef6b3edb9
+SHA256sum: fef1ca775fee34e62abca082ce15f1ffa8f8f1c4046294b3cd89d360ed02d07b
+Size: 6942
+Filename: enigma2-plugin-skins-e2darkos-src_1.0+git107+c68308c0+c68308c9a1-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Source files
 OE: enigma2-plugin-skins-e2darkos
@@ -2947,14 +2946,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos
-Version: 1.0+git106+53bf1780+53bf1789b4-r0
+Version: 1.0+git107+c68308c0+c68308c9a1-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 36559819c7c7cedea5925371b41e933a
-SHA256sum: 35a4ca01827646f4fad8f0f26647d84a43b07cb90b761902d3fcc517d8fc49c4
-Size: 2824484
-Filename: enigma2-plugin-skins-e2darkos_1.0+git106+53bf1780+53bf1789b4-r0_all.ipk
+MD5Sum: b75467b8242ecf6270b399f62a6e57e9
+SHA256sum: 1e95f82bfb24640139c8f5e7e5302200a253474351d955a68896dd29d3cd744c
+Size: 2812932
+Filename: enigma2-plugin-skins-e2darkos_1.0+git107+c68308c0+c68308c9a1-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-e2darkos
