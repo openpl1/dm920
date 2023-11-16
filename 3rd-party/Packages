@@ -174,7 +174,7 @@ Maintainer: Coolman, Betonme & Swiss-MAD
 License: GPL-2.0-or-later
 Architecture: cortexa15hf-neon-vfpv4
 OE: enigma2-plugin-extensions-enhancedmoviecenter
-Homepage: https:\\www.opena.tv
+Homepage: https://github.com/betonme/e2openplugin-EnhancedMovieCenter
 Depends: gstreamer1.0-plugins-bad-rtmp, gstreamer1.0-plugins-good-flv, python3-chardet, python3-html, python3-json, python3-mutagen, python3-requests, python3-tmdbsimple, rtmpdump
 Source: enigma2-plugin-extensions-enhancedmoviecenter.bb
 Filename: enigma2-plugin-extensions-enhancedmoviecenter_4.0.+git1756+6aae86f-r0_cortexa15hf-neon-vfpv4.ipk
