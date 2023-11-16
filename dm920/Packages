@@ -1110,9 +1110,9 @@ Version: 3.11+git222+684ea930+684ea9385f-r0
 Section: base
 Architecture: dm920
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fd5f9f7a351331d0ec96706f712f1cfc
-SHA256sum: 8ffd9be70a1ea2dc5e1f9e1b88781a6b7d7c8011891224ffe81dbceaa098c3b4
-Size: 70740
+MD5Sum: 4ac26cfd252f15734299569725e48c2c
+SHA256sum: 8b971b54a04cf536226e34a1bd03d9126afc88634c7b473b4d5bc31304a11272
+Size: 70780
 Filename: enigma2-plugin-systemplugins-videomode_3.11+git222+684ea930+684ea9385f-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode
