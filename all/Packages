@@ -495,14 +495,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-dbg
-Version: 1.07-20231115-r3
+Version: 1.08-20231117-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: ef9076d08eb40061b21500ed748c4708
-SHA256sum: ea8d0023f2290e09558ef484b67c00afb31850ad2d801a14d53950671c8f371f
-Size: 708
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.07-20231115-r3_all.ipk
+MD5Sum: 9f47eaea38937a4dc38e4f6ae6a42341
+SHA256sum: 78d51c527338b57acd154dcc278316deb3be10a2e011d6a975a7738f16b9dc05
+Size: 710
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.08-20231117-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Debugging files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -511,15 +511,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-dev
-Version: 1.07-20231115-r3
-Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.07-20231115-r3)
+Version: 1.08-20231117-r3
+Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.08-20231117-r3)
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 7838385609e97b5e88caaaa5139b7fe8
-SHA256sum: fcd647df35c5271d94de3d3b0a473d46afbbeba50e38869ca6850bbba8c5f52b
-Size: 744
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-dev_1.07-20231115-r3_all.ipk
+MD5Sum: 673c9b8cccd66a1a39d26889e55ab064
+SHA256sum: b9aaea362847345798714fce716448f3465e5815b22714ef4933603ddeb0dba0
+Size: 746
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-dev_1.08-20231117-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Development files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -528,14 +528,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-src
-Version: 1.07-20231115-r3
+Version: 1.08-20231117-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: ad682a57ad1beb84ba60675bcaae33a5
-SHA256sum: 3fa39aeba830fbce40d1b21950970b8fd15e9574a099f4298141cc05feac4bee
-Size: 37374
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-src_1.07-20231115-r3_all.ipk
+MD5Sum: 6d84ee49abf9583858f48cd21661e74a
+SHA256sum: 9d9c8cfa2a9314678a095bda742cb2915ad36d082a059608e761a4b3d552a5ad
+Size: 36586
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-src_1.08-20231117-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Source files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -544,68 +544,18 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
-Version: 1.07-20231115-r3
+Version: 1.08-20231117-r3
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: be15bd8aaf6863710d0cafc3e03d4817
-SHA256sum: c8ada2dc8e20b76de68acaa58c8ef73e657b8dea4995052838bf8016aeeaea0c
-Size: 1231902
-Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.07-20231115-r3_all.ipk
+MD5Sum: 30766219eea1a74990b7b1f76886d1b6
+SHA256sum: 89d24a209f789a486c40d483f44a31775d6fd4d2df1c8b5f8c9316f139ae7465
+Size: 1227836
+Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.08-20231117-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker
 OE: enigma2-plugin-extensions-bouquetmakerxtream
 HomePage: https://github.com/kiddac/Bouquet_Maker_Xtream
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-extensions-e2iplayer-dbg
-Version: 1+git4465+efb92010+efb9201ee7-r0
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 91b2ae1187b12e3b4b4b49847f1e13d8
-SHA256sum: ad32a6ff356af96e4f66d217a780c6026bbb4f8c921b9c699ef24e437ba21e9b
-Size: 730
-Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4465+efb92010+efb9201ee7-r0_all.ipk
-Source: enigma2-plugin-extensions-e2iplayer.bb
-Description: E2i Player for E2 - Debugging files
-OE: enigma2-plugin-extensions-e2iplayer
-HomePage: http://www.iptvplayer.gitlab.io/
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-extensions-e2iplayer-dev
-Version: 1+git4465+efb92010+efb9201ee7-r0
-Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 1+git4465+efb92010+efb9201ee7-r0), exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python3-core-dev, python3-dev, python3-e2icjson-dev, python3-pycurl-dev, rtmpdump-dev, uchardet-dev, wget-dev
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f6afb84470ae83c05579b4f7c9335bb0
-SHA256sum: 5ee4c53ffd2075d71062bcd88c8b491c89e90312964a525c6708ae45ce22a664
-Size: 874
-Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4465+efb92010+efb9201ee7-r0_all.ipk
-Source: enigma2-plugin-extensions-e2iplayer.bb
-Description: E2i Player for E2 - Development files
-OE: enigma2-plugin-extensions-e2iplayer
-HomePage: http://www.iptvplayer.gitlab.io/
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-extensions-e2iplayer
-Version: 1+git4465+efb92010+efb9201ee7-r0
-Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplayer, hlsdl, iptvsubparser, lsdir, python3-core, python3-e2icjson, python3-pycurl, rtmpdump, uchardet, wget
-Section: multimedia
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ad3474f138ada68b68dfb9ff0834104f
-SHA256sum: 5896da824689cefd3620af98d0090d95e274183b59f4f448ac7c86fa179d6c89
-Size: 8966988
-Filename: enigma2-plugin-extensions-e2iplayer_1+git4465+efb92010+efb9201ee7-r0_all.ipk
-Source: enigma2-plugin-extensions-e2iplayer.bb
-Description: E2i Player for E2
-OE: enigma2-plugin-extensions-e2iplayer
-HomePage: http://www.iptvplayer.gitlab.io/
 License: GPL-2.0-or-later
 Priority: optional
 
@@ -7445,9 +7395,9 @@ Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 04090a47ae5e5e3b922b9fe7ab91b29f
-SHA256sum: 07841ec338dc7716f59d6a9ed44e84acdf23bd609d41c75693f1138876418463
-Size: 698
+MD5Sum: 5a43b369545d6ce34d33712f6d9eff07
+SHA256sum: 15974591f5543a2c87b35517a01e7fa7cef46dd90b903590039c50f28488c35b
+Size: 702
 Filename: streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Debugging files
@@ -7462,8 +7412,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git25+e0f24
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 9910cf98824feb8def56946979c39c35
-SHA256sum: 015def765ca546c598059c5bc99a9a4267c582baf0816eed5405a6cf5eca2db1
+MD5Sum: 70eb119965e816465ef1f47d90dcb81c
+SHA256sum: 5469240d3ca67dfd3e5fa61f3db6a37c5cb48ffbae255f4eddcda4409a3b4fb5
 Size: 752
 Filename: streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
@@ -7479,9 +7429,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 88e6fc5327a8c64a9bcf0bea52621b94
-SHA256sum: d264b7a7a6b322094611a876090f0c7159ad688fe7d8188e5c88f06d7cb76440
-Size: 83014
+MD5Sum: e3c1d25fc60cc15de76aeca7af27a108
+SHA256sum: 5182f56093f6fbaf46c0148f6e9489e3f20b6dceee118ac7dbf1e59f9bc21508
+Size: 83020
 Filename: streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
