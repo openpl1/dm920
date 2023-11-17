@@ -29,10 +29,13 @@
 1700219823 enigma2-plugin-drivers-dvb-usb-tbs_1.1-r0_all.ipk
 1700219823 enigma2-plugin-drivers-dvb-usb-technisat-skystar_1.0-r0_all.ipk
 1700219823 enigma2-plugin-drivers-s2-usb-dvbsky-s960_1.0-r0_all.ipk
-1700219824 enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.07-20231115-r3_all.ipk
-1700219824 enigma2-plugin-extensions-bouquetmakerxtream-dev_1.07-20231115-r3_all.ipk
-1700219824 enigma2-plugin-extensions-bouquetmakerxtream-src_1.07-20231115-r3_all.ipk
-1700219824 enigma2-plugin-extensions-bouquetmakerxtream_1.07-20231115-r3_all.ipk
+1700220678 enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.07-20231115-r3_all.ipk
+1700220678 enigma2-plugin-extensions-bouquetmakerxtream-dev_1.07-20231115-r3_all.ipk
+1700220678 enigma2-plugin-extensions-bouquetmakerxtream-src_1.07-20231115-r3_all.ipk
+1700220678 enigma2-plugin-extensions-bouquetmakerxtream_1.07-20231115-r3_all.ipk
+1700220662 enigma2-plugin-extensions-e2iplayer-dbg_1+git4465+efb92010+efb9201ee7-r0_all.ipk
+1700220662 enigma2-plugin-extensions-e2iplayer-dev_1+git4465+efb92010+efb9201ee7-r0_all.ipk
+1700220662 enigma2-plugin-extensions-e2iplayer_1+git4465+efb92010+efb9201ee7-r0_all.ipk
 1700219824 enigma2-plugin-extensions-e2piconizer-dbg_1.25-20231110-r0_all.ipk
 1700219824 enigma2-plugin-extensions-e2piconizer-dev_1.25-20231110-r0_all.ipk
 1700219824 enigma2-plugin-extensions-e2piconizer-src_1.25-20231110-r0_all.ipk
@@ -438,6 +441,9 @@
 1700219821 packagegroup-openplugins-dbg_1.0-r0_all.ipk
 1700219821 packagegroup-openplugins-dev_1.0-r0_all.ipk
 1700219821 packagegroup-openplugins_1.0-r0_all.ipk
+1700224170 poppler-data-dbg_0.4.12-r0_all.ipk
+1700224170 poppler-data-dev_0.4.12-r0_all.ipk
+1700224170 poppler-data_0.4.12-r0_all.ipk
 1700214786 run-postinsts-dbg_1.0-r0_all.ipk
 1700214786 run-postinsts-dev_1.0-r0_all.ipk
 1700214786 run-postinsts_1.0-r0_all.ipk
@@ -472,6 +478,3 @@
 1700214782 volatile-media_3-r0_all.ipk
 1700214788 wireless-regdb-static_2023.09.01-r0_all.ipk
 1700214788 wireless-regdb_2023.09.01-r0_all.ipk
-1700219872 enigma2-plugin-extensions-e2iplayer-dbg_1+git4465+efb92010+efb9201ee7-r0_all.ipk
-1700219872 enigma2-plugin-extensions-e2iplayer-dev_1+git4465+efb92010+efb9201ee7-r0_all.ipk
-1700219872 enigma2-plugin-extensions-e2iplayer_1+git4465+efb92010+efb9201ee7-r0_all.ipk

@@ -7313,6 +7313,55 @@ OE: packagegroup-openplugins
 License: GPL-2.0-or-later
 Priority: optional
 
+Package: poppler-data-dbg
+Version: 0.4.12-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 684ed8e8031848076fe1a720aa06c503
+SHA256sum: eb5a25e3d3caefc2c3ed1ebb3c98aa501bd52d8564ca24ed45a49d4c31c2460f
+Size: 766
+Filename: poppler-data-dbg_0.4.12-r0_all.ipk
+Source: poppler-data_0.4.12.bb
+Description: Encoding files for Poppler - Debugging files
+OE: poppler-data
+HomePage: https://poppler.freedesktop.org/
+License: BSD-3-Clause & GPL-2.0-only & GPL-3.0-or-later
+Priority: optional
+
+Package: poppler-data-dev
+Version: 0.4.12-r0
+Recommends: poppler-data (= 0.4.12-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2ec54dcdd6ff95bdc9a78b0535a4b4fb
+SHA256sum: 029b3e94dd5e1510ef35908a7a105ed71b7e48a0df9ea5c6cd73295283d14742
+Size: 1028
+Filename: poppler-data-dev_0.4.12-r0_all.ipk
+Source: poppler-data_0.4.12.bb
+Description: Encoding files for Poppler - Development files
+OE: poppler-data
+HomePage: https://poppler.freedesktop.org/
+License: BSD-3-Clause & GPL-2.0-only & GPL-3.0-or-later
+Priority: optional
+
+Package: poppler-data
+Version: 0.4.12-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ffb8cd97389101f52c831394fedaf162
+SHA256sum: 02057bf2e6aab686532b2e00246c17733e664b9af4f945ff8e155e8018b8f7b5
+Size: 1585536
+Filename: poppler-data_0.4.12-r0_all.ipk
+Source: poppler-data_0.4.12.bb
+Description: Encoding files for Poppler
+OE: poppler-data
+HomePage: https://poppler.freedesktop.org/
+License: BSD-3-Clause & GPL-2.0-only & GPL-3.0-or-later
+Priority: optional
+
 Package: run-postinsts-dbg
 Version: 1.0-r0
 Section: devel
