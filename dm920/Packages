@@ -405,9 +405,9 @@ Version: 1.5.2-209-g6d840b7a-r0
 Section: devel
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: d8557c911bed497fef9c711e11460d8b
-SHA256sum: 01d65ec6a6981ecd2226477b9180b9fffca5eb219987c0bb3d769488b4b9121a
-Size: 696
+MD5Sum: a5ee4365147750b3cbd3c68fe05fd9b1
+SHA256sum: 4bb6c08f36ec7faa6d9d38c9e8d3d6df17e5943c1ef86ba3ba34b5a39cced48d
+Size: 698
 Filename: enigma2-plugin-extensions-openwebif-dbg_1.5.2-209-g6d840b7a-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0 - Debugging files
@@ -421,8 +421,8 @@ Recommends: aio-grab-dev, enigma2-plugin-extensions-openwebif (= 1.5.2-209-g6d84
 Section: devel
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: adc466b9afb9f128aa0235e5d0abb268
-SHA256sum: 0a9865405fe37832e2be4b02c3a93fecacb0f40a626249514ed4f71274a210f1
+MD5Sum: aa948a38cfec974df21665d2959236ed
+SHA256sum: 280c28b2292bcd51e24c9896e08068244e198a53e7339e5f2ed4510228f18af2
 Size: 834
 Filename: enigma2-plugin-extensions-openwebif-dev_1.5.2-209-g6d840b7a-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
@@ -438,9 +438,9 @@ Provides: enigma2-plugin-extensions-openwebif-terminal
 Section: base
 Architecture: dm920
 Maintainer: Open Vision Developers
-MD5Sum: f2499aad25c0eb7adb33092ebf48ee69
-SHA256sum: 88417b3b8807e602ff75b269a5b502d8ebf4357fa7fb5c2a43330f08e8427190
-Size: 3149658
+MD5Sum: c9b787a9867f952f7787baa2302c32c1
+SHA256sum: 7e1bd6d09366e4adedb1ec7b6bbf2867a39e28aae7c5bac7fc28ba131b3d3bc8
+Size: 3150090
 Filename: enigma2-plugin-extensions-openwebif_1.5.2-209-g6d840b7a-r0_dm920.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: enigma2-plugin-extensions-openwebif version git-r0
@@ -718,9 +718,9 @@ Recommends: glibc-dbg, libcurl-dbg, libxml2-dbg, zlib-dbg
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c984fd871701cb2ac09cb1e2a4245ed5
-SHA256sum: 2a013411a04f38a9dacc1dc9a83ea1684155a26e077ddfc0426c7b842f6a1d0a
-Size: 822
+MD5Sum: 39327f1dc3653d1a79f2aa770ba944b0
+SHA256sum: 090462c6810e46b4370cbe93a5dea7fa8df86f1081e7e9278b52f1f8764aeae5
+Size: 824
 Filename: enigma2-plugin-systemplugins-crossepg-dbg_0.9.0+gitr550+467b7f90+467b7f986f-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: enigma2-plugin-systemplugins-crossepg version 0.9.0+gitr-r0 - Debugging files
@@ -735,9 +735,9 @@ Recommends: curl-dev, enigma2-dev, enigma2-plugin-systemplugins-crossepg (= 0.9.
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6a2f0c4eae2c448080aa9c5a83533da0
-SHA256sum: 196f3c5b4b79e7c81c62883c6074506ec4d751d4a6207260c1f184fe696502a7
-Size: 884
+MD5Sum: c7a36689bf428b6ae7762ab8d98d0665
+SHA256sum: d1d86755872dd0deb09cff70f784cbae4efbeda427d1d3768809188b703ddbd5
+Size: 882
 Filename: enigma2-plugin-systemplugins-crossepg-dev_0.9.0+gitr550+467b7f90+467b7f986f-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: enigma2-plugin-systemplugins-crossepg version 0.9.0+gitr-r0 - Development files
@@ -751,8 +751,8 @@ Version: 0.9.0+gitr550+467b7f90+467b7f986f-r0
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6f183fd9f00bae6a5f4b21a5f49c9dc1
-SHA256sum: d1ae304e06ef7593bed0ddf39ac05a7180cd2c3e27a4d9f5390ead8ec7810856
+MD5Sum: 24f42d6e8f941ac29c3abe1c002f50f2
+SHA256sum: 851fd0a0f10de2a2ca8a086f5e568d880aecfa03c4e39a079bda44a195162990
 Size: 3334
 Filename: enigma2-plugin-systemplugins-crossepg-src_0.9.0+gitr550+467b7f90+467b7f986f-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
@@ -768,9 +768,9 @@ Depends: enigma2, libc6 (>= 2.38+git0+750a45a783), libcurl4 (>= 8.4.0), libxml2 
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9bb02606784faef4dc36483bfec342fe
-SHA256sum: 49de2ab5f56451bb4d62fe1065e4d3d9eff09e51d70330425381a5ab4c10a111
-Size: 232674
+MD5Sum: 9c27b91bc2d56f9268e78bf72b4e8169
+SHA256sum: c78f67144ac12683a6151c5fe19addcbb64204e0dbd8852803329a179713e279
+Size: 232280
 Filename: enigma2-plugin-systemplugins-crossepg_0.9.0+gitr550+467b7f90+467b7f986f-r0_dm920.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: systemplugins-crossepg
@@ -1342,9 +1342,9 @@ Version: 3.14-4
 Section: kernel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6f313abcc01c4d4920cc07ca37786253
-SHA256sum: 6b1baaa77eef1a577821fd03aac408aad258915e37a10d180fa6e196505ffaf2
-Size: 26408538
+MD5Sum: 7f66dfe8a357135121d5d8ed62531896
+SHA256sum: 8aecd8b1217a2510546ce8339be8fd7ec91e11a8f98a68454d7008a972f7d487
+Size: 26408930
 Filename: kernel-dbg_3.14-4_dm920.ipk
 Source: linux-dreambox_3.14.bb
 Description: linux-dreambox version 3.14-4
@@ -1358,9 +1358,9 @@ Recommends: flash-scripts-dev, kernel-3.14-1.17-dm920-dev, kernel-base-dev, kern
 Section: kernel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cee6e09b1b62c7511f10a185de748af9
-SHA256sum: 60073619ad045eabd992d0fb559faa5fbb5f6a6f94e0061d839a1657b0237852
-Size: 399944
+MD5Sum: 9c39a89d9a71e7297b9d266e1a9ec699
+SHA256sum: f77acb54e20d7a1a466a2059ca1ce52345faad17e22a7360f64bc2cf0461ff6d
+Size: 399980
 Filename: kernel-dev_3.14-4_dm920.ipk
 Source: linux-dreambox_3.14.bb
 Description: linux-dreambox version 3.14-4
@@ -1796,9 +1796,9 @@ Provides: kernel-image-zimage
 Section: kernel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4fcad3ee90c44cc9402324ad5a74e00b
-SHA256sum: 3007fd9207ee73ba6cdbd494548781cf2f38c0053b4b7e371921ac10febe6c47
-Size: 4250344
+MD5Sum: cdb698f787b3f5b51095c9692ae41460
+SHA256sum: 824562684f058f1f0af34f2b114a94a93eac9948f6f83fdefc0e2b1b1b9053fe
+Size: 4250260
 Filename: kernel-image-zimage-3.14-1.17-dm920_3.14-4_dm920.ipk
 Source: linux-dreambox_3.14.bb
 Description: linux-dreambox version 3.14-4
@@ -19401,9 +19401,9 @@ Depends: kernel-module-8021q-3.14-1.17-dm920, kernel-module-a8293-3.14-1.17-dm92
 Section: kernel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e18b43a951573ec51e267b0ae7214a6a
-SHA256sum: def92c7bba6ce0c9d35cf09493dcc2d0086611d5f22d09bdf8a5c48ad61c321a
-Size: 6040
+MD5Sum: b4e3b98a60a83f3ab9824e09a804b61f
+SHA256sum: 34cb3149a704ba7c78e64ef9c39038308ac62fb107fe955bba190271db595f08
+Size: 6026
 Filename: kernel-modules_3.14-4_dm920.ipk
 Source: linux-dreambox_3.14.bb
 Description: linux-dreambox version 3.14-4
@@ -19416,9 +19416,9 @@ Version: 3.14-4
 Section: kernel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2101db3565d484d1e3b84406b34135ac
-SHA256sum: 87c80725e5c3f70c914de1389055dfc203ecf610559c6c9aebc4fe26a1fe267f
-Size: 3186392
+MD5Sum: 915d27b1220f8337ccfd23616d6dfcbb
+SHA256sum: f8c6c6aa789b76fb97a43af7e48b295afd23f7a7e04235f4498fb2aab3a1e6ac
+Size: 3186524
 Filename: kernel-vmlinux_3.14-4_dm920.ipk
 Source: linux-dreambox_3.14.bb
 Description: linux-dreambox version 3.14-4
@@ -19550,13 +19550,12 @@ Priority: optional
 
 Package: make-mod-scripts-dev
 Version: 1.0-r0
-Recommends: make-mod-scripts (= 1.0-r0)
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 52d78701babc9859bff84ca1faf39633
-SHA256sum: b3a2e2da2478811a6ee3cc2c834276698007c1ff60edeb6384692ba64f2210f6
-Size: 750
+MD5Sum: 83ef471d9fa6fe18dd4687b252d7247d
+SHA256sum: 453776f9e5fecf64dac49d57080cba9aa53978abba60d078c8247fbc07b3bdd3
+Size: 734
 Filename: make-mod-scripts-dev_1.0-r0_dm920.ipk
 Source: make-mod-scripts_1.0.bb
 Description: Build tools needed by external modules - Development files
@@ -20582,9 +20581,9 @@ Recommends: update-rc.d
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7be940ca3cd404f286474f85b42defa9
-SHA256sum: 75f0bedd13db0dabe92d7f05e0dc4c69cc8376dde833a3a68ea79cfc6697bf21
-Size: 25906
+MD5Sum: b8e1daa261eb1de348867276038884a7
+SHA256sum: 83f0faf62bb7b9c2a376b36a788b937fef23cefa57b01a93f9655fff6a33c558
+Size: 25914
 Filename: recovery_1.1+git162+81ff8d40+81ff8d40bb-r1_dm920.ipk
 Source: recovery_1.1.bb
 Description: Command-line tools to flash and recover your Dreambox
