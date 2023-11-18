@@ -648,9 +648,6 @@
 1700306367 enigma2-plugin-extensions-dreammediathek_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 enigma2-plugin-extensions-dvdbackup_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 enigma2-plugin-extensions-dyndns_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
-1700303185 enigma2-plugin-extensions-e2iplayer-dbg_git4465+efb92010+efb9201ee7-r0_cortexa15hf-neon-vfpv4.ipk
-1700303185 enigma2-plugin-extensions-e2iplayer-dev_git4465+efb92010+efb9201ee7-r0_cortexa15hf-neon-vfpv4.ipk
-1700303185 enigma2-plugin-extensions-e2iplayer_git4465+efb92010+efb9201ee7-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 enigma2-plugin-extensions-easyinfo_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 enigma2-plugin-extensions-easymedia_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 enigma2-plugin-extensions-eibox_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
@@ -5674,8 +5671,8 @@
 1700306367 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700306532 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700306532 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1700327610 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1700327610 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7541,7 +7538,7 @@
 1700219828 strace-dev_6.6-r0_cortexa15hf-neon-vfpv4.ipk
 1700219828 strace-doc_6.6-r0_cortexa15hf-neon-vfpv4.ipk
 1700219828 strace_6.6-r0_cortexa15hf-neon-vfpv4.ipk
-1700288629 streamlink_${GITPKGVTAG}-r0_cortexa15hf-neon-vfpv4.ipk
+1700327609 streamlink_${GITPKGVTAG}-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 streamripper-dbg_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1700306367 streamripper-dev_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1700306367 streamripper-doc_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
