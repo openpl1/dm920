@@ -648,13 +648,8 @@
 1700214779 enigma2-plugin-extensions-dreammediathek_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700214779 enigma2-plugin-extensions-dvdbackup_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700214779 enigma2-plugin-extensions-dyndns_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
-1700288853 enigma2-plugin-extensions-e2iplayer-dbg_git4465+efb92010+efb9201ee7-r0_cortexa15hf-neon-vfpv4.ipk
-1700249620 enigma2-plugin-extensions-e2iplayer-deps-dbg_1.0+git9+2adf2670+2adf267a1c-r2_cortexa15hf-neon-vfpv4.ipk
-1700249620 enigma2-plugin-extensions-e2iplayer-deps-dev_1.0+git9+2adf2670+2adf267a1c-r2_cortexa15hf-neon-vfpv4.ipk
-1700249620 enigma2-plugin-extensions-e2iplayer-deps_1.0+git9+2adf2670+2adf267a1c-r2_cortexa15hf-neon-vfpv4.ipk
-1700288853 enigma2-plugin-extensions-e2iplayer-dev_git4465+efb92010+efb9201ee7-r0_cortexa15hf-neon-vfpv4.ipk
-1700288853 enigma2-plugin-extensions-e2iplayer-src_git4465+efb92010+efb9201ee7-r0_cortexa15hf-neon-vfpv4.ipk
-1700288853 enigma2-plugin-extensions-e2iplayer_git4465+efb92010+efb9201ee7-r0_cortexa15hf-neon-vfpv4.ipk
+1700294328 enigma2-plugin-extensions-e2iplayer-dbg_1+git626+37f84f50+37f84f566c-r0_cortexa15hf-neon-vfpv4.ipk
+1700294328 enigma2-plugin-extensions-e2iplayer-dev_1+git626+37f84f50+37f84f566c-r0_cortexa15hf-neon-vfpv4.ipk
 1700214779 enigma2-plugin-extensions-easyinfo_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700214779 enigma2-plugin-extensions-easymedia_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700214779 enigma2-plugin-extensions-eibox_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
@@ -1086,7 +1081,6 @@
 1700214786 gawk-locale-vi_5.2.2-r0_cortexa15hf-neon-vfpv4.ipk
 1700214786 gawk-locale-zh-cn_5.2.2-r0_cortexa15hf-neon-vfpv4.ipk
 1700214786 gawk_5.2.2-r0_cortexa15hf-neon-vfpv4.ipk
-1700219828 gcc-dbg_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700219828 gcc-dev_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700219828 gcc-doc_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700219828 gcc-locale-be_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
@@ -5679,8 +5673,8 @@
 1700214774 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700214774 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700214774 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700288854 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700288854 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1700293071 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1700293071 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700214782 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700214782 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700214782 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
