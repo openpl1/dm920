@@ -42,10 +42,10 @@
 1700219824 enigma2-plugin-extensions-jediepgxtream-dev_2.09-20230805-1-g20be7db-r3_all.ipk
 1700219824 enigma2-plugin-extensions-jediepgxtream-src_2.09-20230805-1-g20be7db-r3_all.ipk
 1700219824 enigma2-plugin-extensions-jediepgxtream_2.09-20230805-1-g20be7db-r3_all.ipk
-1700219824 enigma2-plugin-extensions-jedimakerxtream-dbg_6.34-20230916-r3_all.ipk
-1700219824 enigma2-plugin-extensions-jedimakerxtream-dev_6.34-20230916-r3_all.ipk
-1700219824 enigma2-plugin-extensions-jedimakerxtream-src_6.34-20230916-r3_all.ipk
-1700219824 enigma2-plugin-extensions-jedimakerxtream_6.34-20230916-r3_all.ipk
+1700351717 enigma2-plugin-extensions-jedimakerxtream-dbg_6.35-20231118-r3_all.ipk
+1700351717 enigma2-plugin-extensions-jedimakerxtream-dev_6.35-20231118-r3_all.ipk
+1700351717 enigma2-plugin-extensions-jedimakerxtream-src_6.35-20231118-r3_all.ipk
+1700351717 enigma2-plugin-extensions-jedimakerxtream_6.35-20231118-r3_all.ipk
 1700219825 enigma2-plugin-extensions-xstreamity-dbg_4.18-20231114-r0_all.ipk
 1700219825 enigma2-plugin-extensions-xstreamity-dev_4.18-20231114-r0_all.ipk
 1700219825 enigma2-plugin-extensions-xstreamity-src_4.18-20231114-r0_all.ipk
@@ -195,6 +195,9 @@
 1700219825 enigma2-plugin-skins-mx-hq7-pli-dbg_1.0+git14+cd587640+cd58764488-r0_all.ipk
 1700219825 enigma2-plugin-skins-mx-hq7-pli-dev_1.0+git14+cd587640+cd58764488-r0_all.ipk
 1700219825 enigma2-plugin-skins-mx-hq7-pli_1.0+git14+cd587640+cd58764488-r0_all.ipk
+1700351717 enigma2-plugin-skins-ozeta-fhd-dbg_1.0+git4+1ce7dbf0+1ce7dbf5a9-r0_all.ipk
+1700351717 enigma2-plugin-skins-ozeta-fhd-dev_1.0+git4+1ce7dbf0+1ce7dbf5a9-r0_all.ipk
+1700351717 enigma2-plugin-skins-ozeta-fhd_1.0+git4+1ce7dbf0+1ce7dbf5a9-r0_all.ipk
 1700219826 enigma2-plugin-skins-pd1loi-hd-night-dbg_2.6.1+git535+f8eb6a30+f8eb6a30cb-r0_all.ipk
 1700219826 enigma2-plugin-skins-pd1loi-hd-night-dev_2.6.1+git535+f8eb6a30+f8eb6a30cb-r0_all.ipk
 1700219826 enigma2-plugin-skins-pd1loi-hd-night_2.6.1+git535+f8eb6a30+f8eb6a30cb-r0_all.ipk
@@ -446,9 +449,9 @@
 1700306367 run-postinsts_1.0-r0_all.ipk
 1700306367 settings-autorestore_2021081701-r0_all.ipk
 1700219826 softcam-support_2-r0_all.ipk
-1700327609 streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
-1700327609 streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
-1700327609 streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
+1700351717 streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
+1700351717 streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
+1700351717 streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 1700306367 tuxbox-common-dbg_2+git555+60a712f0+60a712f855-3_all.ipk
 1700306367 tuxbox-common-dev_2+git555+60a712f0+60a712f855-3_all.ipk
 1700306367 tuxbox-common_2+git555+60a712f0+60a712f855-3_all.ipk

@@ -707,14 +707,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream-dbg
-Version: 6.34-20230916-r3
+Version: 6.35-20231118-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 33e705b154dfaa57ac6607b5ffc148e1
-SHA256sum: d6082eebf754f910c31eca0f32050d2e37d5d23c0e87150f576736b95616e926
-Size: 730
-Filename: enigma2-plugin-extensions-jedimakerxtream-dbg_6.34-20230916-r3_all.ipk
+MD5Sum: c195289333955f2f75c76e6f923bf59b
+SHA256sum: 7ec9fafe99572a517904cd4a54063e557d03fa6c5357de41e055eacf3301774b
+Size: 728
+Filename: enigma2-plugin-extensions-jedimakerxtream-dbg_6.35-20231118-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3 - Debugging files
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -723,15 +723,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream-dev
-Version: 6.34-20230916-r3
-Recommends: enigma2-plugin-extensions-jedimakerxtream (= 6.34-20230916-r3), python3-backports-lzma-dev
+Version: 6.35-20231118-r3
+Recommends: enigma2-plugin-extensions-jedimakerxtream (= 6.35-20231118-r3), python3-backports-lzma-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 94dab15c3a994fc50f0cd7a3d33eed1d
-SHA256sum: f49f64f9fa6657e57e01c6f9e67f96c525a595702e9c0b4b94486ddf20753ea5
-Size: 788
-Filename: enigma2-plugin-extensions-jedimakerxtream-dev_6.34-20230916-r3_all.ipk
+MD5Sum: ae250b298a403ff5a85bc0e1ee392be8
+SHA256sum: 604bd2e364237a236932318ddc9f8632505f8eb64121c99e2aad0470a349ddb6
+Size: 786
+Filename: enigma2-plugin-extensions-jedimakerxtream-dev_6.35-20231118-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3 - Development files
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -740,14 +740,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream-src
-Version: 6.34-20230916-r3
+Version: 6.35-20231118-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 532ae8084790b75e683049f54d95c276
-SHA256sum: 597bdcf36f36a85bf99a05c2f7c1be9517744a7577b67b7d44d34a1f8006d04c
-Size: 30440
-Filename: enigma2-plugin-extensions-jedimakerxtream-src_6.34-20230916-r3_all.ipk
+MD5Sum: 4186fc57b91320ae580e7aeeccd74009
+SHA256sum: fc23ee239bb572f00edc9feeb67a4f852bb1d39ecbdf89f2ecf44f320bc3cf8b
+Size: 30422
+Filename: enigma2-plugin-extensions-jedimakerxtream-src_6.35-20231118-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3 - Source files
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -756,14 +756,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream
-Version: 6.34-20230916-r3
+Version: 6.35-20231118-r3
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 2e6c321075fbdb969ec7521d7f0d156d
-SHA256sum: ce36687ed2704d7501f12be983038397de2efe2cd8c96fcccd05c622c059b4e2
-Size: 2826264
-Filename: enigma2-plugin-extensions-jedimakerxtream_6.34-20230916-r3_all.ipk
+MD5Sum: 93c264ec637b710389929a242450d81e
+SHA256sum: 9185b10f3ee0d6e926fc263f430d3c63fabba1dbdd9e0bbb0485396b7aae6789
+Size: 2828502
+Filename: enigma2-plugin-extensions-jedimakerxtream_6.35-20231118-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -3093,6 +3093,52 @@ Filename: enigma2-plugin-skins-mx-hq7-pli_1.0+git14+cd587640+cd58764488-r0_all.i
 Source: enigma2-plugin-skins-mx-hq7-pli.bb
 Description: enigma2-plugin-skins-mx-hq7-pli version 1.0+git-r0
 OE: enigma2-plugin-skins-mx-hq7-pli
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-ozeta-fhd-dbg
+Version: 1.0+git4+1ce7dbf0+1ce7dbf5a9-r0
+Section: devel
+Architecture: all
+Maintainer: MMark, all
+MD5Sum: 4c29ee02f568a0764b730102d3e78f6f
+SHA256sum: fb11a72e356a8e26237bdd0ab88e34794116b5ba7de9d3005ce00eefec6ee20b
+Size: 686
+Filename: enigma2-plugin-skins-ozeta-fhd-dbg_1.0+git4+1ce7dbf0+1ce7dbf5a9-r0_all.ipk
+Source: enigma2-plugin-skins-ozeta-fhd.bb
+Description: enigma2-plugin-skins-ozeta-fhd version 1.0+git-r0 - Debugging files
+OE: enigma2-plugin-skins-ozeta-fhd
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-ozeta-fhd-dev
+Version: 1.0+git4+1ce7dbf0+1ce7dbf5a9-r0
+Recommends: enigma2-plugin-skins-ozeta-fhd (= 1.0+git4+1ce7dbf0+1ce7dbf5a9-r0)
+Section: devel
+Architecture: all
+Maintainer: MMark, all
+MD5Sum: 30fa0174fa121585cdbd70350733e765
+SHA256sum: 71cabdc22458a66212dfc343f65dc52844dda96d215e340df10a1debadfd1bb0
+Size: 720
+Filename: enigma2-plugin-skins-ozeta-fhd-dev_1.0+git4+1ce7dbf0+1ce7dbf5a9-r0_all.ipk
+Source: enigma2-plugin-skins-ozeta-fhd.bb
+Description: enigma2-plugin-skins-ozeta-fhd version 1.0+git-r0 - Development files
+OE: enigma2-plugin-skins-ozeta-fhd
+License: GPL-3.0-only
+Priority: optional
+
+Package: enigma2-plugin-skins-ozeta-fhd
+Version: 1.0+git4+1ce7dbf0+1ce7dbf5a9-r0
+Section: base
+Architecture: all
+Maintainer: MMark, all
+MD5Sum: 473b26f6b621bef4c908fdfc18f847f6
+SHA256sum: e4659e73d61663b81031bf1ceba1fd8e4018f805b6cca107f415a6350f7e0868
+Size: 2057354
+Filename: enigma2-plugin-skins-ozeta-fhd_1.0+git4+1ce7dbf0+1ce7dbf5a9-r0_all.ipk
+Source: enigma2-plugin-skins-ozeta-fhd.bb
+Description: enigma2-plugin-skins-ozeta-fhd version 1.0+git-r0
+OE: enigma2-plugin-skins-ozeta-fhd
 License: GPL-3.0-only
 Priority: optional
 
