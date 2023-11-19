@@ -735,10 +735,10 @@
 1700219820 enigma2-plugin-extensions-nfsserver-dbg_2.0+git6+e7880e30+e7880e3fd7-r1_cortexa15hf-neon-vfpv4.ipk
 1700219820 enigma2-plugin-extensions-nfsserver-dev_2.0+git6+e7880e30+e7880e3fd7-r1_cortexa15hf-neon-vfpv4.ipk
 1700219820 enigma2-plugin-extensions-nfsserver_2.0+git6+e7880e30+e7880e3fd7-r1_cortexa15hf-neon-vfpv4.ipk
-1700219824 enigma2-plugin-extensions-oaweather-dbg_0.0-48-g9f934e4-r0_cortexa15hf-neon-vfpv4.ipk
-1700219824 enigma2-plugin-extensions-oaweather-dev_0.0-48-g9f934e4-r0_cortexa15hf-neon-vfpv4.ipk
-1700219824 enigma2-plugin-extensions-oaweather-src_0.0-48-g9f934e4-r0_cortexa15hf-neon-vfpv4.ipk
-1700219824 enigma2-plugin-extensions-oaweather_0.0-48-g9f934e4-r0_cortexa15hf-neon-vfpv4.ipk
+1700372972 enigma2-plugin-extensions-oaweather-dbg_0.0-51-g91d04e2-r0_cortexa15hf-neon-vfpv4.ipk
+1700372972 enigma2-plugin-extensions-oaweather-dev_0.0-51-g91d04e2-r0_cortexa15hf-neon-vfpv4.ipk
+1700372972 enigma2-plugin-extensions-oaweather-src_0.0-51-g91d04e2-r0_cortexa15hf-neon-vfpv4.ipk
+1700372972 enigma2-plugin-extensions-oaweather_0.0-51-g91d04e2-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 enigma2-plugin-extensions-ofdb_2.0-git5693+3229b110+3229b11946-r0_cortexa15hf-neon-vfpv4.ipk
 1700219820 enigma2-plugin-extensions-oggisport-dbg_1.0+git10+2c8b03b0+2c8b03bf25-r1_cortexa15hf-neon-vfpv4.ipk
 1700219820 enigma2-plugin-extensions-oggisport-dev_1.0+git10+2c8b03b0+2c8b03bf25-r1_cortexa15hf-neon-vfpv4.ipk
@@ -5671,8 +5671,6 @@
 1700306367 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700351718 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700351718 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7538,7 +7536,7 @@
 1700219828 strace-dev_6.6-r0_cortexa15hf-neon-vfpv4.ipk
 1700219828 strace-doc_6.6-r0_cortexa15hf-neon-vfpv4.ipk
 1700219828 strace_6.6-r0_cortexa15hf-neon-vfpv4.ipk
-1700351717 streamlink_${GITPKGVTAG}-r0_cortexa15hf-neon-vfpv4.ipk
+1700372642 streamlink_6.3.1-26-g7874c7e2_0.0-16-gf38336a-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 streamripper-dbg_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1700306367 streamripper-dev_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
 1700306367 streamripper-doc_1.64.6-r1_cortexa15hf-neon-vfpv4.ipk
@@ -7975,3 +7973,5 @@
 1700306367 zstd-doc_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 zstd-staticdev_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1700306367 zstd_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
+1700373018 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1700373018 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk

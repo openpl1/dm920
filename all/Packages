@@ -2835,13 +2835,12 @@ Priority: optional
 
 Package: enigma2-plugin-skins-cinogriplifhd
 Version: 2.0+git7+2a55e9e0+2a55e9e5a8-r0
-Recommends: enigma2-plugin-extensions-oaweather
 Section: base
 Architecture: all
 Maintainer: Cino, all
-MD5Sum: 262e00c284585f94110f12c100156b38
-SHA256sum: 45fca8d9b2af3d721ecf59081610213ed9bf3600c9cc8a0f4dd04521cb3cb125
-Size: 1053498
+MD5Sum: 51c9ca5fbb024ce772f8786d94c2214e
+SHA256sum: 0e16edc410b606f383094eb34206fd88921a70249c6aca5fb94d60484951fc81
+Size: 1053474
 Filename: enigma2-plugin-skins-cinogriplifhd_2.0+git7+2a55e9e0+2a55e9e5a8-r0_all.ipk
 Source: enigma2-plugin-skins-cinogriplifhd.bb
 Description: enigma2-plugin-skins-cinogriplifhd version 2.0+git-r0
@@ -2990,13 +2989,12 @@ Priority: optional
 
 Package: enigma2-plugin-skins-multibox-fhd
 Version: 1.0+git16+2218b430+2218b43081-r0
-Recommends: enigma2-plugin-extensions-oaweather
 Section: base
 Architecture: all
 Maintainer: stein17, all
-MD5Sum: b71421269e4ebbacde561ec296949ed2
-SHA256sum: 57b0d8d3fb1631ce14889f8ccc65c6bde0eca4fa0e54d87618b18e8f518f25f4
-Size: 2888022
+MD5Sum: e432e599f413c19c3bb22818bed910d3
+SHA256sum: f0490a35dd081d7a5c20a274211c81ba5623445f2bb5c06ea950b56b79494bcf
+Size: 2887996
 Filename: enigma2-plugin-skins-multibox-fhd_1.0+git16+2218b430+2218b43081-r0_all.ipk
 Source: enigma2-plugin-skins-multibox-fhd.bb
 Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0
