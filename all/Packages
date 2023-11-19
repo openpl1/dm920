@@ -2849,14 +2849,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos-dbg
-Version: 1.0+git113+39f61ca0+39f61ca27e-r0
+Version: 1.0+git115+615d6840+615d684989-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: fbc6912facdaa9f5009b23264aa67036
-SHA256sum: ebc7fcd6760da3115c2dff2f415403a2ea72242250e57266d69b6861033b14da
-Size: 692
-Filename: enigma2-plugin-skins-e2darkos-dbg_1.0+git113+39f61ca0+39f61ca27e-r0_all.ipk
+MD5Sum: 4b8de7329f025d2c999d419452d1bdb3
+SHA256sum: 974073f1a7d11e68ba5f6a4ceecc03a36e90941c7b3a77c42c51cd3eaf9c5ba2
+Size: 694
+Filename: enigma2-plugin-skins-e2darkos-dbg_1.0+git115+615d6840+615d684989-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-e2darkos
@@ -2864,15 +2864,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos-dev
-Version: 1.0+git113+39f61ca0+39f61ca27e-r0
-Recommends: enigma2-plugin-skins-e2darkos (= 1.0+git113+39f61ca0+39f61ca27e-r0)
+Version: 1.0+git115+615d6840+615d684989-r0
+Recommends: enigma2-plugin-skins-e2darkos (= 1.0+git115+615d6840+615d684989-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: adb2eb64bc6135e7832c20da8df4fe2e
-SHA256sum: b3c0909e6e2f7061453864577608990721b6e2224446754b8b6da984b06c0bdb
-Size: 728
-Filename: enigma2-plugin-skins-e2darkos-dev_1.0+git113+39f61ca0+39f61ca27e-r0_all.ipk
+MD5Sum: 7692c2af5e6bc6a046eff2e439472a64
+SHA256sum: 6708fc7d08306505d9ab615e2c6b21a51c5e3bc801aea9401e7163eb02298418
+Size: 730
+Filename: enigma2-plugin-skins-e2darkos-dev_1.0+git115+615d6840+615d684989-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-e2darkos
@@ -2880,14 +2880,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos
-Version: 1.0+git113+39f61ca0+39f61ca27e-r0
+Version: 1.0+git115+615d6840+615d684989-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: ea07053ff59c24dd112631ede0313292
-SHA256sum: c197bdd811a1054c9aada0e950586bdf2d530d5bd43a656c6cb82f3072c29ef0
-Size: 2827508
-Filename: enigma2-plugin-skins-e2darkos_1.0+git113+39f61ca0+39f61ca27e-r0_all.ipk
+MD5Sum: 2a15cc4b5d4c08424d557b78fbd0c576
+SHA256sum: cf58e5582bb532fe97f0feea0c9277147012e32d43b4a64e11b5ec2b9db89740
+Size: 2828916
+Filename: enigma2-plugin-skins-e2darkos_1.0+git115+615d6840+615d684989-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-e2darkos
@@ -3325,14 +3325,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray-dbg
-Version: 1.0+git275+d437c9e0+d437c9e29c-r0
+Version: 1.0+git277+506c0dd0+506c0ddb26-r0
 Section: devel
 Architecture: all
 Maintainer: Taapat
-MD5Sum: e86e2138dcc07d138f33c772101a2e31
-SHA256sum: 97135317ef2a4239d8bca901c1045a3f3c7b56d8b5e0edfb464b9aefed8123b7
-Size: 696
-Filename: enigma2-plugin-skins-simple-gray-dbg_1.0+git275+d437c9e0+d437c9e29c-r0_all.ipk
+MD5Sum: c067148b8314b1a7ad6b1f99fec5b5c2
+SHA256sum: 6a47f3acc0f547ab12502802ceeb99dab14a723b18b775caa17137241fde1ceb
+Size: 694
+Filename: enigma2-plugin-skins-simple-gray-dbg_1.0+git277+506c0dd0+506c0ddb26-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-simple-gray
@@ -3340,15 +3340,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray-dev
-Version: 1.0+git275+d437c9e0+d437c9e29c-r0
-Recommends: enigma2-plugin-skins-simple-gray (= 1.0+git275+d437c9e0+d437c9e29c-r0)
+Version: 1.0+git277+506c0dd0+506c0ddb26-r0
+Recommends: enigma2-plugin-skins-simple-gray (= 1.0+git277+506c0dd0+506c0ddb26-r0)
 Section: devel
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 81d94bebd083a005c8f7fbc69aac38fb
-SHA256sum: b0ff9698b83eabd9dd99c15ac6cb8adc1f48a06159a5a4dd65b43c3081289225
-Size: 732
-Filename: enigma2-plugin-skins-simple-gray-dev_1.0+git275+d437c9e0+d437c9e29c-r0_all.ipk
+MD5Sum: f54e03cc4b4fb2d11510789f0b702d43
+SHA256sum: fec0cd3ecca7999a0a322ddaa0e5e44d2f76fa0bf2440bfa3eb516b4d847437f
+Size: 730
+Filename: enigma2-plugin-skins-simple-gray-dev_1.0+git277+506c0dd0+506c0ddb26-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-simple-gray
@@ -3356,14 +3356,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray
-Version: 1.0+git275+d437c9e0+d437c9e29c-r0
+Version: 1.0+git277+506c0dd0+506c0ddb26-r0
 Section: base
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 829ec03b33dab2f0302d3ece7a050191
-SHA256sum: 39fa11c8e7cca8715e2ba8b3303ec0fe5fa833d81f1078c2905390cafe97b411
-Size: 321848
-Filename: enigma2-plugin-skins-simple-gray_1.0+git275+d437c9e0+d437c9e29c-r0_all.ipk
+MD5Sum: d12aa1109c4b6314a1dcbe092fd88300
+SHA256sum: 46d325f3891d490aa7e26d22367f6fd8655b236b1a997ce60cf2610a4f1608a2
+Size: 323338
+Filename: enigma2-plugin-skins-simple-gray_1.0+git277+506c0dd0+506c0ddb26-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0
 OE: enigma2-plugin-skins-simple-gray
