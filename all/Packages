@@ -7307,55 +7307,6 @@ OE: packagegroup-openplugins
 License: GPL-2.0-or-later
 Priority: optional
 
-Package: poppler-data-dbg
-Version: 0.4.12-r0
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 684ed8e8031848076fe1a720aa06c503
-SHA256sum: eb5a25e3d3caefc2c3ed1ebb3c98aa501bd52d8564ca24ed45a49d4c31c2460f
-Size: 766
-Filename: poppler-data-dbg_0.4.12-r0_all.ipk
-Source: poppler-data_0.4.12.bb
-Description: Encoding files for Poppler - Debugging files
-OE: poppler-data
-HomePage: https://poppler.freedesktop.org/
-License: BSD-3-Clause & GPL-2.0-only & GPL-3.0-or-later
-Priority: optional
-
-Package: poppler-data-dev
-Version: 0.4.12-r0
-Recommends: poppler-data (= 0.4.12-r0)
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2ec54dcdd6ff95bdc9a78b0535a4b4fb
-SHA256sum: 029b3e94dd5e1510ef35908a7a105ed71b7e48a0df9ea5c6cd73295283d14742
-Size: 1028
-Filename: poppler-data-dev_0.4.12-r0_all.ipk
-Source: poppler-data_0.4.12.bb
-Description: Encoding files for Poppler - Development files
-OE: poppler-data
-HomePage: https://poppler.freedesktop.org/
-License: BSD-3-Clause & GPL-2.0-only & GPL-3.0-or-later
-Priority: optional
-
-Package: poppler-data
-Version: 0.4.12-r0
-Section: base
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ffb8cd97389101f52c831394fedaf162
-SHA256sum: 02057bf2e6aab686532b2e00246c17733e664b9af4f945ff8e155e8018b8f7b5
-Size: 1585536
-Filename: poppler-data_0.4.12-r0_all.ipk
-Source: poppler-data_0.4.12.bb
-Description: Encoding files for Poppler
-OE: poppler-data
-HomePage: https://poppler.freedesktop.org/
-License: BSD-3-Clause & GPL-2.0-only & GPL-3.0-or-later
-Priority: optional
-
 Package: run-postinsts-dbg
 Version: 1.0-r0
 Section: devel
@@ -7439,9 +7390,9 @@ Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 5a43b369545d6ce34d33712f6d9eff07
-SHA256sum: 15974591f5543a2c87b35517a01e7fa7cef46dd90b903590039c50f28488c35b
-Size: 702
+MD5Sum: 04090a47ae5e5e3b922b9fe7ab91b29f
+SHA256sum: 07841ec338dc7716f59d6a9ed44e84acdf23bd609d41c75693f1138876418463
+Size: 698
 Filename: streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Debugging files
@@ -7456,8 +7407,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git25+e0f24
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 70eb119965e816465ef1f47d90dcb81c
-SHA256sum: 5469240d3ca67dfd3e5fa61f3db6a37c5cb48ffbae255f4eddcda4409a3b4fb5
+MD5Sum: 9910cf98824feb8def56946979c39c35
+SHA256sum: 015def765ca546c598059c5bc99a9a4267c582baf0816eed5405a6cf5eca2db1
 Size: 752
 Filename: streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
@@ -7473,9 +7424,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: e3c1d25fc60cc15de76aeca7af27a108
-SHA256sum: 5182f56093f6fbaf46c0148f6e9489e3f20b6dceee118ac7dbf1e59f9bc21508
-Size: 83020
+MD5Sum: 88e6fc5327a8c64a9bcf0bea52621b94
+SHA256sum: d264b7a7a6b322094611a876090f0c7159ad688fe7d8188e5c88f06d7cb76440
+Size: 83014
 Filename: streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0

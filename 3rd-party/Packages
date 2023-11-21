@@ -672,23 +672,3 @@ HomePage: https://github.com/besser82/libxcrypt
 License: LGPL-2.1-only
 Priority: optional
 
-Package: mpd
-Version: 0.23.14+git18070+97da29c0+97da29cc90-r0
-Depends: base-files, base-passwd, faad2 (>= 2.10.0+git0+df42c6fc01), libao4 (>= 1.2.2+git461+cafce900+cafce902a7), libasound2 (>= 1.2.10), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec60 (>= 6.0), libavfilter9 (>= 6.0), libavformat60 (>= 6.0), libavutil58 (>= 6.0), libbz2-1 (>= 1.0.8), libc6 (>= 2.38+git0+750a45a783), libcdio19 (>= 2.1.0), libcurl4 (>= 8.4.0), libdbus-1-3 (>= 1.14.10), libexpat1 (>= 2.5.0), libflac12 (>= 1.4.3), libfluidsynth3 (>= 2.3.4), libfmt10 (>= 10.1.1), libgcc1 (>= 13.2.0), libicui18n73 (>= 73-2), libicuuc73 (>= 73-2), libiso9660-11 (>= 2.1.0), libjack (>= 1.9.22), libmms0 (>= 0.6.4), libmodplug1 (>= 0.8.9.0), libogg0 (>= 1.3.5), libopus0 (>= 1.4), libpcre2 (>= 10.42), libpulse0 (>= 16.1), libsamplerate0 (>= 0.2.2), libsndfile1 (>= 1.2.2), libsqlite3-0 (>= 3.43.2), libstdc++6 (>= 13.2.0), libupnp (>= 1.14.18), libvorbis (>= 1.3.7), libwavpack1 (>= 5.6.0), libyajl2 (>= 2.1.0), libz1 (>= 1.3), mpg123 (>= 1.31.3), openal-soft (>= 1.23.1), shadow
-Provides: mpd-systemd
-Replaces: mpd-systemd
-Conflicts: mpd-systemd
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a7393d2efdf9dd7bd75d9688df597076
-SHA256sum: b0ba3261fe1aa11fc33002eec33955dfa7034a16cac64b3e68f773032c969d6c
-Size: 378750
-Filename: mpd_0.23.14+git18070+97da29c0+97da29cc90-r0_cortexa15hf-neon-vfpv4.ipk
-Source: mpd_0.23.14.bb
-Description: Music Player Daemon
-OE: mpd
-HomePage: http://www.musicpd.org
-License: GPL-2.0-only
-Priority: optional
-
