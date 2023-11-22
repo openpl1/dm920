@@ -512,13 +512,13 @@ Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-dev
 Version: 1.08-20231117-r3
-Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.08-20231117-r3)
+Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.08-20231117-r3), python3-pillow-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 673c9b8cccd66a1a39d26889e55ab064
-SHA256sum: b9aaea362847345798714fce716448f3465e5815b22714ef4933603ddeb0dba0
-Size: 746
+MD5Sum: 8b90c48350bcbebe56786d9397e9fed9
+SHA256sum: 570254a8e502af37f036d9fda6a38f05b0794b4b8c2c6c673220924f50ecce78
+Size: 770
 Filename: enigma2-plugin-extensions-bouquetmakerxtream-dev_1.08-20231117-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Development files
@@ -527,30 +527,15 @@ HomePage: https://github.com/kiddac/Bouquet_Maker_Xtream
 License: GPL-2.0-or-later
 Priority: optional
 
-Package: enigma2-plugin-extensions-bouquetmakerxtream-src
-Version: 1.08-20231117-r3
-Section: devel
-Architecture: all
-Maintainer: kiddac
-MD5Sum: 6d84ee49abf9583858f48cd21661e74a
-SHA256sum: 9d9c8cfa2a9314678a095bda742cb2915ad36d082a059608e761a4b3d552a5ad
-Size: 36586
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-src_1.08-20231117-r3_all.ipk
-Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
-Description: IPTV bouquet maker - Source files
-OE: enigma2-plugin-extensions-bouquetmakerxtream
-HomePage: https://github.com/kiddac/Bouquet_Maker_Xtream
-License: GPL-2.0-or-later
-Priority: optional
-
 Package: enigma2-plugin-extensions-bouquetmakerxtream
 Version: 1.08-20231117-r3
+Depends: python3-pillow, python3-requests
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 30766219eea1a74990b7b1f76886d1b6
-SHA256sum: 89d24a209f789a486c40d483f44a31775d6fd4d2df1c8b5f8c9316f139ae7465
-Size: 1227836
+MD5Sum: 0ff8592f6cb0326903b053e6980a6a5a
+SHA256sum: ca958712b2c8a0350e5d55a59e15b468013b8c4e29f72fd53a4436d5977d10cb
+Size: 1153982
 Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.08-20231117-r3_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker
@@ -3325,14 +3310,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray-dbg
-Version: 1.0+git279+533e3690+533e369612-r0
+Version: 1.0+git280+da580e10+da580e1ba4-r0
 Section: devel
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 8c4de9144fca039f3136ae2644dfc2fe
-SHA256sum: 3408a077ecc4e256344186d442e93fd46dbbcd260bb1a7545749cd67bb5d7c64
+MD5Sum: 4b37fee461549943a08fcd2c37efea76
+SHA256sum: cdd32cbb7481f21f7c7d594a187adc35894ba246245376208d9cb434d15e008a
 Size: 694
-Filename: enigma2-plugin-skins-simple-gray-dbg_1.0+git279+533e3690+533e369612-r0_all.ipk
+Filename: enigma2-plugin-skins-simple-gray-dbg_1.0+git280+da580e10+da580e1ba4-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-simple-gray
@@ -3340,15 +3325,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray-dev
-Version: 1.0+git279+533e3690+533e369612-r0
-Recommends: enigma2-plugin-skins-simple-gray (= 1.0+git279+533e3690+533e369612-r0)
+Version: 1.0+git280+da580e10+da580e1ba4-r0
+Recommends: enigma2-plugin-skins-simple-gray (= 1.0+git280+da580e10+da580e1ba4-r0)
 Section: devel
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 11093a8f387256b53658f6b8e04c1ec8
-SHA256sum: 389963303ab3ff56a692fa398778f0966ddf30348bbbdcfff6c70614b6a1d214
-Size: 732
-Filename: enigma2-plugin-skins-simple-gray-dev_1.0+git279+533e3690+533e369612-r0_all.ipk
+MD5Sum: 78378021c9b87fe2388160836227e327
+SHA256sum: 8dd80bd231099796618dc918ea08b546f863cccb3d8e142785c745ce12baf6a8
+Size: 728
+Filename: enigma2-plugin-skins-simple-gray-dev_1.0+git280+da580e10+da580e1ba4-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-simple-gray
@@ -3356,14 +3341,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-simple-gray
-Version: 1.0+git279+533e3690+533e369612-r0
+Version: 1.0+git280+da580e10+da580e1ba4-r0
 Section: base
 Architecture: all
 Maintainer: Taapat
-MD5Sum: 2739e4d3fa89b4811b39321b40eec9fa
-SHA256sum: aaea40f32ecf033011b0600eec3d1835e1f878c1a3d7fe5e8132877b94fbb923
-Size: 323960
-Filename: enigma2-plugin-skins-simple-gray_1.0+git279+533e3690+533e369612-r0_all.ipk
+MD5Sum: 023af644103b140ea3938eadacdbcaee
+SHA256sum: ec954d480ec05131d6be36fbe6f76644e8f81db639be89812a694e8da2310dd1
+Size: 323862
+Filename: enigma2-plugin-skins-simple-gray_1.0+git280+da580e10+da580e1ba4-r0_all.ipk
 Source: enigma2-plugin-skins-simple-gray.bb
 Description: enigma2-plugin-skins-simple-gray version 1.0+git-r0
 OE: enigma2-plugin-skins-simple-gray
@@ -7390,9 +7375,9 @@ Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 04090a47ae5e5e3b922b9fe7ab91b29f
-SHA256sum: 07841ec338dc7716f59d6a9ed44e84acdf23bd609d41c75693f1138876418463
-Size: 698
+MD5Sum: 5a43b369545d6ce34d33712f6d9eff07
+SHA256sum: 15974591f5543a2c87b35517a01e7fa7cef46dd90b903590039c50f28488c35b
+Size: 702
 Filename: streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Debugging files
@@ -7407,8 +7392,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git25+e0f24
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 9910cf98824feb8def56946979c39c35
-SHA256sum: 015def765ca546c598059c5bc99a9a4267c582baf0816eed5405a6cf5eca2db1
+MD5Sum: 70eb119965e816465ef1f47d90dcb81c
+SHA256sum: 5469240d3ca67dfd3e5fa61f3db6a37c5cb48ffbae255f4eddcda4409a3b4fb5
 Size: 752
 Filename: streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
@@ -7424,9 +7409,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 88e6fc5327a8c64a9bcf0bea52621b94
-SHA256sum: d264b7a7a6b322094611a876090f0c7159ad688fe7d8188e5c88f06d7cb76440
-Size: 83014
+MD5Sum: e3c1d25fc60cc15de76aeca7af27a108
+SHA256sum: 5182f56093f6fbaf46c0148f6e9489e3f20b6dceee118ac7dbf1e59f9bc21508
+Size: 83020
 Filename: streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
