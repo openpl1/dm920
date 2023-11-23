@@ -1076,7 +1076,6 @@
 1700695625 gawk-locale-vi_5.2.2-r0_cortexa15hf-neon-vfpv4.ipk
 1700695625 gawk-locale-zh-cn_5.2.2-r0_cortexa15hf-neon-vfpv4.ipk
 1700695625 gawk_5.2.2-r0_cortexa15hf-neon-vfpv4.ipk
-1700695622 gcc-dbg_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700695622 gcc-dev_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700695622 gcc-doc_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700695622 gcc-locale-be_13.2.0-r0_cortexa15hf-neon-vfpv4.ipk
@@ -5671,8 +5670,8 @@
 1700695599 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700695599 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700695599 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700696319 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1700696319 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1700698957 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1700698957 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1700695620 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700695620 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1700695620 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
