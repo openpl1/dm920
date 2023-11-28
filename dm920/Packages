@@ -263,6 +263,36 @@ OE: enigma2
 License: GPL-2.0-only
 Priority: optional
 
+Package: enigma2-display-skins-meta
+Version: git290+d3288f00+d3288f010f-r0
+Section: base
+Architecture: dm920
+Maintainer: oe-aliance
+MD5Sum: 537a2eadd0f500ae7192e3324c742858
+SHA256sum: d590de5691177fb25ce3a986f2736b49cd1e7e34e61f77c329a97adf062edb33
+Size: 1232
+Filename: enigma2-display-skins-meta_git290+d3288f00+d3288f010f-r0_dm920.ipk
+Source: enigma2-display-skins.bb
+Description: Display Skins for Enigma2
+OE: enigma2-display-skins
+License: Proprietary
+Priority: optional
+
+Package: enigma2-display-skins
+Version: git290+d3288f00+d3288f010f-r0
+Section: base
+Architecture: dm920
+Maintainer: oe-aliance
+MD5Sum: 21ccee03bf8f7fb46f6fd8db787a7246
+SHA256sum: 1852fc4f436ff4f6553f220cbf3296cebcacd958516708b1b579b81d274ad8f2
+Size: 592
+Filename: enigma2-display-skins_git290+d3288f00+d3288f010f-r0_dm920.ipk
+Source: enigma2-display-skins.bb
+Description: Display Skins for Enigma2
+OE: enigma2-display-skins
+License: Proprietary
+Priority: optional
+
 Package: enigma2-fonts
 Version: 2020.10.18-r0
 Section: base
