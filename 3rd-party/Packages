@@ -235,7 +235,7 @@ Version: 1.9
 Section: misc
 Priority: optional
 Architecture: all
-Maintainer: *
+Maintainer: 
 Description: Filmon from Albatros
 Source: 
 Homepage: 
@@ -268,10 +268,26 @@ Description: freearhey free link stream (no pay)
 Source: 
 Homepage: http://www.corvoboys.org
 OE: 2.0
-License: *
+License: 
 Filename: enigma2-plugin-extensions-freearhey_2.8_all.ipk
 Size: 724790
 MD5Sum: 495f7aaf111e7ae63b07e69a3c329664
+
+Package: enigma2-plugin-extensions-freeserver
+Version: 8.3.8
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: mino60
+Description: Free Server Online Generator Ncam OScam adddon
+Source: 
+Homepage: www.tunisia-sat.com
+OE: enigma2
+License: none
+Filename: enigma2-plugin-extensions-freeserver_8.3.8_all.ipk
+Size: 2562324
+MD5Sum: 64b6336ac6e93b0b793671c87a06c6d2
+SHA256sum: 39e6dd1c11bae4cea26078f455475b638a76b841f11d7136e470d9c52abb4351
 
 Package: enigma2-plugin-extensions-hdfradio
 Version: 2.5.0+git252+2d3e919-r2
@@ -302,6 +318,23 @@ Source: enigma2-plugin-extensions-internetspeedtest.bb
 Description:  Internet speed test for enigma2
 OE: enigma2-plugin-extensions-internetspeedtest
 License: GPL-2.0-only
+Priority: optional
+
+Package: enigma2-plugin-extensions-ipaudiopro
+Version: 1.1
+Depends: alsa-plugins, libasound2 (>= 1.2.8), libavcodec60 (>= 6.0), libavformat60 (>= 6.0), libc6 (>= 2.37), libgcc1 (>= 12.2.0), libpython3.11-1.0 (>= 3.11.2), libstdc++6 (>= 12.2.0), python3-core, python3-cryptography
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: zKhadiri
+MD5Sum: 64b6336ac6e93b0b793671c87a06c6d2
+SHA256sum: 39e6dd1c11bae4cea26078f455475b638a76b841f11d7136e470d9c52abb4351
+Size: 743140
+Filename: enigma2-plugin-extensions-ipaudiopro_1.1.ipk
+Source: enigma2-plugin-extensions-ipaudiopro.bb
+Homepage: https://github.com/zKhadiri/IPAudio
+Description: ENIGMA2 IP Audio Plugin
+OE: enigma2-plugin-extensions-ipaudiopro
+License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-ipchecker
