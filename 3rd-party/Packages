@@ -286,8 +286,8 @@ OE: enigma2
 License: none
 Filename: enigma2-plugin-extensions-freeserver_8.3.8_all.ipk
 Size: 2562324
-MD5Sum: 64b6336ac6e93b0b793671c87a06c6d2
-SHA256sum: 39e6dd1c11bae4cea26078f455475b638a76b841f11d7136e470d9c52abb4351
+MD5Sum: 2b58d461b834881d2e0f5e160134494d
+SHA256sum: f82835072e649aae420c028d780fa07e171fb90e42a5a341840cdf5d45806687
 
 Package: enigma2-plugin-extensions-hdfradio
 Version: 2.5.0+git252+2d3e919-r2
