@@ -2788,14 +2788,14 @@ License: CLOSED
 Priority: optional
 
 Package: enigma2-plugin-skins-aeon-fhd-dbg
-Version: 3.4+git3+f41f27e0+f41f27edb4-r0
+Version: 3.4+git1+60f74db0+60f74db768-r0
 Section: devel
 Architecture: all
 Maintainer: Sharp987, All
-MD5Sum: 138ad29b9a1027af5b43c9891d8ebad1
-SHA256sum: d586958d77658634c5aca37b971ffb56f684545d1029885d723764e101fa7607
-Size: 696
-Filename: enigma2-plugin-skins-aeon-fhd-dbg_3.4+git3+f41f27e0+f41f27edb4-r0_all.ipk
+MD5Sum: 74f92a7b952c498b8cad78259b6c11a4
+SHA256sum: 37f7852e1f26fd9d7fa945f8c0a28872f5b7edd73c69c8f08d7f82b044a02404
+Size: 692
+Filename: enigma2-plugin-skins-aeon-fhd-dbg_3.4+git1+60f74db0+60f74db768-r0_all.ipk
 Source: enigma2-plugin-skins-aeon-fhd.bb
 Description: enigma2-plugin-skins-aeon-fhd version 3.4+git-r0 - Debugging files
 OE: enigma2-plugin-skins-aeon-fhd
@@ -2803,15 +2803,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-aeon-fhd-dev
-Version: 3.4+git3+f41f27e0+f41f27edb4-r0
-Recommends: enigma2-plugin-skins-aeon-fhd (= 3.4+git3+f41f27e0+f41f27edb4-r0)
+Version: 3.4+git1+60f74db0+60f74db768-r0
+Recommends: enigma2-plugin-skins-aeon-fhd (= 3.4+git1+60f74db0+60f74db768-r0)
 Section: devel
 Architecture: all
 Maintainer: Sharp987, All
-MD5Sum: 713fe2c6361f38eba47ad01bfa5dc743
-SHA256sum: ebd27d0dd3395ceb5802b68871bfe5c2c4a4b32e6bb2b82367738b098b03f01e
-Size: 732
-Filename: enigma2-plugin-skins-aeon-fhd-dev_3.4+git3+f41f27e0+f41f27edb4-r0_all.ipk
+MD5Sum: dc72a0294c97c3cb1392ef15826c26c9
+SHA256sum: 3cdd137424d79b8c8f67be4ca15af73ff109fee321358ba1bbff51182ac88a01
+Size: 730
+Filename: enigma2-plugin-skins-aeon-fhd-dev_3.4+git1+60f74db0+60f74db768-r0_all.ipk
 Source: enigma2-plugin-skins-aeon-fhd.bb
 Description: enigma2-plugin-skins-aeon-fhd version 3.4+git-r0 - Development files
 OE: enigma2-plugin-skins-aeon-fhd
@@ -2819,14 +2819,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-aeon-fhd
-Version: 3.4+git3+f41f27e0+f41f27edb4-r0
+Version: 3.4+git1+60f74db0+60f74db768-r0
 Section: base
 Architecture: all
 Maintainer: Sharp987, All
-MD5Sum: 29cfea26ccb0f7eec27c27a0655790a9
-SHA256sum: 78644e0f90e6b3583fa5df2a79b8831ad92065702c0ca79afa59969a02a3be12
-Size: 9138956
-Filename: enigma2-plugin-skins-aeon-fhd_3.4+git3+f41f27e0+f41f27edb4-r0_all.ipk
+MD5Sum: 777db265c152659228958747f55669ab
+SHA256sum: 62b11fa0cddf6e6b4c72d70c3bd6f87a5da93d479f876f57d51c7db235465e1d
+Size: 9138912
+Filename: enigma2-plugin-skins-aeon-fhd_3.4+git1+60f74db0+60f74db768-r0_all.ipk
 Source: enigma2-plugin-skins-aeon-fhd.bb
 Description: enigma2-plugin-skins-aeon-fhd version 3.4+git-r0
 OE: enigma2-plugin-skins-aeon-fhd
@@ -2834,14 +2834,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-cinogripli-fhd-dbg
-Version: 2.0+git13+227d9910+227d991260-r0
+Version: 2.0+git1+5ade7f50+5ade7f5f1d-r0
 Section: devel
 Architecture: all
 Maintainer: Cino, all
-MD5Sum: 5c4e6a750585912f1da6553ed742423a
-SHA256sum: 6fe918d5c3f024e4f3aa2a405cab07d52492d757a99cca3aea2d70fefebf15c3
-Size: 702
-Filename: enigma2-plugin-skins-cinogripli-fhd-dbg_2.0+git13+227d9910+227d991260-r0_all.ipk
+MD5Sum: 8f9d8e841771bfce42c2778fab273e7f
+SHA256sum: 8d6343695249f253612905fc1cf20cd272ff3bea0699ea5f2d8095c7072fe8b2
+Size: 700
+Filename: enigma2-plugin-skins-cinogripli-fhd-dbg_2.0+git1+5ade7f50+5ade7f5f1d-r0_all.ipk
 Source: enigma2-plugin-skins-cinogripli-fhd.bb
 Description: enigma2-plugin-skins-cinogripli-fhd version 2.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-cinogripli-fhd
@@ -2849,15 +2849,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-cinogripli-fhd-dev
-Version: 2.0+git13+227d9910+227d991260-r0
-Recommends: enigma2-plugin-skins-cinogripli-fhd (= 2.0+git13+227d9910+227d991260-r0)
+Version: 2.0+git1+5ade7f50+5ade7f5f1d-r0
+Recommends: enigma2-plugin-skins-cinogripli-fhd (= 2.0+git1+5ade7f50+5ade7f5f1d-r0)
 Section: devel
 Architecture: all
 Maintainer: Cino, all
-MD5Sum: a96d903c47d73f44f522e9ffbd1d9491
-SHA256sum: 08db268f304135ac0c4c389e5b93ff34e3b14e969c58fc83b1b79ed41d392364
-Size: 736
-Filename: enigma2-plugin-skins-cinogripli-fhd-dev_2.0+git13+227d9910+227d991260-r0_all.ipk
+MD5Sum: 8aaec88b52af98d1e3a36fb8eadb27e2
+SHA256sum: d7f699f2a29d5abfe0e472166047209dc1e60091f5df10ac852777e05e9ab383
+Size: 734
+Filename: enigma2-plugin-skins-cinogripli-fhd-dev_2.0+git1+5ade7f50+5ade7f5f1d-r0_all.ipk
 Source: enigma2-plugin-skins-cinogripli-fhd.bb
 Description: enigma2-plugin-skins-cinogripli-fhd version 2.0+git-r0 - Development files
 OE: enigma2-plugin-skins-cinogripli-fhd
@@ -2865,14 +2865,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-cinogripli-fhd
-Version: 2.0+git13+227d9910+227d991260-r0
+Version: 2.0+git1+5ade7f50+5ade7f5f1d-r0
 Section: base
 Architecture: all
 Maintainer: Cino, all
-MD5Sum: 6dc0034647a588971797c28afb5659e4
-SHA256sum: b81b78105b95d38ae32e7f0cae527d7f66c3a988740595a1f27d876868ee3af2
-Size: 1053358
-Filename: enigma2-plugin-skins-cinogripli-fhd_2.0+git13+227d9910+227d991260-r0_all.ipk
+MD5Sum: da5a4b9e32bba5f4a004dc97adf536d3
+SHA256sum: 59627b731e40b53ea97af69d14b685d25c9c63e9d1679ad43b90371f9c30a35b
+Size: 1052938
+Filename: enigma2-plugin-skins-cinogripli-fhd_2.0+git1+5ade7f50+5ade7f5f1d-r0_all.ipk
 Source: enigma2-plugin-skins-cinogripli-fhd.bb
 Description: enigma2-plugin-skins-cinogripli-fhd version 2.0+git-r0
 OE: enigma2-plugin-skins-cinogripli-fhd
@@ -2988,14 +2988,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-multibox-fhd-dbg
-Version: 1.0+git22+9f6d0420+9f6d0428d4-r0
+Version: 1.0+git1+ce51d230+ce51d23ef7-r0
 Section: devel
 Architecture: all
 Maintainer: stein17, all
-MD5Sum: dec498115682a532fd78acffa8161594
-SHA256sum: 679e770b980ac5e3de6205094cdaba2c53e605df6206289da381c4c85ce9fe33
-Size: 696
-Filename: enigma2-plugin-skins-multibox-fhd-dbg_1.0+git22+9f6d0420+9f6d0428d4-r0_all.ipk
+MD5Sum: f35afda2f47c3a18349fc57b7a3cfda3
+SHA256sum: ac03af0c3fc679aa75cfdfdde44b3cbf237e02fc594de4d7ce573408d7039fa7
+Size: 694
+Filename: enigma2-plugin-skins-multibox-fhd-dbg_1.0+git1+ce51d230+ce51d23ef7-r0_all.ipk
 Source: enigma2-plugin-skins-multibox-fhd.bb
 Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-multibox-fhd
@@ -3003,15 +3003,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-multibox-fhd-dev
-Version: 1.0+git22+9f6d0420+9f6d0428d4-r0
-Recommends: enigma2-plugin-skins-multibox-fhd (= 1.0+git22+9f6d0420+9f6d0428d4-r0)
+Version: 1.0+git1+ce51d230+ce51d23ef7-r0
+Recommends: enigma2-plugin-skins-multibox-fhd (= 1.0+git1+ce51d230+ce51d23ef7-r0)
 Section: devel
 Architecture: all
 Maintainer: stein17, all
-MD5Sum: e5a369b2ed9e1743cdab740dc31cd74b
-SHA256sum: 762f7b000ac1a7c0f1a21bc6a240140dc5ecb49668310fc39534bcb543bcd6d0
-Size: 730
-Filename: enigma2-plugin-skins-multibox-fhd-dev_1.0+git22+9f6d0420+9f6d0428d4-r0_all.ipk
+MD5Sum: ea8f441355d47eeb7ce1d493e8aa4a67
+SHA256sum: 27bf3eb150b70343db64e275deb24fe926eeb734bf86f8c3c2dc2b46cfe3b360
+Size: 728
+Filename: enigma2-plugin-skins-multibox-fhd-dev_1.0+git1+ce51d230+ce51d23ef7-r0_all.ipk
 Source: enigma2-plugin-skins-multibox-fhd.bb
 Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-multibox-fhd
@@ -3019,14 +3019,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-multibox-fhd
-Version: 1.0+git22+9f6d0420+9f6d0428d4-r0
+Version: 1.0+git1+ce51d230+ce51d23ef7-r0
 Section: base
 Architecture: all
 Maintainer: stein17, all
-MD5Sum: a3ab15314f3469d0f6816b5ab26e3175
-SHA256sum: b8018085ae5cd00555553879c127e9ae87f879ae2aa254b47538aa888f4c6c72
-Size: 2887542
-Filename: enigma2-plugin-skins-multibox-fhd_1.0+git22+9f6d0420+9f6d0428d4-r0_all.ipk
+MD5Sum: c69fadaa65e5f52e3caedfb3fdfb345d
+SHA256sum: 067673ce93f1050867f95c8b40bdd1ab3721769f8a8ad0dbfeb3097dd71b6d4f
+Size: 2887412
+Filename: enigma2-plugin-skins-multibox-fhd_1.0+git1+ce51d230+ce51d23ef7-r0_all.ipk
 Source: enigma2-plugin-skins-multibox-fhd.bb
 Description: enigma2-plugin-skins-multibox-fhd version 1.0+git-r0
 OE: enigma2-plugin-skins-multibox-fhd
@@ -3034,14 +3034,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-fhd-dbg
-Version: 1.0+git15+6fc481a0+6fc481afd7-r0
+Version: 1.0+git1+cf0bd6e0+cf0bd6e918-r0
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: 4e35e662b0eded8c2afd2da8698041d9
-SHA256sum: 073a6f5a14256eff851c93387de030041f0d2866d04705003cdbc4303425767f
+MD5Sum: 5f5ce3c2d7448a086693848bac80fdf2
+SHA256sum: 5a809e20e27a057adce031b4ac43d0d57c5fd3935e3b54f0a0eb3886834037fc
 Size: 670
-Filename: enigma2-plugin-skins-mx-graphite-fhd-dbg_1.0+git15+6fc481a0+6fc481afd7-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-graphite-fhd-dbg_1.0+git1+cf0bd6e0+cf0bd6e918-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-fhd.bb
 Description: enigma2-plugin-skins-mx-graphite-fhd version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-mx-graphite-fhd
@@ -3049,15 +3049,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-fhd-dev
-Version: 1.0+git15+6fc481a0+6fc481afd7-r0
-Recommends: enigma2-plugin-skins-mx-graphite-fhd (= 1.0+git15+6fc481a0+6fc481afd7-r0)
+Version: 1.0+git1+cf0bd6e0+cf0bd6e918-r0
+Recommends: enigma2-plugin-skins-mx-graphite-fhd (= 1.0+git1+cf0bd6e0+cf0bd6e918-r0)
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: d5b5a3270c79ac4c59ad959e75b171c0
-SHA256sum: 43470badb9f8c83ab84419430590f57bf762661824a2d9bce8cf3fe4d0977fc9
+MD5Sum: 237d0d03f748733fd281b08e3523f053
+SHA256sum: e6320653ef13feea54eea561f91ca4e0a5ee2469980433a12bda1f80992bfec5
 Size: 710
-Filename: enigma2-plugin-skins-mx-graphite-fhd-dev_1.0+git15+6fc481a0+6fc481afd7-r0_all.ipk
+Filename: enigma2-plugin-skins-mx-graphite-fhd-dev_1.0+git1+cf0bd6e0+cf0bd6e918-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-fhd.bb
 Description: enigma2-plugin-skins-mx-graphite-fhd version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-mx-graphite-fhd
@@ -3065,14 +3065,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-graphite-fhd
-Version: 1.0+git15+6fc481a0+6fc481afd7-r0
+Version: 1.0+git1+cf0bd6e0+cf0bd6e918-r0
 Section: base
 Architecture: all
 Maintainer: MX
-MD5Sum: 7b95f5d09cdf99787f40c971b08517c7
-SHA256sum: 2e689656ec6ad6d56d2f5f35045ebf370c071c5f453dba196b9cd905f7f9b0a3
-Size: 1030432
-Filename: enigma2-plugin-skins-mx-graphite-fhd_1.0+git15+6fc481a0+6fc481afd7-r0_all.ipk
+MD5Sum: 9392dd49d9c448a4999f511ca2a5fd54
+SHA256sum: e25c595cfde7338816972d12812e64f1b1fb3a825e4fdbaf06912e03c68d9eb5
+Size: 1030488
+Filename: enigma2-plugin-skins-mx-graphite-fhd_1.0+git1+cf0bd6e0+cf0bd6e918-r0_all.ipk
 Source: enigma2-plugin-skins-mx-graphite-fhd.bb
 Description: enigma2-plugin-skins-mx-graphite-fhd version 1.0+git-r0
 OE: enigma2-plugin-skins-mx-graphite-fhd
@@ -3080,14 +3080,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-fhd-dbg
-Version: 1.0+git14+cd587640+cd58764488-r0
+Version: 1.0+git1+000a1450+000a145159-r0
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: bb1bf86511868ec4d5256e36081164b4
-SHA256sum: aec7c93ae87433c5b7ceb1b0cb02c85da58dcc433382cab7547bdd5af028ffa9
-Size: 670
-Filename: enigma2-plugin-skins-mx-hq7-fhd-dbg_1.0+git14+cd587640+cd58764488-r0_all.ipk
+MD5Sum: bfa0a2bfd9d927c4540c853e1e1bb03d
+SHA256sum: 34063d3def791b096da0266eb6bc30f9ec4fd26244faba4026d0100c3374166c
+Size: 668
+Filename: enigma2-plugin-skins-mx-hq7-fhd-dbg_1.0+git1+000a1450+000a145159-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-fhd.bb
 Description: enigma2-plugin-skins-mx-hq7-fhd version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-mx-hq7-fhd
@@ -3095,15 +3095,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-fhd-dev
-Version: 1.0+git14+cd587640+cd58764488-r0
-Recommends: enigma2-plugin-skins-mx-hq7-fhd (= 1.0+git14+cd587640+cd58764488-r0)
+Version: 1.0+git1+000a1450+000a145159-r0
+Recommends: enigma2-plugin-skins-mx-hq7-fhd (= 1.0+git1+000a1450+000a145159-r0)
 Section: devel
 Architecture: all
 Maintainer: MX
-MD5Sum: afb94cd9503f1f2aea0e6df0c6970df8
-SHA256sum: 01ced21b4df3a8cafc191f5c61842c928d473161ff220e3f2e6a702c2748c996
-Size: 710
-Filename: enigma2-plugin-skins-mx-hq7-fhd-dev_1.0+git14+cd587640+cd58764488-r0_all.ipk
+MD5Sum: 04bde7464838bbb2435b540afcd11307
+SHA256sum: 501c2bb8d4231cb01e9168c84ed032cb41b08dce7cba6d7910ee6281e4d07d61
+Size: 706
+Filename: enigma2-plugin-skins-mx-hq7-fhd-dev_1.0+git1+000a1450+000a145159-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-fhd.bb
 Description: enigma2-plugin-skins-mx-hq7-fhd version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-mx-hq7-fhd
@@ -3111,14 +3111,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-mx-hq7-fhd
-Version: 1.0+git14+cd587640+cd58764488-r0
+Version: 1.0+git1+000a1450+000a145159-r0
 Section: base
 Architecture: all
 Maintainer: MX
-MD5Sum: 2eda069b03c5341284d5fee53312e9ee
-SHA256sum: b0d379956ff6df42ef9b92c1c56944cf3535a04ec962e5d3c0ec7fd44cdf91f6
-Size: 1611232
-Filename: enigma2-plugin-skins-mx-hq7-fhd_1.0+git14+cd587640+cd58764488-r0_all.ipk
+MD5Sum: 8163234b25ebea25fd32600ce4856ce9
+SHA256sum: 4aeaf96febe1de412b4cade298747ecb6f15cca0b9f32b778b7d413cb11e548e
+Size: 1611196
+Filename: enigma2-plugin-skins-mx-hq7-fhd_1.0+git1+000a1450+000a145159-r0_all.ipk
 Source: enigma2-plugin-skins-mx-hq7-fhd.bb
 Description: enigma2-plugin-skins-mx-hq7-fhd version 1.0+git-r0
 OE: enigma2-plugin-skins-mx-hq7-fhd
@@ -3126,14 +3126,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-ozeta-fhd-dbg
-Version: 1.0+git5+ed583f20+ed583f2f60-r0
+Version: 1.0+git1+7b3b04c0+7b3b04cc60-r0
 Section: devel
 Architecture: all
 Maintainer: MMark, all
-MD5Sum: b91a3b549a8b4d0dea1d8962dd813b5c
-SHA256sum: 592010599cc76279125ca8f3a1b1009fb23165e1ec23c5c95a461e3d8b0103e7
-Size: 686
-Filename: enigma2-plugin-skins-ozeta-fhd-dbg_1.0+git5+ed583f20+ed583f2f60-r0_all.ipk
+MD5Sum: 86933aad6e10c149f31a6114903ee7f9
+SHA256sum: 80b4ef3510b127473dc88a6d633522151c7699c47a90feb50a62820e924ad744
+Size: 682
+Filename: enigma2-plugin-skins-ozeta-fhd-dbg_1.0+git1+7b3b04c0+7b3b04cc60-r0_all.ipk
 Source: enigma2-plugin-skins-ozeta-fhd.bb
 Description: enigma2-plugin-skins-ozeta-fhd version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-ozeta-fhd
@@ -3141,15 +3141,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-ozeta-fhd-dev
-Version: 1.0+git5+ed583f20+ed583f2f60-r0
-Recommends: enigma2-plugin-skins-ozeta-fhd (= 1.0+git5+ed583f20+ed583f2f60-r0)
+Version: 1.0+git1+7b3b04c0+7b3b04cc60-r0
+Recommends: enigma2-plugin-skins-ozeta-fhd (= 1.0+git1+7b3b04c0+7b3b04cc60-r0)
 Section: devel
 Architecture: all
 Maintainer: MMark, all
-MD5Sum: 0cd0a552e7d316bdf9bf2cf149b7905e
-SHA256sum: 6608e22029a8a1b7bad037d8d2d0814cd989effea911dd608b0ace4f1039732c
+MD5Sum: e20fc8c399d376eea2ed51adb61ffd5b
+SHA256sum: e9ef4e5d785757de1b21787e49c448268dcf9985a1e30602beaea712f6556db1
 Size: 720
-Filename: enigma2-plugin-skins-ozeta-fhd-dev_1.0+git5+ed583f20+ed583f2f60-r0_all.ipk
+Filename: enigma2-plugin-skins-ozeta-fhd-dev_1.0+git1+7b3b04c0+7b3b04cc60-r0_all.ipk
 Source: enigma2-plugin-skins-ozeta-fhd.bb
 Description: enigma2-plugin-skins-ozeta-fhd version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-ozeta-fhd
@@ -3157,14 +3157,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-ozeta-fhd
-Version: 1.0+git5+ed583f20+ed583f2f60-r0
+Version: 1.0+git1+7b3b04c0+7b3b04cc60-r0
 Section: base
 Architecture: all
 Maintainer: MMark, all
-MD5Sum: 4fa0c67aefb47171958a587b7814e591
-SHA256sum: f5d2a0f6ac8446028a05cee1868f1673bb79d138ac308f3ea95c7a6d5327669c
-Size: 2078130
-Filename: enigma2-plugin-skins-ozeta-fhd_1.0+git5+ed583f20+ed583f2f60-r0_all.ipk
+MD5Sum: 97192755891fbdbdb1a548b7be85ada7
+SHA256sum: abd044260abefa75bc255e5951e90812013e9035b0f5f1ce8ae39fe7712cba25
+Size: 2077992
+Filename: enigma2-plugin-skins-ozeta-fhd_1.0+git1+7b3b04c0+7b3b04cc60-r0_all.ipk
 Source: enigma2-plugin-skins-ozeta-fhd.bb
 Description: enigma2-plugin-skins-ozeta-fhd version 1.0+git-r0
 OE: enigma2-plugin-skins-ozeta-fhd
@@ -3218,14 +3218,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git27+6ea95d50+6ea95d5991-r0
+Version: 0.1+git1+416c34c0+416c34c172-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: fc1170bd2233597198b4f404bf618748
-SHA256sum: 01bd098a4c762eb9446b13faa11dd079d056f78eb9c621525ce12af70d3dc91f
-Size: 664
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git27+6ea95d50+6ea95d5991-r0_all.ipk
+MD5Sum: 1c9c818f4a05e0dc739a2a73b6be7e97
+SHA256sum: 893f3a98f01e95b2f014f839bcb738307cffed78259a5014bf7277528e95f8e2
+Size: 662
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git1+416c34c0+416c34c172-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+git-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-hd
@@ -3233,15 +3233,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git27+6ea95d50+6ea95d5991-r0
-Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git27+6ea95d50+6ea95d5991-r0)
+Version: 0.1+git1+416c34c0+416c34c172-r0
+Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git1+416c34c0+416c34c172-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 8ebe311375f3d7a4e099a11cbc1eece5
-SHA256sum: 01fa8a34a0df5074e6ca10e7510b504ac35738e65b787629d21aba388fc1467c
-Size: 704
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git27+6ea95d50+6ea95d5991-r0_all.ipk
+MD5Sum: 7fbe7ab88a3fa26d73da817c2ddeac0b
+SHA256sum: c23ffc500ae0b2db159a6ea98e2a7601d96f11efe8095517fa39f1417fb8000f
+Size: 702
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git1+416c34c0+416c34c172-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+git-r0 - Development files
 OE: enigma2-plugin-skins-pli-hd
@@ -3295,14 +3295,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git27+6ea95d50+6ea95d5991-r0
+Version: 0.1+git1+416c34c0+416c34c172-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 75a8fe8ffe0a771ab1232a2879b79b98
-SHA256sum: fe6132a9569483b3eb0662a8ef19f0f804bdbb1d105648b4a1d625e778934752
-Size: 602162
-Filename: enigma2-plugin-skins-pli-hd_0.1+git27+6ea95d50+6ea95d5991-r0_all.ipk
+MD5Sum: 008939e82cb1dbd598e8c4101fc1268f
+SHA256sum: 64eceabc3cf4a92b075c29ef507a59d3105d2b572a57bdeee450b5c731cfb22a
+Size: 601828
+Filename: enigma2-plugin-skins-pli-hd_0.1+git1+416c34c0+416c34c172-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+git-r0
 OE: enigma2-plugin-skins-pli-hd
@@ -7417,14 +7417,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: streamlinksrv-dbg
-Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
+Version: 1.8.3+git1+8314fb90+8314fb9a70-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 5a43b369545d6ce34d33712f6d9eff07
-SHA256sum: 15974591f5543a2c87b35517a01e7fa7cef46dd90b903590039c50f28488c35b
-Size: 702
-Filename: streamlinksrv-dbg_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
+MD5Sum: 3be2c9b9807f05a81e623eb4c96e2c97
+SHA256sum: f589b385b69f4c023c16ec9e9e950dbdfa2dadd9d7b197f00f098b6d4e5a5e35
+Size: 700
+Filename: streamlinksrv-dbg_1.8.3+git1+8314fb90+8314fb9a70-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Debugging files
 OE: streamlinksrv
@@ -7433,15 +7433,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: streamlinksrv-dev
-Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
-Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git25+e0f24a00+e0f24a01f1-r0)
+Version: 1.8.3+git1+8314fb90+8314fb9a70-r0
+Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.3+git1+8314fb90+8314fb9a70-r0)
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 70eb119965e816465ef1f47d90dcb81c
-SHA256sum: 5469240d3ca67dfd3e5fa61f3db6a37c5cb48ffbae255f4eddcda4409a3b4fb5
-Size: 752
-Filename: streamlinksrv-dev_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
+MD5Sum: 0d3124e4fc01519b5d14155bbae32d67
+SHA256sum: ceec044fb0be93c980eaf634d16ba7ae9efad694cac2b250e4cd4d3e2dad4e7b
+Size: 750
+Filename: streamlinksrv-dev_1.8.3+git1+8314fb90+8314fb9a70-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0 - Development files
 OE: streamlinksrv
@@ -7450,15 +7450,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: streamlinksrv
-Version: 1.8.3+git25+e0f24a00+e0f24a01f1-r0
+Version: 1.8.3+git1+8314fb90+8314fb9a70-r0
 Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: e3c1d25fc60cc15de76aeca7af27a108
-SHA256sum: 5182f56093f6fbaf46c0148f6e9489e3f20b6dceee118ac7dbf1e59f9bc21508
-Size: 83020
-Filename: streamlinksrv_1.8.3+git25+e0f24a00+e0f24a01f1-r0_all.ipk
+MD5Sum: cd4628bac4ca116b872c132d369ae6c4
+SHA256sum: 74508dfd9f6dcaf6b7a4160882d0fa42d3f7a013daef2edb06d4a58be1ecd605
+Size: 83016
+Filename: streamlinksrv_1.8.3+git1+8314fb90+8314fb9a70-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.3+git-r0
 OE: streamlinksrv
