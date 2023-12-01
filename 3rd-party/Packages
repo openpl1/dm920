@@ -540,23 +540,6 @@ HomePage: https://github.com/m4dhouse/MadMax-FHD
 License: free
 Priority: optional
 
-Package: enigma2-plugin-skins-mymetrixfhdpy3
-Version: 2.2
-Depends: python3-imaging, python3-requests
-Section: base
-Architecture: all
-Maintainer: Ten Below & Danyyy
-MD5Sum: 1772942fda7deb3ab58e7da72bb1db0e
-SHA256sum: 69cc4d2388fb31dcb73bb6649168eb647b7551d101fc90a726fdbb1d043129e2
-Size: 16028066
-Filename: enigma2-plugin-skins-mymetrixfhdpy3_2.2_all.ipk
-Source: enigma2-plugin-skins-mymetrixfhdpy3.bb
-Description: Enigma2 Skin Metrix FHD
-OE: enigma2-plugin-skins-metrix-pli
-HomePage: none
-License: GPL-2.0-only
-Priority: optional
-
 Package: enigma2-plugin-skins-pdreamy-fhd
 Version: 1.0-r3
 Section: base
