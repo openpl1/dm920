@@ -871,8 +871,9 @@
 1701370933 enigma2-plugin-skins-satdreamgr-hd-transpba_1.0+git488+b660af10+b660af1c2a-r1_cortexa15hf-neon-vfpv4.ipk
 1701370933 enigma2-plugin-softcams-cccam_2.3.2a-r0_cortexa15hf-neon-vfpv4.ipk
 1701370933 enigma2-plugin-softcams-ncam_git10709+0c15e6a0+0c15e6a7a7-r0_cortexa15hf-neon-vfpv4.ipk
-1701495270 enigma2-plugin-softcams-oscam-emu_1.20+git2008+ed55b9c0+ed55b9cf44-r0_cortexa15hf-neon-vfpv4.ipk
-1701495270 enigma2-plugin-softcams-oscam_1.20+git10634+d4622130+d462213eec-r0_cortexa15hf-neon-vfpv4.ipk
+1701507395 enigma2-plugin-softcams-oscam-cak7_git10634+d4622130+d462213eec-r0_cortexa15hf-neon-vfpv4.ipk
+1701507395 enigma2-plugin-softcams-oscam-emu_1.20+git2008+ed55b9c0+ed55b9cf44-r0_cortexa15hf-neon-vfpv4.ipk
+1701507395 enigma2-plugin-softcams-oscam_1.20+git10634+d4622130+d462213eec-r0_cortexa15hf-neon-vfpv4.ipk
 1701495269 enigma2-plugin-systemplugins-autobouquetsmaker-dbg_3.3+git1040+1f676fe0+1f676fe1ea-r0_cortexa15hf-neon-vfpv4.ipk
 1701495269 enigma2-plugin-systemplugins-autobouquetsmaker-dev_3.3+git1040+1f676fe0+1f676fe1ea-r0_cortexa15hf-neon-vfpv4.ipk
 1701495269 enigma2-plugin-systemplugins-autobouquetsmaker-po_3.3+git1040+1f676fe0+1f676fe1ea-r0_cortexa15hf-neon-vfpv4.ipk
@@ -5648,8 +5649,8 @@
 1701495771 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1701495863 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1701495863 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1701507395 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1701507395 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7518,8 +7519,8 @@
 1701370917 smbnetfs-doc_0.6.3-r0_cortexa15hf-neon-vfpv4.ipk
 1701370917 smbnetfs_0.6.3-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 sntp_4.2.8p17-r0_cortexa15hf-neon-vfpv4.ipk
-1701495863 softcams-enigma2-meta-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1701495863 softcams-enigma2-meta-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1701507395 softcams-enigma2-meta-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1701507395 softcams-enigma2-meta-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 sqlite3-dbg_3.44.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701495771 sqlite3_3.44.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701370917 sshpass-dbg_1.10-r0_cortexa15hf-neon-vfpv4.ipk
