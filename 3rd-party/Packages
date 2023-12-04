@@ -12,7 +12,7 @@ License: LGPL-2.1-only
 Architecture: dm920
 OE: directfb
 Homepage: http://directfb.org
-Depends: libc6 (>= 2.38), libfreetype6 (>= 2.11.0), libgcc1 (>= 12.2.0), libjpeg62 (>= 2.1.5.1), libpng16-16 (>= 1.6.39), libstdc++6 (>= 12.2.0), libz1 (>= 1.2.13)
+Depends: libc6 (>= 2.38), libfreetype6 (>= 2.13.2), libgcc1 (>= 13.2.0), libjpeg62 (>= 2.1.5.1), libpng16-16 (>= 1.6.39), libstdc++6 (>= 12.2.0), libz1 (>= 1.2.13)
 Source: directfb_1.7.7.bb
 Filename: directfb_1.7.7-r0_dm920.ipk
 Size: 678700
@@ -322,7 +322,7 @@ Priority: optional
 
 Package: enigma2-plugin-extensions-ipaudiopro
 Version: 1.1
-Depends: alsa-plugins, libasound2 (>= 1.2.8), libavcodec60 (>= 6.0), libavformat60 (>= 6.0), libc6 (>= 2.38), libgcc1 (>= 12.2.0), libpython3.11-1.0 (>= 3.11.2), libstdc++6 (>= 12.2.0), python3-core, python3-cryptography
+Depends: alsa-plugins, libasound2 (>= 1.2.8), libavcodec60 (>= 6.0), libavformat60 (>= 6.0), libc6 (>= 2.38), libgcc1 (>= 13.2.0), libpython3.11-1.0 (>= 3.11.2), libstdc++6 (>= 12.2.0), python3-core, python3-cryptography
 Section: base
 Architecture: cortexa15hf-neon-vfpv4
 Maintainer: zKhadiri
@@ -658,7 +658,7 @@ License: ICU
 Architecture: cortexa15hf-neon-vfpv4
 OE: icu
 Homepage: http://site.icu-project.org/
-Depends: libc6 (>= 2.38), libgcc1 (>= 12.2.0), libicudata72 (>= 72-1), libicuuc72 (>= 72-1), libstdc++6 (>= 12.2.0)
+Depends: libc6 (>= 2.38), libgcc1 (>= 13.2.0), libicudata72 (>= 72-1), libicuuc72 (>= 72-1), libstdc++6 (>= 12.2.0)
 Provides: libicui18n
 Source: icu_72-1.bb
 Filename: libicui18n72_72-1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -679,7 +679,7 @@ License: ICU
 Architecture: cortexa15hf-neon-vfpv4
 OE: icu
 Homepage: http://site.icu-project.org/
-Depends: libc6 (>= 2.38), libgcc1 (>= 12.2.0), libicudata72 (>= 72-1), libstdc++6 (>= 12.2.0)
+Depends: libc6 (>= 2.38), libgcc1 (>= 13.2.0), libicudata72 (>= 72-1), libstdc++6 (>= 12.2.0)
 Provides: libicuuc
 Source: icu_72-1.bb
 Filename: libicuuc72_72-1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -733,7 +733,7 @@ License: MIT & ISC & BSD-2-Clause & BSD-3-Clause & Artistic-2.0 & Apache-2.0
 Architecture: cortexa15hf-neon-vfpv4
 OE: nodejs
 Homepage: http://nodejs.org
-Depends: brotli (>= 1.0.9), libc6 (>= 2.38), libcares2 (>= 1.19.0), libcrypto3 (>= 3.1.0), libgcc1 (>= 12.2.0), libicui18n72 (>= 72-1), libicuuc72 (>= 72-1), libssl3 (>= 3.1.0), libstdc++6 (>= 12.2.0), libz1 (>= 1.2.13)
+Depends: brotli (>= 1.0.9), libc6 (>= 2.38), libcares2 (>= 1.19.0), libcrypto3 (>= 3.1.0), libgcc1 (>= 13.2.0), libicui18n72 (>= 72-1), libicuuc72 (>= 72-1), libssl3 (>= 3.1.0), libstdc++6 (>= 12.2.0), libz1 (>= 1.2.13)
 Source: nodejs_18.14.2.bb
 Filename: nodejs_18.14.2-r0_cortexa15hf-neon-vfpv4.ipk
 Size: 4939772
