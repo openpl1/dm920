@@ -761,8 +761,8 @@ Version: 1.0+git6+03760b80+03760b884e-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: d017649e2c27c6641b23bfd2763cd2f6
-SHA256sum: 64f02f39292f93ec542e20481d319721bc566d13a07a261bc59340305652fd04
+MD5Sum: 06f70de9f719255f2a1093688d25a6e4
+SHA256sum: d704c66c642375c08d793863f5ceab7c591d11f1e99e4424cb725254f5a8173a
 Size: 686
 Filename: enigma2-plugin-extensions-piconsmissing-dbg_1.0+git6+03760b80+03760b884e-r0_all.ipk
 Source: enigma2-plugin-extensions-piconsmissing.bb
@@ -777,8 +777,8 @@ Recommends: enigma2-plugin-extensions-piconsmissing (= 1.0+git6+03760b80+03760b8
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 494a443335062452102c26def0abc090
-SHA256sum: 4ca942c4c85d2bc70406bf8e21dd82cccd0b5dc609b7879e102301cd1e06e5ac
+MD5Sum: 19116cb2e09e7b288e114ba879c93374
+SHA256sum: 93ae34bf04d9e02aa00a83dd0ac9745a3aa46125ded25498f72f77f5bb7e7a0a
 Size: 722
 Filename: enigma2-plugin-extensions-piconsmissing-dev_1.0+git6+03760b80+03760b884e-r0_all.ipk
 Source: enigma2-plugin-extensions-piconsmissing.bb
@@ -792,9 +792,9 @@ Version: 1.0+git6+03760b80+03760b884e-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 504eb87ebb43c869b13f966ffbb4ba9f
-SHA256sum: abe44109b13d7d3ee6e8dd72d30c5f19ffd41017eee651b496b9dc8d5dfd33e2
-Size: 8056
+MD5Sum: f7a30cc555cf790fee9d6cccb961c59d
+SHA256sum: 83b2a43e48af9e17cfa24caef9cd3bf4b27563dc77a17550e2bd3197201937f8
+Size: 8054
 Filename: enigma2-plugin-extensions-piconsmissing-src_1.0+git6+03760b80+03760b884e-r0_all.ipk
 Source: enigma2-plugin-extensions-piconsmissing.bb
 Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0 - Source files
@@ -807,8 +807,8 @@ Version: 1.0+git6+03760b80+03760b884e-r0
 Section: base
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 7be3ddad98dea21bcb5fbda676895043
-SHA256sum: 5705d73020618df047fd60ed9623399b8e7eba22eca8d535501c1badb9ef3090
+MD5Sum: e00d87b9dbe426183f794e63b847826d
+SHA256sum: 2650c63b76e6945dbc9c6a9d91d35285e030ac58d4aef6a69affce3bada68fe2
 Size: 4236
 Filename: enigma2-plugin-extensions-piconsmissing_1.0+git6+03760b80+03760b884e-r0_all.ipk
 Source: enigma2-plugin-extensions-piconsmissing.bb
