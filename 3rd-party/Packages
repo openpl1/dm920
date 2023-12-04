@@ -159,7 +159,7 @@ SHA256sum: ca14616991f4727fd02a141c6313aa470314b1d89d2edaa6d019cf3b592c60f5
 Size: 2445638
 Filename: enigma2-plugin-extensions-dreamsatpanel_1.6-r0_cortexa15hf-neon-vfpv4.ipk
 Source: enigma2-plugin-extensions-dreamsatpanel_git.bb
-Description: enigma2-plugin-extensions-dreamsatpanel version 1.6-r0
+Description: DreamSatPanel All You Need
 OE: enigma2-plugin-extensions-dreamsatpanel
 License: GPL-2.0-only
 Priority: optional
