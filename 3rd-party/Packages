@@ -367,21 +367,6 @@ Size: 7479722
 Depends: libc6 (>= 2.38), nodejs, python3-compression, python3-core, python3-db, python3-email, python3-future, python3-futures3, python3-html, python3-json, python3-multiprocessing, python3-netclient, python3-numbers, python3-pillow, python3-pkgutil, python3-pprint, python3-pyopenssl, python3-requests, python3-twisted-core, python3-twisted-web, python3-xml, python3-youtube-dl, python3-yt-dlp
 Priority: optional
 
-Package: enigma2-plugin-extensions-missingpicons
-Version: 1.0
-Section: base
-Architecture: all
-Maintainer: Huevos
-MD5Sum: afba1c06abd77b6e9c391375cacc8f11
-SHA256sum: 88596b093cb1c76735d2a6c3baac3b26db16094e7e30fdbfa3401334cf6f960a
-Size: 4456
-Filename: enigma2-plugin-extensions-missingpicons_2023_09_29_all.ipk
-Source: enigma2-plugin-extensions-missingpicons.bb
-Description: Tool to check for missing picons
-OE: enigma2-plugin-extensions-missingpicons
-License: GPL-2.0-or-later
-Priority: optional
-
 Package: enigma2-plugin-extensions-multi-stalkerpro
 Version: 1.0+git16+ab1d5a0-r0
 Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, libc6 (>= 2.38), python3-core, python3-cryptography
