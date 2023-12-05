@@ -2895,14 +2895,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-cinogripli-fhd-dbg
-Version: 2.0+git3+58c92c70+58c92c729d-r0
+Version: 2.0+git8+608d4120+608d4122fb-r0
 Section: devel
 Architecture: all
 Maintainer: Cino, all
-MD5Sum: 2851b11d51dbe38a1063f1372205d7ed
-SHA256sum: c1ccaec310e1cae60aae2879538a179320188720bffae4518127e12c0b403910
+MD5Sum: f2b7cdf119c28d3ff087957fadc6e066
+SHA256sum: 2c47b36d0e49efb5157154492931809b3d8110c471a5d4a9991543c373a464d9
 Size: 700
-Filename: enigma2-plugin-skins-cinogripli-fhd-dbg_2.0+git3+58c92c70+58c92c729d-r0_all.ipk
+Filename: enigma2-plugin-skins-cinogripli-fhd-dbg_2.0+git8+608d4120+608d4122fb-r0_all.ipk
 Source: enigma2-plugin-skins-cinogripli-fhd.bb
 Description: enigma2-plugin-skins-cinogripli-fhd version 2.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-cinogripli-fhd
@@ -2910,15 +2910,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-cinogripli-fhd-dev
-Version: 2.0+git3+58c92c70+58c92c729d-r0
-Recommends: enigma2-plugin-skins-cinogripli-fhd (= 2.0+git3+58c92c70+58c92c729d-r0)
+Version: 2.0+git8+608d4120+608d4122fb-r0
+Recommends: enigma2-plugin-skins-cinogripli-fhd (= 2.0+git8+608d4120+608d4122fb-r0)
 Section: devel
 Architecture: all
 Maintainer: Cino, all
-MD5Sum: d0458da02e3ec00fbc10f4188d99f6e9
-SHA256sum: a344e61af5954a20086269eddb0cb350ffd49d3c09af6ab0b29fe0be55d565df
+MD5Sum: c4aafa33368416d62aa4d106705fa03a
+SHA256sum: 8afbb6faf652d697ba26bff3187eae2565a7c37ecd11bb241d3ec4c229e8aa34
 Size: 736
-Filename: enigma2-plugin-skins-cinogripli-fhd-dev_2.0+git3+58c92c70+58c92c729d-r0_all.ipk
+Filename: enigma2-plugin-skins-cinogripli-fhd-dev_2.0+git8+608d4120+608d4122fb-r0_all.ipk
 Source: enigma2-plugin-skins-cinogripli-fhd.bb
 Description: enigma2-plugin-skins-cinogripli-fhd version 2.0+git-r0 - Development files
 OE: enigma2-plugin-skins-cinogripli-fhd
@@ -2926,14 +2926,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-cinogripli-fhd
-Version: 2.0+git3+58c92c70+58c92c729d-r0
+Version: 2.0+git8+608d4120+608d4122fb-r0
 Section: base
 Architecture: all
 Maintainer: Cino, all
-MD5Sum: 7815d9753fbf597775ae34badd9fa060
-SHA256sum: 39c72756bf4d2311a78fc626af713edba0c1b3566195f906aebec0853ff7ce2c
-Size: 1053390
-Filename: enigma2-plugin-skins-cinogripli-fhd_2.0+git3+58c92c70+58c92c729d-r0_all.ipk
+MD5Sum: 841f99c42e2756530d4a31d21fdbc271
+SHA256sum: 38c100baefd964426303bdab0c6c50e76afc83731c29ad1a8a60126fcb3f8d1b
+Size: 1052374
+Filename: enigma2-plugin-skins-cinogripli-fhd_2.0+git8+608d4120+608d4122fb-r0_all.ipk
 Source: enigma2-plugin-skins-cinogripli-fhd.bb
 Description: enigma2-plugin-skins-cinogripli-fhd version 2.0+git-r0
 OE: enigma2-plugin-skins-cinogripli-fhd
