@@ -5645,8 +5645,6 @@
 1701815879 openjpeg-dev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 openjpeg-staticdev_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 openjpeg_2.5.0-r0_cortexa15hf-neon-vfpv4.ipk
-1701816534 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
-1701816534 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 openssh-dbg_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 openssh-dev_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 openssh-doc_9.5p1-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7159,6 +7157,10 @@
 1701750627 python3-toml-dev_0.10.2-r0_cortexa15hf-neon-vfpv4.ipk
 1701750627 python3-toml_0.10.2-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 python3-tomllib_3.11.6-r0_cortexa15hf-neon-vfpv4.ipk
+1701818035 python3-tqdm-dbg_4.66.1-r0_cortexa15hf-neon-vfpv4.ipk
+1701818035 python3-tqdm-dev_4.66.1-r0_cortexa15hf-neon-vfpv4.ipk
+1701818035 python3-tqdm-doc_4.66.1-r0_cortexa15hf-neon-vfpv4.ipk
+1701818035 python3-tqdm_4.66.1-r0_cortexa15hf-neon-vfpv4.ipk
 1701750615 python3-transmissionrpc-dbg_4.3.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701750615 python3-transmissionrpc-dev_4.3.0-r0_cortexa15hf-neon-vfpv4.ipk
 1701750615 python3-transmissionrpc-doc_4.3.0-r0_cortexa15hf-neon-vfpv4.ipk
@@ -7967,3 +7969,5 @@
 1701815879 zstd-doc_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 zstd-staticdev_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
 1701815879 zstd_1.5.5-r0_cortexa15hf-neon-vfpv4.ipk
+1701818059 openpli-enigma2-feed-dbg_1.0-r0_cortexa15hf-neon-vfpv4.ipk
+1701818059 openpli-enigma2-feed-dev_1.0-r0_cortexa15hf-neon-vfpv4.ipk
