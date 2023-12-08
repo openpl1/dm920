@@ -290,7 +290,7 @@ MD5Sum: 2b58d461b834881d2e0f5e160134494d
 SHA256sum: f82835072e649aae420c028d780fa07e171fb90e42a5a341840cdf5d45806687
 
 Package: enigma2-plugin-extensions-hdfradio
-Version: 2.5.0+git252+2d3e919-r2
+Version: 2.5.2
 Description: Webradio Plugin
  Webradio Plugin.
 Section: base
@@ -301,9 +301,9 @@ Architecture: cortexa15hf-neon-vfpv4
 OE: enigma2-plugin-extensions-hdfradio
 Depends: gstplayer, libc6 (>= 2.38), python3-core, python3-mutagen, python3-pillow, python3-requests, streamripper
 Source: enigma2-plugin-extensions-hdfradio.bb
-Filename: enigma2-plugin-extensions-hdfradio_2.5.0_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk
-Size: 2445922
-MD5Sum: 6b66b7db69c5b7d6dca62a31202da04a
+Filename: enigma2-plugin-extensions-hdfradio_2.5.2_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk
+Size: 2446350
+MD5Sum: 7d5ca2d4fc6c8267011f394708efb2c4
 
 Package: enigma2-plugin-extensions-internetspeedtest
 Version: git40+46493890+4649389083-r0
@@ -351,19 +351,19 @@ Size: 5082
 MD5Sum: a31cbb234b395ba355bc25de35a4d903
 
 Package: enigma2-plugin-extensions-mediastream
-Version: 20230519-python3.11-r0
+Version: 20231130-python3.11-r0
 Recommends: gstreamer1.0-plugins-base-opus, python3-pycryptodome
 Section: base
 Architecture: cortexa15hf-neon-vfpv4
-Maintainer: MS
-MD5Sum: d0f826edec233815c02b7687024d4fd3
-SHA256sum: 7dac9d48d2cae0172e70fa90e43145dc311e49c593c5e41ab70c449c83414af4
+Maintainer: MP4ALL
+MD5Sum: 431f49a3feb64efcbfb922c0c2150eb8
+SHA256sum: 5787b7b58b43f1b7d865adfa890b88d0695c5be590306e19778af8c3ff2af855
 Description: enigma2-plugin-extensions-mediastream
 OE: enigma2-plugin-extensions-mediastream
 Source: enigma2-plugin-extensions-mediastream.bb
-Homepage: 
-Filename: enigma2-plugin-extensions-mediastream_20230519-python3.11-r0_cortexa15hf-neon-vfpv4.ipk
-Size: 7479722
+Homepage: https://github.com/MP4ALL
+Filename: enigma2-plugin-extensions-mediastream_20231130-python3.11-r0_cortexa15hf-neon-vfpv4.ipk
+Size: 7465630
 Depends: libc6 (>= 2.38), nodejs, python3-compression, python3-core, python3-db, python3-email, python3-future, python3-futures3, python3-html, python3-json, python3-multiprocessing, python3-netclient, python3-numbers, python3-pillow, python3-pkgutil, python3-pprint, python3-pyopenssl, python3-requests, python3-twisted-core, python3-twisted-web, python3-xml, python3-youtube-dl, python3-yt-dlp
 Priority: optional
 
