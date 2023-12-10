@@ -818,14 +818,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dbg
-Version: 4.19-20231123-r1
+Version: 4.20-20231209-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 57069669ecd96ed2f18c18451631a83a
-SHA256sum: 1273e24982cf5a1d6f621612d167cb86c059fc69cf7111ea0f52366ee4777ccc
-Size: 712
-Filename: enigma2-plugin-extensions-xstreamity-dbg_4.19-20231123-r1_all.ipk
+MD5Sum: 0940e69a02a91744bf17f54317995f03
+SHA256sum: d5fc6e5c3351931e187d384ce60287dc163b638986ffab0e28cade56838262c7
+Size: 714
+Filename: enigma2-plugin-extensions-xstreamity-dbg_4.20-20231209-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Debugging files
 OE: enigma2-plugin-extensions-xstreamity
@@ -834,15 +834,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dev
-Version: 4.19-20231123-r1
-Recommends: enigma2-plugin-extensions-xstreamity (= 4.19-20231123-r1), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
+Version: 4.20-20231209-r1
+Recommends: enigma2-plugin-extensions-xstreamity (= 4.20-20231209-r1), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 21860201b4f4011d0dc7e44b4ab48985
-SHA256sum: 987ba91d7081391039c4ecac8ed2e28bb0be6f27bc03d71201ad3a873c78657d
-Size: 784
-Filename: enigma2-plugin-extensions-xstreamity-dev_4.19-20231123-r1_all.ipk
+MD5Sum: 1967a6b96771940e2da34028fd119a69
+SHA256sum: daf5b4ee657ce536ca88cad94121a89327f4ae7440eefe1864cf16a461806259
+Size: 786
+Filename: enigma2-plugin-extensions-xstreamity-dev_4.20-20231209-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Development files
 OE: enigma2-plugin-extensions-xstreamity
@@ -851,14 +851,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-src
-Version: 4.19-20231123-r1
+Version: 4.20-20231209-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: d8668767d3c5f61cc7b178d7a43d5c51
-SHA256sum: 79e699dd1a2ad5a23ed63a091de9268f40a4aa2a4efba4d9e0cb2a34bfa2e999
-Size: 55556
-Filename: enigma2-plugin-extensions-xstreamity-src_4.19-20231123-r1_all.ipk
+MD5Sum: 4e87287b7a4bb05dfbdff19a7ee32ac9
+SHA256sum: 8ba303c9d7b94cf39b48b17dadff39a9c4dce196df78f28142c589238b697b48
+Size: 55480
+Filename: enigma2-plugin-extensions-xstreamity-src_4.20-20231209-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Source files
 OE: enigma2-plugin-extensions-xstreamity
@@ -867,15 +867,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 4.19-20231123-r1
+Version: 4.20-20231209-r1
 Depends: python3-multiprocessing, python3-pillow, python3-requests
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e043b0f3d8ef570336421736666d8eba
-SHA256sum: d617af8893e5c086eda8fef9cc499d2d618419c13b63b9b7a7cd5d976e16e71b
-Size: 2737106
-Filename: enigma2-plugin-extensions-xstreamity_4.19-20231123-r1_all.ipk
+MD5Sum: 6ccd83caff2917b8b18d9f58e0611159
+SHA256sum: 03a8973c26eb999f79f3a1c0ab1487bdee507dbceba527013572ce2264c08de0
+Size: 2741410
+Filename: enigma2-plugin-extensions-xstreamity_4.20-20231209-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC
 OE: enigma2-plugin-extensions-xstreamity
@@ -2941,14 +2941,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos-dbg
-Version: 1.0+git144+ff72f110+ff72f11718-r0
+Version: 1.0+git145+8b2bf040+8b2bf048bf-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: de26c99fd79c278299d15794b8f55bc0
-SHA256sum: 94c6c5c5691c506cccb77d4412014084e41e1dd181fb1b4707e1be2f3e981280
-Size: 692
-Filename: enigma2-plugin-skins-e2darkos-dbg_1.0+git144+ff72f110+ff72f11718-r0_all.ipk
+MD5Sum: 727aeb19f6469c9ab9ea08408107f02b
+SHA256sum: 814d3c5f23b569512001c5cca71403856e0b106bc32ec718f0da5a2f577812bd
+Size: 694
+Filename: enigma2-plugin-skins-e2darkos-dbg_1.0+git145+8b2bf040+8b2bf048bf-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-e2darkos
@@ -2956,15 +2956,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos-dev
-Version: 1.0+git144+ff72f110+ff72f11718-r0
-Recommends: enigma2-plugin-skins-e2darkos (= 1.0+git144+ff72f110+ff72f11718-r0)
+Version: 1.0+git145+8b2bf040+8b2bf048bf-r0
+Recommends: enigma2-plugin-skins-e2darkos (= 1.0+git145+8b2bf040+8b2bf048bf-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 782604933dab12aca3d26f1b2f54439d
-SHA256sum: f58b777eea935c9df5a753be72547a5e78a0f0f0773fc923f0b62d90ea977250
+MD5Sum: cc38167155030755611f52dbf566d57f
+SHA256sum: d1175c2f98055f466e940eb15594a4aceca4c7235abf3f1388a68073a57ce14e
 Size: 730
-Filename: enigma2-plugin-skins-e2darkos-dev_1.0+git144+ff72f110+ff72f11718-r0_all.ipk
+Filename: enigma2-plugin-skins-e2darkos-dev_1.0+git145+8b2bf040+8b2bf048bf-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-e2darkos
@@ -2972,14 +2972,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2darkos
-Version: 1.0+git144+ff72f110+ff72f11718-r0
+Version: 1.0+git145+8b2bf040+8b2bf048bf-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: d9e0ea44466235b93fbcf4c5c86739a8
-SHA256sum: b2f646e39881b465dcee62072be6e6be4d87c9a8919ad6e53fe354c295cc99a6
-Size: 2783528
-Filename: enigma2-plugin-skins-e2darkos_1.0+git144+ff72f110+ff72f11718-r0_all.ipk
+MD5Sum: 9b1c581758c00575cd6bf85d93df1747
+SHA256sum: 019dd7f4c2e1e96678a4dc8ac147261c0de6d74243036d69dd69954f18b1f122
+Size: 2840546
+Filename: enigma2-plugin-skins-e2darkos_1.0+git145+8b2bf040+8b2bf048bf-r0_all.ipk
 Source: enigma2-plugin-skins-e2darkos.bb
 Description: enigma2-plugin-skins-e2darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-e2darkos
