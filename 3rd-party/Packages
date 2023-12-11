@@ -367,22 +367,39 @@ Size: 7465630
 Depends: libc6 (>= 2.38), nodejs, python3-compression, python3-core, python3-db, python3-email, python3-future, python3-futures3, python3-html, python3-json, python3-multiprocessing, python3-netclient, python3-numbers, python3-pillow, python3-pkgutil, python3-pprint, python3-pyopenssl, python3-requests, python3-twisted-core, python3-twisted-web, python3-xml, python3-youtube-dl, python3-yt-dlp
 Priority: optional
 
-Package: enigma2-plugin-extensions-multi-stalkerpro
-Version: 1.0+git16+ab1d5a0-r0
+Package: enigma2-plugin-extensions-multistalker
+Version: 1.5
 Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, libc6 (>= 2.38), python3-core, python3-cryptography
 Section: base
-Architecture: cortexa15hf-neon-vfpv4
+Architecture: all
 Maintainer: zKhadiri
-MD5Sum: fb3cc733630c903d14c9bac0e44bfe49
-SHA256sum: 09bece458f2ae4a4ceacfae340289c84cbdfe506d3eebd627970e80376f8ade8
-Size: 703298
-Filename: enigma2-plugin-extensions-multi-stalkerpro_1.0+git16+ab1d5a0-r0_cortexa15hf-neon-vfpv4.ipk
-Source: enigma2-plugin-extensions-multi-stalkerpro.bb
-Description: Multi-StalkerPro Enigma2 Plugin
-OE: enigma2-plugin-extensions-multi-stalkerpro
+MD5Sum: 029e99ced8fffa01491ec3292c2b4668
+SHA256sum: 7cc1b52302760f5b03d232ad7f985de21aa983f76fabbec1a2fb4b593ce6e460
+Size: 3729312
+Filename: enigma2-plugin-extensions-multistalker_1.5_all.ipk
+Source: enigma2-plugin-extensions-multistalker.bb
+Description: MultiStalker Enigma2 Plugin
+OE: enigma2-plugin-extensions-multistalker
+Homepage: https://github.com/zKhadiri/Multi-Stalker-install
+License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-extensions-multistalkerpro
+Version: 1.0+git16
+Depends: enigma2-plugin-systemplugins-serviceapp, exteplayer3, libc6 (>= 2.38), python3-core, python3-cryptography
+Section: base
+Architecture: all
+Maintainer: zKhadiri
+MD5Sum: 013dcc07689c46530f4fe3f197c4fc00
+SHA256sum: 8236b43eb05bbcf5a818bb030688be5c365e65524b638208cb86decbfb5442f8
+Size: 948772 
+Filename: enigma2-plugin-extensions-multistalkerpro_1.0+git16_all.ipk
+Source: enigma2-plugin-extensions-multistalkerpro.bb
+Description: MultiStalker Pro Enigma2 Plugin
+OE: enigma2-plugin-extensions-multistalkerpro
 Homepage: https://github.com/zKhadiri/MultiStalkerPro-releases
 License: Proprietary
-Priority: required
+Priority: optional
 
 Package: enigma2-plugin-extensions-ngsetting
 Version: 1.5
@@ -526,14 +543,14 @@ License: free
 Priority: optional
 
 Package: enigma2-plugin-skins-pdreamy-fhd
-Version: 1.0-r3
+Version: 1.0-r4
 Section: base
 Architecture: all
 Maintainer: willy01
-MD5Sum: 2a5c954dc021b4fef797a262b8eda8c3
-SHA256sum: 4e56dc828fd3df3a253b2b186ce597c7c49d47369db5811a81ecf6ed06376c64
-Size: 1291846
-Filename: enigma2-plugin-skins-pdreamy-fhd_1.0-r3_all.ipk
+MD5Sum: 38c0d76dfc986327bf4e943b985f1792
+SHA256sum: 74918218846f2f2950db34b969d7b78af9dcd40f1fc618681b131a6eac7c520b
+Size: 1291866
+Filename: enigma2-plugin-skins-pdreamy-fhd_1.0-r4_all.ipk
 Source: enigma2-plugin-skins-pdreamy-fhd.bb
 Description: Enigma2 FHD Skin
 OE: enigma2-plugin-skins-pdreamy-fhd
