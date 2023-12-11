@@ -567,7 +567,7 @@ MD5Sum: f9a1e6ee29639d7de49485abc2f5d1b6
 SHA256sum: 25911c1d204ea29102c8090a14d47ced126695961fe5122e4ed3b80b831fb46d
 Size: 11247128
 Filename: enigma2-plugin-skins-fullhdglass17_9.15_all.ipk
-Source: enigma2-plugin-skins-fullhdglass17.ipk.bb
+Source: enigma2-plugin-skins-fullhdglass17.bb
 Description: Enigma2 Full HD Glass 17 Skin
 OE: enigma2-plugin-skins-fullhdglass17
 License: GPL-3.0-only
