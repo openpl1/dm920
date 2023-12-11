@@ -558,6 +558,21 @@ HomePage:
 License: free
 Priority: optional
 
+Package: enigma2-plugin-skins-fullhdglass17
+Version: 9.15
+Section: base
+Architecture: all
+Maintainer: Shamann
+MD5Sum: f9a1e6ee29639d7de49485abc2f5d1b6
+SHA256sum: 25911c1d204ea29102c8090a14d47ced126695961fe5122e4ed3b80b831fb46d
+Size: 11247128
+Filename: enigma2-plugin-skins-fullhdglass17_9.15_all.ipk
+Source: enigma2-plugin-skins-fullhdglass17.ipk.bb
+Description: Enigma2 Full HD Glass 17 Skin
+OE: enigma2-plugin-skins-fullhdglass17
+License: GPL-3.0-only
+Priority: optional
+
 Package: enigma2-plugin-skins-slyk-toppicks
 Version: 6.3.20231109
 Section: misc
@@ -572,6 +587,21 @@ Description: Slyk Top Picks
 OE: enigma2-plugin-skins-slyk-toppicks
 HomePage: https://github.com/kiddac
 License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-skins-whiteshadow-fhd
+Version: 2.00
+Section: base
+Architecture: all
+Maintainer: Sharp987
+MD5Sum: 94985bb45fb6f578288403692cb94ae5
+SHA256sum: e5a19e4e67aa745d65002381a677a62b53786c7dec59d7ee97f4a5643a471162
+Size: 8273388
+Filename: enigma2-plugin-skins-whiteshadow-fhd_2.00_all.ipk
+Source: enigma2-plugin-skins-whiteshadow-fhd.bb
+Description: Enigma2 FHD Skin OpenPLi
+OE: enigma2-plugin-skins-whiteshadow-fhd
+License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autocamsetup
