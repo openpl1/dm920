@@ -416,7 +416,7 @@ Size: 42530
 MD5Sum: b74889c8e9f3e18805a9be76c9489798
 
 Package: enigma2-plugin-extensions-plutotv
-Version: 20231021
+Version: 20231210
 Section: extensions
 Priority: optional
 Architecture: all
@@ -426,9 +426,9 @@ Recommends: enigma2-plugin-systemplugins-serviceapp
 Source: 
 Homepage: 
 License: none
-Filename: enigma2-plugin-extensions-plutotv_20231021_all.ipk
-Size: 507526
-MD5Sum: b28a43e19f768e07ead24802c0fe811b
+Filename: enigma2-plugin-extensions-plutotv_20231210_all.ipk
+Size: 507698
+MD5Sum: e079e460f271378671ef1fdf54197816
 
 Package: enigma2-plugin-extensions-rakutentv
 Version: 20230722
@@ -556,21 +556,6 @@ Description: Enigma2 FHD Skin
 OE: enigma2-plugin-skins-pdreamy-fhd
 HomePage: 
 License: free
-Priority: optional
-
-Package: enigma2-plugin-skins-fullhdglass17
-Version: 9.15
-Section: base
-Architecture: all
-Maintainer: Shamann
-MD5Sum: f9a1e6ee29639d7de49485abc2f5d1b6
-SHA256sum: 25911c1d204ea29102c8090a14d47ced126695961fe5122e4ed3b80b831fb46d
-Size: 11247128
-Filename: enigma2-plugin-skins-fullhdglass17_9.15_all.ipk
-Source: enigma2-plugin-skins-fullhdglass17.bb
-Description: Enigma2 Full HD Glass 17 Skin
-OE: enigma2-plugin-skins-fullhdglass17
-License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-slyk-toppicks
