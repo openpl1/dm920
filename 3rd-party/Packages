@@ -382,19 +382,20 @@ Size: 42530
 MD5Sum: b74889c8e9f3e18805a9be76c9489798
 
 Package: enigma2-plugin-extensions-ngsetting-fhd
-Version: 2.2
+Version: 2.3
 Section: extra
 Priority: optional
 Architecture: all
 Maintainer: m43c0,ftp21, mmark, lululla
-Description: NGsetting - Vhannibal - Il maestro dei setting
+Description: AutoSetting plugin - Vhannibal - Il maestro dei setting
 Source: <m43c0@live.it>
 Homepage: http://www.dream-elite.net
 OE: *
-Filename: enigma2-plugin-extensions-ngsetting-fhd_2.2_all.ipk
-Size: 257180 
-MD5Sum: 6832463643d2df76b470cbcb2c74d12f
-SHA256sum: 4131119b0ce24e18d75cd8c4b369c37bd19f91983a1b011e04e9418547c351ed
+Filename: enigma2-plugin-extensions-ngsetting-fhd_2.3_all.ipk
+Size: 257220
+Depends: python3-requests
+MD5Sum: 055147dde6bb1e103abcea6cceca9c09
+SHA256sum: 81b47b889f3e8c9038c3e70948461d4aa2273fbb7b6bde019561450db4faec5c
 
 Package: enigma2-plugin-extensions-plutotv
 Version: 20231210
