@@ -565,9 +565,9 @@ SHA256sum: e5a19e4e67aa745d65002381a677a62b53786c7dec59d7ee97f4a5643a471162
 Size: 8273388
 Filename: enigma2-plugin-skins-whiteshadow-fhd_2.00_all.ipk
 Source: enigma2-plugin-skins-whiteshadow-fhd.bb
-Description: Enigma2 FHD Skin OpenPLi
+Description: Enigma2 FHD Skin for OpenPLi
 OE: enigma2-plugin-skins-whiteshadow-fhd
-License: GPL-3.0-only
+License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autocamsetup
