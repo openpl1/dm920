@@ -606,7 +606,7 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-blindscan
-Version: git5699
+Version: git5700
 Depends: enigma2-plugins
 Recommends: virtual/blindscan-dvbs
 Section: base
