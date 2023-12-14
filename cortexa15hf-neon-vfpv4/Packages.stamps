@@ -226,9 +226,6 @@
 1702524141 bitratecalc_git14+d0fa3220+d0fa3224e7-r0_cortexa15hf-neon-vfpv4.ipk
 1702524150 bitstream-dbg_1.5+git470+2e7665a0+2e7665ad80-r0_cortexa15hf-neon-vfpv4.ipk
 1702524150 bitstream-dev_1.5+git470+2e7665a0+2e7665ad80-r0_cortexa15hf-neon-vfpv4.ipk
-1702524140 blindscan-s2-dbg_1+git25+28c50c60+28c50c6c37-r0_cortexa15hf-neon-vfpv4.ipk
-1702524140 blindscan-s2-dev_1+git25+28c50c60+28c50c6c37-r0_cortexa15hf-neon-vfpv4.ipk
-1702524140 blindscan-s2_1+git25+28c50c60+28c50c6c37-r0_cortexa15hf-neon-vfpv4.ipk
 1702520453 bluez5-dbg_5.70-r0_cortexa15hf-neon-vfpv4.ipk
 1702520453 bluez5-dev_5.70-r0_cortexa15hf-neon-vfpv4.ipk
 1702520453 bluez5-noinst-tools_5.70-r0_cortexa15hf-neon-vfpv4.ipk
@@ -492,7 +489,6 @@
 1702524151 dosfstools-dev_4.2-r0_cortexa15hf-neon-vfpv4.ipk
 1702524151 dosfstools-doc_4.2-r0_cortexa15hf-neon-vfpv4.ipk
 1702524151 dosfstools_4.2-r0_cortexa15hf-neon-vfpv4.ipk
-1702520442 dreambox-blindscan-utils_1.12-r0_cortexa15hf-neon-vfpv4.ipk
 1702520453 dropbear-dbg_2022.83-r1_cortexa15hf-neon-vfpv4.ipk
 1702520453 dropbear-dev_2022.83-r1_cortexa15hf-neon-vfpv4.ipk
 1702520453 dropbear_2022.83-r1_cortexa15hf-neon-vfpv4.ipk

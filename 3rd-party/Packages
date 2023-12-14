@@ -18,6 +18,23 @@ Filename: directfb_1.7.7-r0_dm920.ipk
 Size: 678700
 MD5Sum: 3ba259337b77ea3592304d593222053e
 
+Package: dreambox-blindscan-utils
+Version: 1.12-r0
+Depends: libc6 (>= 2.38), libncurses5 (>= 6.4), libtinfo5 (>= 6.4)
+Provides: virtual/blindscan-dvbc, virtual/blindscan-dvbs
+Section: base
+Architecture: dm920
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 81359aae4014bc67d1aabceafde75b08
+SHA256sum: c5f81483918a1f63ce863f872b816bf2fda9433ee51907c575d4ffc8d2b6aac1
+Size: 61036
+Filename: dreambox-blindscan-utils_1.12-r0_dm920.ipk
+Source: dreambox-blindscan-utils.bb
+Description: Utilities needed to do transponder blindscan with dreambox dvb receivers
+OE: dreambox-blindscan-utils
+License: CLOSED
+Priority: optional
+
 Package: enigma2-alliance-plugins
 Version: git3522+87d51450+87d5145b06-r0
 Section: base
@@ -586,6 +603,23 @@ Description: Advanced control softcam (support auto-camd)
 OE: enigma2
 Homepage: openpli
 License: GPL-2.0-only
+Priority: optional
+
+Package: enigma2-plugin-systemplugins-blindscan
+Version: y-git5561+2b11c01-r0
+Depends: enigma2-plugins
+Recommends: virtual/blindscan-dvbs
+Section: base
+Architecture: cortexa15hf-neon-vfpv4
+Maintainer: OpenPLi team <info@openpli.org>
+MD5Sum: c3a4f5a941a28711798097fcc7cd3acb
+SHA256sum: 4edddc4b8550eda6577bffb183be16d0c1ade0f318a06debeca45e7c866f5231
+Size: 112226
+Filename: enigma2-plugin-systemplugins-blindscan_y-git5561+2b11c01-r0_cortexa15hf-neon-vfpv4.ipk
+Source: enigma2-plugins.bb
+Description: systemplugins-blindscan
+OE: enigma2-plugins
+License: Proprietary
 Priority: optional
 
 Package: enigma2-plugins-alliance
